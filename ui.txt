@@ -45,7 +45,7 @@ UI/Login/Reminder=Vincula tu cuenta para guardar tu progreso
 UI/Social/Discord=¡Únete a nuestra comunidad de Discord!
 UI/Social/QQ=加入我们的QQ群!
 
-UI/AbandonGame=Abandonar la partida
+UI/AbandonGame=Abandonar el juego
 UI/Reconnecting=Conexión perdida, reconectando...
 
 UI/LevelBar/Level=Nivel {0}
@@ -60,28 +60,28 @@ UI/Scoreboard/HiddenName=Jugador #{0}
 UI/Chat/PromptTap=Toca aqui para chatear
 UI/Chat/PromptClick=Clica aqui para chatear
 UI/Chat/PromptKeyboardOrClick=Presione [ENTER] o haga clic aquí para chatear
-UI/Chat/Player/Block=Bloquear ---
-UI/Chat/Player/ReportMessage=Report message
-UI/Chat/Player/Whisper=Whisper
-UI/Chat/Player/InviteToSquad=Invite to Squad
-UI/Chat/Player/InviteToGuild=Invite to Guild
+UI/Chat/Player/Block=Bloquear
+UI/Chat/Player/ReportMessage=Reportar mensaje
+UI/Chat/Player/Whisper=Susurro
+UI/Chat/Player/InviteToSquad=Invitar al equipo
+UI/Chat/Player/InviteToGuild=Invitar al gremio
 
-UI/Flower/Level=Lvl {0}
+UI/Flower/Level=Nivel {0}
 
 # When you evade damage
-UI/Damage/Evade=Evade
+UI/Damage/Evade=Evadido
 
 # When the target evades damage
-UI/Damage/Miss=Miss
+UI/Damage/Miss=Eludido
 
-UI/Death/Title=You were destroyed by:
-UI/Death/NoSource=A mysterious entity
-UI/Death/Continue=Continue
-UI/Death/Close=Close
-UI/Death/CollectedThisRun=Collected this run
+UI/Death/Title=Fuiste destruido por:
+UI/Death/NoSource=Una entidad misteriosa
+UI/Death/Continue=Continuar
+UI/Death/Close=Cerrar
+UI/Death/CollectedThisRun=Recogído en esta partida
 
-UI/AFKCheck/Title=AFK Check
-UI/AFKCheck/Instructions=Drag the circle until the end
+UI/AFKCheck/Title=Cheque de AFK
+UI/AFKCheck/Instructions=Arrastra el circulo hasta el final
 
 UI/Achievements/Title=Achievements
 UI/Achievements/Reward=Reward

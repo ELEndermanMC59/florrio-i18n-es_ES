@@ -198,71 +198,71 @@ UI/Talent/Tooltip=Puedes obtener mas TP al subir de niveles
 UI/Talent/Reset=Resetear
 UI/Talent/HoldToUpgrade=MANTENER para mejorar
 
-UI/Craft/Title=Craftear
-UI/Craft/Button=Craftear
+UI/Craft/Title=Fabricación
+UI/Craft/Button=Fabricar
 UI/Craft/Chance={0:perc}% probabilidad de éxito
 UI/Craft/UnknownChance=?% probabilidad de éxito
-UI/Craft/CombineInstructions=Combina {0} del mismo pétalo para craftear una mejora
+UI/Craft/CombineInstructions=Combina {0} del mismo pétalo para fabricar una mejora
 UI/Craft/FailureInstructions=El fracaso destruirá {0}-{1} pétalos
 
-UI/Absorb/Title=Absorbir
-UI/Absorb/Button=Absorbir
-UI/Absorb/Instructions=Absorbe pétalos para ganar XP<n/><c val="{#Colors/danger}">CUIDADO: Los pétalos van a ser destruidos en el proceso</c>
+UI/Absorb/Title=Absorber
+UI/Absorb/Button=Absorber
+UI/Absorb/Instructions=Absorbe pétalos para ganar XP<n/><c val="{#Colors/danger}">ATENCIÓN: Los pétalos van a ser destruidos en el proceso</c>
 
 UI/CoinCraft/Title=Comerciar
 UI/CoinCraft/Button=Comerciar
 UI/CoinCraft/Instructions=Puedes intercambiar un pétalo por una moneda de la misma raridad.
 UI/CoinCraft/Delay=Podrás volver a comerciar en {0:time}
 
-UI/OracleCraft/Title=Oracle
-UI/OracleCraft/Button=Craft
-UI/OracleCraft/Instructions=The Oracle will guarantee a craft... for the right price.
-UI/OracleCraft/Delay=You'll be able to craft again in {0:time}
+UI/OracleCraft/Title=Oraculo
+UI/OracleCraft/Button=Fabricar
+UI/OracleCraft/Instructions=El Oraculo va a garantizar una fabricación... por el precio correcto.
+UI/OracleCraft/Delay=Podrás volver a fabricar en {0:time}
 
 UI/Plinko/Title=Plinko
 UI/Plinko/Auto=Auto
 
-UI/UniqueCraft/Title=Forge
-UI/UniqueCraft/Button=Forge
-UI/UniqueCraft/Instructions=Unique petals will last until another player forges the same petal.<n/>When that happens, you will receive your Super petals back.<n/>The cost increases each time that petal is forged.
-UI/UniqueCraft/NoSupers=You do not have any Super petals to attempt this.
+UI/UniqueCraft/Title=Forjacion
+UI/UniqueCraft/Button=Forjar
+UI/UniqueCraft/Instructions=Los pétalos Únicos durarán hasta que otro jugador forje el mismo pétalo.<n/>Cuando eso suceda, recibirás de vuelta tus Súper pétalos.<n/>El costo aumenta cada vez que ese pétalo es forjado.
+UI/UniqueCraft/NoSupers=No tienes ningún Súper pétalo para intentar esto.
 
-UI/Death/Poison=Poison
+UI/Death/Poison=Veneno
 
-UI/Settings/Title=Settings
-UI/Settings/Game=Game
-UI/Settings/Graphics=Graphics
-UI/Settings/Controls=Controls
-UI/Settings/Credits=Credits
+UI/Settings/Title=Configuraciones
+UI/Settings/Game=Juego
+UI/Settings/Graphics=Graficos
+UI/Settings/Controls=Controles
+UI/Settings/Credits=Creditos
 
-UI/Settings/Language=Language
-UI/Settings/Language/Warning=NOTE: will only take effect after game is restarted
-UI/Settings/Language/Automatic=Automatic
+UI/Settings/Language=Lenguaje
+UI/Settings/Language/Warning=NOTA: solo tendrá efecto después que reinicies el juego
+UI/Settings/Language/Automatic=Automatico
 
-UI/Settings/Realm=Realm
+UI/Settings/Realm=Reino
 UI/Settings/Realms={#UI/Settings/Realms/{0}}
-UI/Settings/Realms/0=Automatic
+UI/Settings/Realms/0=Automatico
 UI/Settings/Realms/1=Juliett (US)
 UI/Settings/Realms/2=Romeo (EU)
 UI/Settings/Realms/3=Sierra (ASIA)
 
 UI/Settings/Chat=Chat
-UI/Settings/ChatWhispers=Chat Whispers
+UI/Settings/ChatWhispers=Susurros de chat
 
-UI/Settings/AutoJoinSquads=Auto-join squads
+UI/Settings/AutoJoinSquads=Auto-unir equipos
 
-UI/Settings/HideOtherPetals=Hide other petals
+UI/Settings/HideOtherPetals=Esconder pètalos de otros
 
-UI/Settings/EquipDrops=Equip drops
+UI/Settings/EquipDrops=Equipar botín
 
-UI/Settings/Quality=Quality
-UI/Settings/Quality/Low=Low
-UI/Settings/Quality/Medium=Medium
-UI/Settings/Quality/High=High
+UI/Settings/Quality=Calidad
+UI/Settings/Quality/Low=Baja
+UI/Settings/Quality/Medium=Promedia
+UI/Settings/Quality/High=Alta
 
-UI/Settings/ShowDamageNumbers=Show damage numbers
+UI/Settings/ShowDamageNumbers=Mostrar números de daño
 
-UI/Settings/ScreenShake=Screen shake
+UI/Settings/ScreenShake=Temblor de pantalla
 
 UI/Settings/LiveIcons=Live icons
 

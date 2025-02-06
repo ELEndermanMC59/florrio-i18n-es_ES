@@ -198,21 +198,21 @@ UI/Talent/Tooltip=Puedes obtener mas TP al subir de niveles
 UI/Talent/Reset=Resetear
 UI/Talent/HoldToUpgrade=MANTENER para mejorar
 
-UI/Craft/Title=Craft
-UI/Craft/Button=Craft
-UI/Craft/Chance={0:perc}% success chance
-UI/Craft/UnknownChance=?% success chance
-UI/Craft/CombineInstructions=Combine {0} of the same petal to craft an upgrade
-UI/Craft/FailureInstructions=Failure will destroy {0}-{1} petals
+UI/Craft/Title=Craftear
+UI/Craft/Button=Craftear
+UI/Craft/Chance={0:perc}% probabilidad de éxito
+UI/Craft/UnknownChance=?% probabilidad de éxito
+UI/Craft/CombineInstructions=Combina {0} del mismo pétalo para craftear una mejora
+UI/Craft/FailureInstructions=El fracaso destruirá {0}-{1} pétalos
 
-UI/Absorb/Title=Absorb
-UI/Absorb/Button=Absorb
-UI/Absorb/Instructions=Absorb petals to gain XP<n/><c val="{#Colors/danger}">WARNING: The petals will be destroyed in the process</c>
+UI/Absorb/Title=Absorbir
+UI/Absorb/Button=Absorbir
+UI/Absorb/Instructions=Absorbe pétalos para ganar XP<n/><c val="{#Colors/danger}">CUIDADO: Los pétalos van a ser destruidos en el proceso</c>
 
-UI/CoinCraft/Title=Trade
-UI/CoinCraft/Button=Trade
-UI/CoinCraft/Instructions=You can trade a petal for a coin of the same rarity
-UI/CoinCraft/Delay=You'll be able to trade again in {0:time}
+UI/CoinCraft/Title=Comerciar
+UI/CoinCraft/Button=Comerciar
+UI/CoinCraft/Instructions=Puedes intercambiar un pétalo por una moneda de la misma raridad.
+UI/CoinCraft/Delay=Podrás volver a comerciar en {0:time}
 
 UI/OracleCraft/Title=Oracle
 UI/OracleCraft/Button=Craft

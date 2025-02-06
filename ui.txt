@@ -216,7 +216,7 @@ UI/CoinCraft/Delay=Podrás volver a comerciar en {0:time}
 
 UI/OracleCraft/Title=Oraculo
 UI/OracleCraft/Button=Fabricar
-UI/OracleCraft/Instructions=El Oraculo va a garantizar una fabricación... por el precio correcto.
+UI/OracleCraft/Instructions=El Oraculo va a garantizar la fabricación... por el precio correcto.
 UI/OracleCraft/Delay=Podrás volver a fabricar en {0:time}
 
 UI/Plinko/Title=Plinko
@@ -268,25 +268,25 @@ UI/Settings/LiveIcons=Iconos animados
 
 UI/Settings/TouchControls=Controles de toque
 
-UI/Settings/KeyboardMovement=Keyboard movement
+UI/Settings/KeyboardMovement=Movimiento con teclado
 
-UI/Settings/MovementHelper=Movement helper
+UI/Settings/MovementHelper=Ayudante de movimiento
 
-UI/Settings/AutoSearchPetals=Search petals when opening inventory
+UI/Settings/AutoSearchPetals=Buscar pètalos al momento de abrir el inventario
 
-UI/Settings/FixedJoystick=Fixed joystick
+UI/Settings/FixedJoystick=Joystick fijo
 
-UI/Settings/AutoSaveLoadout=Auto-save loadout
+UI/Settings/AutoSaveLoadout=Auto-salvar carga
 
-UI/Settings/PrivacyPolicy=Privacy Policy
-UI/Settings/TermsOfService=Terms of Service
+UI/Settings/PrivacyPolicy=Política de privacidad
+UI/Settings/TermsOfService=Condiciones de servicio
 
-UI/Credits/MadeBy=Made by {0}
-UI/Credits/SomeIcons=Some icons from {0}
-UI/Credits/SomeTiles=Some tiles from {0}
-UI/Credits/SpecialThanks=Special Thanks
-UI/Credits/Translators=Translators
+UI/Credits/MadeBy=Creado por {0}
+UI/Credits/SomeIcons=Algunos iconos de {0}
+UI/Credits/SomeTiles=Algunas baldosas de {0}
+UI/Credits/SpecialThanks=Agradecimientos Especiales
+UI/Credits/Translators=Traductores
 
 # The little arrows around dead flowers
-UI/HelperText/Guild=Guild
-UI/HelperText/Squad=Squad
+UI/HelperText/Guild=Gremio
+UI/HelperText/Squad=Equipo

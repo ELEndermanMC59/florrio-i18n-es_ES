@@ -1,4 +1,4 @@
-UI/Language/Name=Español (Spain)
+UI/Language/Name=Español (España)
 # These are the translators that worked on this translation. Separate with <n/>
 UI/Language/Credits=ELEndermanMC
 
@@ -203,7 +203,7 @@ UI/Craft/Button=Fabricar
 UI/Craft/Chance={0:perc}% probabilidad de éxito
 UI/Craft/UnknownChance=?% probabilidad de éxito
 UI/Craft/CombineInstructions=Combina {0} del mismo pétalo para fabricar una mejora
-UI/Craft/FailureInstructions=El fracaso destruirá {0}-{1} pétalos
+UI/Craft/FailureInstructions=Fracaso destruirá {0}-{1} pétalos
 
 UI/Absorb/Title=Absorber
 UI/Absorb/Button=Absorber
@@ -264,9 +264,9 @@ UI/Settings/ShowDamageNumbers=Mostrar números de daño
 
 UI/Settings/ScreenShake=Temblor de pantalla
 
-UI/Settings/LiveIcons=Live icons
+UI/Settings/LiveIcons=Iconos animados
 
-UI/Settings/TouchControls=Touch controls
+UI/Settings/TouchControls=Controles de toque
 
 UI/Settings/KeyboardMovement=Keyboard movement
 

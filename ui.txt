@@ -170,6 +170,19 @@ UI/DailyChallenge/TimeLeft=Desafíos van a cambiar en {0:time}
 UI/DailyChallenge/Claimed=Reclamado
 UI/DailyChallenge/SupportersOnly=Desafío disponible<n/>solo para seguidores.
 
+UI/Bonus/Title=Bonus
+UI/Bonus/Button=Bonus
+UI/Bonus/Instructions=Earn bonus drops
+UI/Bonus/Instructions2=For the first hour you play each day, you get extra drops.
+UI/Bonus/Pill/Label={0}x
+UI/Bonus/Delay=You can activate your bonus again in {0:time}.
+UI/Bonus/CurrentlyActive=Your bonus is active for {0:time}.
+UI/Bonus/Available=You can activate your bonus now. It will last {0:time}.
+UI/Bonus/AvailableExpiration=If you do not activate your bonus, it will reset in {0:time}.
+UI/Bonus/AutoDelay=Your bonus will activate again in {0:time}.
+UI/Bonus/Activate=Activate
+UI/Bonus/Activate/Setting=Activate automatically
+
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/SortName={#Petals/{0:base}/Name}
 UI/Petal/FullName={#Petals/{0:base}/FullName}
@@ -189,6 +202,7 @@ UI/Achievements/Name={#Achievements/{0}/Name:1-}
 UI/Achievements/SortName={#Achievements/{0}/Name:1-}
 UI/Achievements/Description={#Achievements/{0}/Description:1-}
 UI/Achievements/ExtraDescription={#Achievements/{0}/ExtraDescription:1-}
+UI/Achievements/Rarity={#UI/Petal/Rarity}
 
 UI/Talent/Title=Talentos
 UI/Talent/Name={#Talents/{0}/Name:1-}
@@ -278,6 +292,7 @@ UI/Settings/AutoSearchPetals=Buscar pètalos al momento de abrir el inventario
 UI/Settings/FixedJoystick=Joystick fijo
 
 UI/Settings/AutoSaveLoadout=Auto-salvar carga
+UI/Settings/AutoSaveLoadout/Help=If disabled, press [O] to save current loadout
 
 UI/Settings/PrivacyPolicy=Política de privacidad
 UI/Settings/TermsOfService=Condiciones de servicio

@@ -291,8 +291,8 @@ UI/Settings/AutoSearchPetals=Buscar pètalos al momento de abrir el inventario
 
 UI/Settings/FixedJoystick=Joystick fijo
 
-UI/Settings/AutoSaveLoadout=Auto-salvar carga
-UI/Settings/AutoSaveLoadout/Help=If disabled, press [O] to save current loadout
+UI/Settings/AutoSaveLoadout=Auto-salvar equipamiento
+UI/Settings/AutoSaveLoadout/Help=Si está desactivado, presione [O] para guardar el equipamiento actual.
 
 UI/Settings/PrivacyPolicy=Política de privacidad
 UI/Settings/TermsOfService=Condiciones de servicio

@@ -385,3 +385,7 @@ Petals/mjolnir/unique/Description=Solo el martillo más poderoso del universo.
 Petals/mecha_missile/Name=Misil
 Petals/mecha_missile/FullName=Misil Mecánico
 Petals/mecha_missile/Description=Bloqueado.
+
+Petals/wax/Name=Wax
+Petals/wax/FullName=Wax
+Petals/wax/Description=Don't ask where it came from.

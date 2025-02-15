@@ -104,6 +104,7 @@ UI/Inventory/Title=Inventario
 UI/Inventory/Stack=Apilar
 UI/Inventory/Instructions=Arrastra un petalo para equiparlo
 UI/Inventory/Speed=Velocidad
+UI/Inventory/Rarity={#UI/Petal/Rarity}
 
 UI/Guild/Title=Gremio
 UI/Guild/NoGuild=Tu no tienes un gremio aún

@@ -119,7 +119,7 @@ Petals/yggdrasil/FullName=Yggdrasil
 Petals/yggdrasil/Description=Una hoja seca del árbol Yggdrasil.<n/>Se rumorea que puede devolver la vida a los caídos.
 
 Petals/starfish/Name=Estrella
-Petals/starfish/FullName=Estrella de mar
+Petals/starfish/FullName=Estrella de Mar
 Petals/starfish/Description=Aumenta la regeneración mientras que la vida está por debajo del 75%.
 
 Petals/pearl/Name=Perla

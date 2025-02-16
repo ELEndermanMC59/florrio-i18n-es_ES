@@ -1,7 +1,7 @@
 UI/Chat/CommandHelp=/{0} {#Chat/Command/{0}/Args} - {#Chat/Command/{0}/Description}
 
 Chat/Command/help/Args=[cmd]
-Chat/Command/help/Description=Enlistar todos los comandos o enlistar ayuda para un comando específico
+Chat/Command/help/Description=Enlista todos los comandos o enlista ayuda para un comando específico
 
 Chat/Command/guild/Args=<mensaje>
 Chat/Command/guild/Description=Envía un mensaje sólo a otros miembros del gremio

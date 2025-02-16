@@ -16,10 +16,10 @@
 	- Aggressive and semi-aggressive mobs will run away if attacked by an entity that it can't attack back (behind wall, underground, etc).
 	- Some death ui improvements.
 
-25 de diciembre de 2024
+25 de Diciembre de 2024
 	- As a little throwback, for a few days the Garden map will be something that might seem a little familiar.
 
-16 de diciembre de 2024
+16 de Diciembre de 2024
 	- Mana gain & cost have been reworked to scale at higher rarities.
 
 5 de Diciembre de 2024
@@ -87,22 +87,22 @@
 	- Approximately doubled Ultra (but not Super) mob drops.
 	- Ultra+ spawn frequency is back to before the Dec 25th update.
 
-30 de diciembre de 2023
+30 de Diciembre de 2023
 	- Doubled most Ultra+ mobs HP.
 
-29 de diciembre de 2023
+29 de Diciembre de 2023
 	- We've added some basic guild functionality, to be expanded soon. It's currently only accessible through chat commands.
 
-25 de diciembre de 2023
+25 de Diciembre de 2023
 	- Ultras should now respawn twice as fast. Super chance halved so it should result in about the same frequency as before.
 
-13 de diciembre de 2023
+13 de Diciembre de 2023
 	- Non-passive petals are now disabled in Centralia and Ellne to prevent lag.
 
-9 de diciembre de 2023
+9 de Diciembre de 2023
 	- XP required to level up is now a more round number. This might make some players gain or lose levels as they will have been recalculated.
 
-8 de diciembre de 2023
+8 de Diciembre de 2023
 	- Skills are now called Talents.
 	- Re-enabled Luck talent.
 	- Talents can no longer be reset by sacrificing levels.

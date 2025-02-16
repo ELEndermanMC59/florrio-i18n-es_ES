@@ -1,4 +1,4 @@
-UI/Language/Name=Español (España)
+UI/Language/Name=Español
 # These are the translators that worked on this translation. Separate with <n/>
 UI/Language/Credits=ELEndermanMC
 

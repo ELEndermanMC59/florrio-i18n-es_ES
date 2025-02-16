@@ -54,12 +54,12 @@ Petals/pollen/Name=Polen
 Petals/pollen/FullName=Polen
 Petals/pollen/Description=Cuidado con los asmáticos.
 
-Petals/dandelion/Name=Diente de león
-Petals/dandelion/FullName=Diente de león
+Petals/dandelion/Name=Diente de León
+Petals/dandelion/FullName=Diente de León
 Petals/dandelion/Description=Sus interesantes propiedades inhiben los efectos curativos en las unidades afectadas.<n/>Las unidades afectadas tienen su curación reducida en un 20%. Se acumula consigo mismo.
 
 Petals/beetle_egg/Name=Huevo
-Petals/beetle_egg/FullName=Huevo de escarabajo
+Petals/beetle_egg/FullName=Huevo de Escarabajo
 Petals/beetle_egg/Description=Algo interesante podría salir de esto.
 
 Petals/antennae/Name=Antenas
@@ -118,7 +118,7 @@ Petals/yggdrasil/Name=Yggdrasil
 Petals/yggdrasil/FullName=Yggdrasil
 Petals/yggdrasil/Description=Una hoja seca del árbol Yggdrasil.<n/>Se rumorea que puede devolver la vida a los caídos.
 
-Petals/starfish/Name=Estrella de mar
+Petals/starfish/Name=Estrella
 Petals/starfish/FullName=Estrella de mar
 Petals/starfish/Description=Aumenta la regeneración mientras que la vida está por debajo del 75%.
 
@@ -207,7 +207,7 @@ Petals/poo/FullName=Caca
 Petals/poo/Description=Hace que sea menos probable que las creaturas quieran atacarte.
 
 Petals/relic/Name=Reliquia
-Petals/relic/FullName=Reliquia misteriosa
+Petals/relic/FullName=Reliquia Misteriosa
 Petals/relic/Description=Una extraña reliquia. Aumenta significativamente la vida máxima.<n/>El daños recibidos se propaga entre otros usuarios.
 
 Petals/lotus/Name=Loto
@@ -267,7 +267,7 @@ Petals/dice/FullName=Dado
 Petals/dice/Description=Tiene un 5% de probabilidad de infligir 35 veces el daño.<n/>La probabilidad aumenta de un 4% por punto de suerte.
 
 Petals/talisman/Name=Talismán
-Petals/talisman/FullName=Talismán de evasión
+Petals/talisman/FullName=Talismán de Evasión
 Petals/talisman/Description=Un collar que permite al usuario anticipar los ataques enemigos.
 
 Petals/battery/Name=Batería
@@ -295,7 +295,7 @@ Petals/coin/FullName=Moneda
 Petals/coin/Description=¡El poder del capitalismo te obliga!
 
 Petals/chip/Name=Ficha
-Petals/chip/FullName=Ficha de póquer
+Petals/chip/FullName=Ficha de Póquer
 Petals/chip/Description=APOSTARLO TODO.
 
 Petals/card/Name=Naipe
@@ -319,7 +319,7 @@ Petals/corruption/FullName=Corrupción
 Petals/corruption/Description=Corrompe el alma de uno, volviéndolo en contra de su propia especie.
 
 Petals/orb/Name=Orbe
-Petals/orb/FullName=Orbe de maná
+Petals/orb/FullName=Orbe de Maná
 Petals/orb/Description=Crea maná.
 
 Petals/blueberries/Name=Arándanos

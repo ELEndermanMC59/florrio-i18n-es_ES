@@ -107,7 +107,7 @@ Talents/medic8/Name={#Talents/medic/Name}
 Talents/medic8/Description={#Talents/medic/Description}
 
 Talents/summoner/Name=Invocador
-Talents/summoner/Description=Incrementa la {#Mob/Attribute/HealthNoColon} de creaturas invocadas de un {0:perc}%.
+Talents/summoner/Description=Incrementa la {#Mob/Attribute/HealthNoColon} de criaturas invocadas de un {0:perc}%.
 
 Talents/summoner1/Name={#Talents/summoner/Name}
 Talents/summoner1/Description={#Talents/summoner/Description}

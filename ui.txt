@@ -19,7 +19,7 @@ UI/Title/Name/AlreadyTaken=Apodo ya en uso.
 UI/Title/Name/InternalError=Error interno, intentalo mas tarde.
 
 UI/Title/Biome={#UI/Title/Biome/{0}}
-UI/Title/Biome/0=Jardin
+UI/Title/Biome/0=Jardín
 UI/Title/Biome/1=Desierto
 UI/Title/Biome/2=Oceano
 UI/Title/Biome/3=Jungla

@@ -66,6 +66,9 @@ Chat/Command/unblock/Description=Desbloquea a alguien de tu lista de bloqueados
 Chat/Command/unblock-all/Args=
 Chat/Command/unblock-all/Description=Desbloquea a todos en tu lista de bloqueados
 
+Chat/Command/rot-speed/Args=<valor>
+Chat/Command/rot-speed/Description=Establece la velocidad de rotación de pétalos, de 0.0 a 1.0
+
 Chat/Command/print-players/Args=
 Chat/Command/print-players/Description=Muestra la identificación de cuenta de los jugadores cerca de usted
 

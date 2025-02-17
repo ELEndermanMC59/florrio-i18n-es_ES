@@ -10,7 +10,7 @@ Maps/battle_ground/Name=Campo de Batalla
 
 Maps/desert/Name=Desierto
 
-Maps/garden/Name=Jardin
+Maps/garden/Name=Jardín
 
 Maps/hel/Name=Hel
 

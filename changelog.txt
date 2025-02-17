@@ -2,90 +2,90 @@
 # Date on a line by itself, then all entries for that date are prefixed by a TAB character.
 
 6 de Febrero de 2025
-	- Eggs now only spawn mobs when they break.
-	- Sandstorm now phases through non-flower entities (still deals damage normally).
+	- Los huevos ahora solo engendran criaturas cuando se rompen.
+	- La Tormenta de Arena ahora pasa a través de entidades que no son flores (todavía causa daño normalmente).
 
 16 de Enero de 2025
-	- Mobile now has loadouts. Hold X and you can switch loadouts by tapping the secondary petal slots. Each loadout uses the first petal in the loadout as its icon.
-	- Loading a loadout on a keyboard is done by holding L+number, or K+number for the second set of loadouts.
-	- Changed default behavior of when loadouts are saved. With auto-save enabled, they'll be saved whenever switching loadouts. If disabled, you'll need to press O to save the current loadout.
+	- Móvil ahora tiene equipamiento. Mantenga presionado X y puede cambiar el equipamiento tocando las ranuras de pétalos secundarios. Cada equipamiento utiliza el primer pétalo del equipamiento como su icono.
+	- La carga de una equipamiento en un teclado se realiza manteniendo presionado L+número, o K+número para el segundo conjunto de equipamientos.
+	- Se cambió el comportamiento predeterminado de cuándo se guardan los equipamientos. Con el guardado automático habilitado, se guardarán cada vez que se cambien los equipamientos. Si está deshabilitado, deberá presionar O para guardar el equipamiento actual.
 
 9 de Enero de 2025
-	- Slows have been reworked. Now their effectiveness will depend on mob vs petal rarity.
-	- Yggdrasil now applies a 30s cooldown on the revived flower, preventing it from being revived again during that time.
-	- Aggressive and semi-aggressive mobs will run away if attacked by an entity that it can't attack back (behind wall, underground, etc).
-	- Some death ui improvements.
+	- Los ralentizadores han sido reelaboradas. Ahora su efectividad dependerá de la criatura vs la rareza de el pétalo.
+	- Yggdrasil ahora aplica un de reutilización de 30s a la flor revivida, evitando que se reviva de nuevo durante ese tiempo.
+	- Las criaturas agresivas y semiagresivas huirán si son atacadas por una entidad que no puede contraatacar (detrás de una pared, bajo tierra, etc.).
+	- Algunas mejoras en la interfaz de usuario de muerte.
 
 25 de Diciembre de 2024
-	- As a little throwback, for a few days the Garden map will be something that might seem a little familiar.
+	- Como un pequeño retroceso, durante unos días el mapa del jardín será algo que podría parecer un poco familiar.
 
 16 de Diciembre de 2024
-	- Mana gain & cost have been reworked to scale at higher rarities.
+	- La ganancia y el costo de maná se han reelaborado para escalar en rarezas más altas.
 
 5 de Diciembre de 2024
-	- A few more petals got added and stuff.
+	- Se añadieron algunos pétalos más y esas cosas.
 
 2 de Junio de 2024
-	- Talents can now be reset for free an unlimited amount of times without delay.
+	- Los talentos ahora se pueden restablecer de forma gratuita una cantidad ilimitada de veces sin demora.
 
 30 de Mayo de 2024
-	- You can now precisely control how fast/slow you want petals to rotate. Slowest is 30% of maximum speed.
+	- Ahora puedes controlar con precisión qué tan rápido/lento quieres que giren los pétalos. Lo más lento es el 30% de la velocidad máxima.
 
 22 de Mayo de 2024
-	- Respawning now clears damage credit dealt to mobs for the purposes of looting. This does not apply to getting revived.
-	- Crafting talents have been removed.
+	- La reaparición ahora borra el crédito de daños conferido a las criaturas con fines de saqueo. Esto no se aplica a ser revivido.
+	- Se han eliminado los talentos de Fabricación.
 
 11 de Mayo de 2024
-	- Some changes were made on how achievements are stored, that means a couple of achievements will have been reset. However, because of these changes, now it's guaranteed that once you've completed an achievement, it'll be kept completed even if its requirements change.
+	- Se hicieron algunos cambios en la forma en que se almacenan los logros, lo que significa que se habrán restablecido un par de logros. Sin embargo, debido a estos cambios, ahora está garantizado que una vez que haya completado un logro, se mantendrá completado incluso si sus requisitos cambian.
 
 8 de Mayo de 2024
-	- Level requirements have been doubled, that means your level should likely have been cut in half.
-	- Added achievements. They provide TP which will replace the ones lost from the levels you lost.
-	- More achievements will be added soon.
+	- Los requisitos de nivel se han duplicado, lo que significa que su nivel probablemente debería haberse reducido a la mitad.
+	- Logros añadidos. Proporcionan TP que reemplazará a los perdidos de los niveles que perdiste.
+	- Pronto se añadirán más logros.
 
 21 de Abril de 2024
-	- Absorbing has been removed.
-	- Salvaging talent has been removed.
+	- Se ha eliminado la absorción.
+	- Se ha eliminado el talento de rescate.
 
 20 de Abril de 2024
-	- Destroying mobs now awards experience.
-	- The ability to absorb petals will be removed in a future update.
+	- Destruyendo criaturas ahora premia con experiencia.
+	- La capacidad de absorber pétalos se eliminará en una futura actualización.
 
 12 de Abril de 2024
-	- Adjusted drop rates for ultra+ mobs.
-	- Some small map changes.
+	- Tasas de caída ajustadas para criaturas ultra+.
+	- Algunos pequeños cambios en el mapa.
 
 3 de Abril de 2024
-	- We've added daily challenges. You will now need to destroy specific mobs each day to earn stars.
-	- Stars are no longer granted passively as you play.
+	- Hemos añadido desafíos diarios. Ahora tendrás que destruir criaturas específicas cada día para ganar estrellas.
+	- Las estrellas ya no se otorgan pasivamente mientras juegas.
 
 1 de Abril de 2024
-	- Ads are now disabled for everyone. You will still earn stars as if you had watched them.
+	- Los anuncios ahora están desactivados para todos. Todavía ganarás estrellas como si los hubieras visto.
 
 17 de Enero de 2024
-	- Crafting talents are now cheaper.
-	- Talent reset delay now depends on the player level (2 + level/3).
-	- Everyone's talent reset cooldown has been reset.
+	- Los talentos de Fabricación ahora son más baratos.
+	- El retraso en el reseteo de talentos ahora depende del nivel del jugador (2 + nivel/3).
+	- Se ha restablecido el tiempo de reutilización de talentos de todos.
 
 14 de Enero de 2024
-	- Changed keys to save/restore loadouts. L+Number loads a specific loadout, and L+Shift+Number saves the current loadout.
+	- Se cambiaron las teclas para guardar/restaurar los equipamientos. L+Número carga un equipamiento específico, y L+Shift+Número guarda el equipamiento actual.
 
 11 de Enero de 2024
-	- Re-enabled player collisions in most cases.
+	- Se volvio a habilitar las colisiones de jugadores en la mayoría de los casos.
 
 5 de Enero de 2024
-	- Ultras can now spawn anywhere other mobs can (much more likely in high rarity zones). There can still only be one Ultra of each type at a time in the realm. There's still a global per-realm timer that prevents them from respawning too often.
-	- Super mobs are no longer more likely to spawn the longer an Ultra mob has gone unkilled.
-	- Poison from different players against the same mob now stack.
+	- Los Ultras ahora pueden aparecer en cualquier lugar donde puedan otras criaturas (lo más probable es que en zonas de alta rareza). Todavía solo puede haber un Ultra de cada tipo a la vez en el reino. Todavía hay un temporizador global por reino que evita que reaparezcan con demasiada frecuencia.
+	- Las Súper criaturas ya no tienen más probabilidades de aparecer cuanto más tiempo pasa sin que se elimine una Ultra criatura.
+	- Veneno de diferentes jugadores contra la misma criatura ahora se apila.
 
 4 de Enero de 2024
-	- Early-mid game progression has been adjusted significantly.
-	- Mythic- mobs should respawn a bit faster now. This should mostly affect areas that were full of players hunting them.
-	- Mobs missile health now scale like petal health instead of mob health. Their base health has been buffed to compensate.
+	- La progresión temprana-mediada del juego se ha ajustado significativamente.
+	- Las criaturas Míticas- deberían reaparecer un poco más rápido ahora. Esto debería afectar principalmente a las áreas que estaban llenas de jugadores que los cazaban.
+	- La vida de los misiles de las criaturas ahora escala como la vida de los pétalos en lugar de la vida de la criatura. Su vida base ha sido incrementada para compensar.
 
 1 de Enero de 2024
-	- Approximately doubled Ultra (but not Super) mob drops.
-	- Ultra+ spawn frequency is back to before the Dec 25th update.
+	- Aproximadamente se duplico las caídas de las Ultra criaturas (pero no Súper).
+	- La frecuencia de generación de Ultra+ ha vuelto a antes de la actualización del 25 de Diciembre.
 
 30 de Diciembre de 2023
 	- Doubled most Ultra+ mobs HP.

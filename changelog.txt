@@ -88,120 +88,120 @@
 	- La frecuencia de generación de Ultra+ ha vuelto a antes de la actualización del 25 de Diciembre.
 
 30 de Diciembre de 2023
-	- Doubled most Ultra+ mobs HP.
+	- Se duplicó la vida de la mayoría de las criaturas Ultra+.
 
 29 de Diciembre de 2023
-	- We've added some basic guild functionality, to be expanded soon. It's currently only accessible through chat commands.
+	- Hemos añadido algunas funcionalidades básicas del gremio, que se expandera pronto. Actualmente solo se puede acceder a él a través de comandos de chat.
 
 25 de Diciembre de 2023
-	- Ultras should now respawn twice as fast. Super chance halved so it should result in about the same frequency as before.
+	- Los Ultras ahora deberían reaparecer el doble de rápido. Probabilidad de Súpers reducida a la mitad, por lo que debería resultar en aproximadamente la misma frecuencia que antes.
 
 13 de Diciembre de 2023
-	- Non-passive petals are now disabled in Centralia and Ellne to prevent lag.
+	- Los pétalos no pasivos ahora están desactivados en Centralia y Ellne para evitar lag.
 
 9 de Diciembre de 2023
-	- XP required to level up is now a more round number. This might make some players gain or lose levels as they will have been recalculated.
+	- XP requerido para subir de nivel es ahora un número más redondo. Esto podría hacer que algunos jugadores ganen o pierdan niveles, ya que habrán sido recalculados.
 
 8 de Diciembre de 2023
-	- Skills are now called Talents.
-	- Re-enabled Luck talent.
-	- Talents can no longer be reset by sacrificing levels.
-	- Talents can now be reset for free every 30 days.
+	- Habilidades ahora se llaman Talentos.
+	- Talento de suerte añadido nuevamente.
+	- Los talentos ya no se pueden restablecer sacrificando niveles.
+	- Los talentos ahora se pueden restablecer de forma gratuita cada 30 días.
 
 2 de Diciembre de 2023
-	- We're adjusting the prices of some petals in the shop to account for their rarity properly. For the time being we're setting a 50% discount on everything.
+	- Estamos ajustando los precios de algunos pétalos en la tienda para contabilizar adecuadamente su rareza. Por el momento, estamos estableciendo un 50% de descuento en todo.
 
 3 de Julio de 2023
-	- Supers are now more likely to spawn for mobs whose ultras aren't destroyed very often.
+	- Ahora es más probable que los Súpers aparezcan para las criaturas cuyos ultras no se destruyen muy a menudo.
 
 27 de Junio de 2023
-	- We're slowly adding special moves to every Ultra+ mob. So far, Sandstorm and Shell got new moves, and more to come.
+	- Poco a poco estamos añadiendo movimientos especiales a cada criatura Ultra+. Hasta ahora, Tormenta de Arena y Concha tienen nuevos movimientos, y más por venir.
 
 9 de Mayo de 2023
-	- Buffed healing by 50% (now it's about -25% from before May 1st).
-	- Ultra/Super healing & health petals now scale a bit less.
+	- Curación incrementada en un 50% (ahora es alrededor del -25% desde antes del 1 de mayo).
+	- Los pétalos de curación Ultra/Súper y vida ahora escalan un poco menos.
 
 3 de Mayo de 2023
-	- Ultras now spawn about 10x more frequently, with 3-4x lower drop rate.
+	- Los Ultras ahora aparecen unas 10 veces más con más frecuencia, con una tasa de caída 3-4 veces menor.
 
 1 de Mayo de 2023
-	- The map now has a couple new areas to explore! It's still a work in progress, some more areas coming eventually.
-	- All healing has been nerfed by 50%.
-	- Some other changes I forgor.
+	- ¡El mapa ahora tiene un par de nuevas áreas para explorar! Todavía es un trabajo en progreso, algunas áreas más vendrán eventualmente.
+	- Toda la curación ha sido disminuida en un 50%.
+	- Algunos otros cambios que me olvide.
 
 17 de Marzo de 2023
-	- PvP is back!
-	- Entrance is located on the east side of Centralia.
-	- Arenas are divided into 3 difficulties: Common-Epic, Legendary-Mythic, Ultra-Super. You'll enter the arena corresponding to the highest rarity petal you have equipped.
-	- You cannot change your loadout inside the arena.
+	- ¡PvP está de vuelta!
+	- La entrada se encuentra en el lado este de Centralia.
+	- Las arenas se dividen en 3 dificultades: Común-Épica, Legendaria-Mítica, Ultra-Súper. Entrarás en la arena correspondiente al pétalo de rareza más alto que hayas equipado.
+	- No puedes cambiar tu equipamiento dentro de la arena.
 
 3 de Marzo de 2023
-	- Super mob spawns are now announced to all the players in all maps in the region.
+	- La aparición de Súper criaturas ahora se anuncian a todos los jugadores en todos los mapas de la región.
 
 2 de Marzo de 2023
-	- Added a new section to Centralia Fields.
+	- Se agregó una nueva sección a Campos de Centralia.
 
 27 de Febrero de 2023
-	- Added a new section to Ant Hell.
+	- Se agregó una nueva sección a Infierno de Hormigas.
 
 22 de Febrero de 2023
-	- Drops are no longer the same for every player that contributes to destroying a mob. They're now randomly rolled for each player.
-	- We noticed an issue where the payment system was misidentifying the player's country, leading to failure to process some payments. We've enabled an option to select the payment country. We're working with our payment processor to fix it so it should identify it automatically soon.
+	- Las caídas ya no son las mismas para todos los jugadores que contribuyen a destruir una criatura. Ahora se lanzan al azar para cada jugador.
+	- Notamos un problema en el que el sistema de pago identificaba erróneamente el país del jugador, lo que llevó a la falta de procesamiento de algunos pagos. Hemos habilitado una opción para seleccionar el país de pago. Estamos trabajando con nuestro procesador de pagos para arreglarlo, por lo que debería identificarlo automáticamente pronto.
 
 20 de Febrero de 2023
-	- Added a new section to Ant Hell.
+	- Se agregó una nueva sección a Infierno de Hormigas.
 
 19 de Febrero de 2023
-	- Added two mobs to Centralia Sewers.
-	- Added two new petals.
+	- Se agregaron dos criaturas a las Alcantarillas de Centralia.
+	- Se agregaron dos pétalos nuevos.
 
 14 de Febrero de 2023
-	- Ultra mobs now have a 1% chance of spawning as Super mobs, even more powerful mobs with possibly amazing drops.
-	- Ultra+ mobs damage threshold to receive drops decreased from 5% to 1%. Max number of players that can receive drops increased from 4 to 15.
-	- Yggdrasil nerfed slightly, now heals for less on revive.
-	- Fixed Hornet not receiving knockback when firing missiles.
+	- Las Ultra criaturas ahora tienen un 1% de posibilidades de generar como Súper criaturas, criaturas aún más poderosas con caídas posiblemente increíbles.
+	- El umbral de daño de las criaturas Ultra+ para recibir caídas se redujo del 5% al 1%. El número máximo de jugadores que pueden recibir caídas aumentó de 4 a 15.
+	- Yggdrasil ligeramente nerfeado, ahora cura menos al revivir.
+	- Se corrigió el Avispón que no recibía retroceso al disparar misiles.
 
 13 de Febrero de 2023
-	- Accounts that have purchased stars in the premium shop no longer have to watch ads (but still gain stars as if they did).
+	- Las cuentas que han comprado estrellas en la tienda premium ya no tienen que ver anuncios (pero aún así obtienen estrellas como si lo hicieran).
 
 12 de Febrero de 2023
-	- Third Eye no longer stacks.
+	- El Tercer Ojo ya no se apila.
 
 10 de Febrero de 2023
-	- Added a premium shop. You can now support the game by buying petals using stars, which you can acquire with money or by watching ads.
-	- Rebalanced a couple of petals.
-	- Changed TP cost of many talents.
-	- Changed TP reward per level (now it's always 1 per level).
-	- Added a couple new talents.
-	- Everyone's talent allocation has been reset for free.
+	- Se agregó una tienda premium. Ahora puedes apoyar el juego comprando pétalos usando estrellas, que puedes adquirir con dinero o viendo anuncios.
+	- Reequilibrado un par de pétalos.
+	- Cambió el costo de TP de muchos talentos.
+	- Cambió la recompensa de TP por nivel (ahora siempre es 1 por nivel).
+	- Añadido un par de nuevos talentos.
+	- La asignación de talento de todos se ha restablecido de forma gratuita.
 
 29 de Enero de 2023
-	- We've rebalanced all mobs and petals. The idea is extending the early game a little bit, as it was too easy to get legendary petals in the first hour of gameplay.
+	- Hemos reequilibrado todas las criaturas y pétalos. La idea está en extender un poco el juego temprano, ya que era demasiado fácil obtener pétalos legendarios en la primera hora de juego.
 
 28 de Enero de 2023
-	- Nicknames are now permanent and unique. You'll be prompted for one the first time you play.
-	- Mobs are no longer constrained by mere physical space limits. Their hitbox against the map has been decreased significantly.
+	- Los apodos ahora son permanentes y únicos. Se te pedirá uno la primera vez que juegues.
+	- Las criaturas ya no están limitadas por los meros límites del espacio físico. Su hitbox contra el mapa ha disminuido significativamente.
 
 21 de Enero de 2023
-	- Added a new map section to Centralia Fields, East Waters and South Desert.
-	- Changed the way beetles move.
+	- Se agregó una nueva sección de mapas a Campos de Centralia, Aguas del Este y Desierto del Sur.
+	- Cambió la forma en que se mueven los escarabajos.
 
 19 de Enero de 2023
-	- The game finally has a world map. Enjoy exploring and finding interesting places.
-	- Note that it's still fairly small, we plan to add more areas soon.
-	- Squads have been disabled for the time being as they'll require significant work to work again.
+	- El juego finalmente tiene un mapa del mundo. Disfruta explorando y encontrando lugares interesantes.
+	- Tenga en cuenta que todavía es bastante pequeño, planeamos agregar más áreas pronto.
+	- Los equipos han sido deshabilitados por el momento, ya que requerirán un trabajo significativo para volver a funcionar.
 
 2 de Enero de 2023
-	- Due to popular demand, the change mentioned in the previous changelog was changed to today.
-	- We're introducing a new petal rarity: Super.
-	- We've added a couple commands to join/create squads while in-game, type /help in the chat for more info.
-	- By default a chat message is only seen by people around you. To send it to your squad members regardless of where they are, prefix it with /squad or press TAB.
+	- Debido a la demanda popular, el cambio mencionado en el registro de cambios anterior se cambió a hoy.
+	- Estamos introduciendo una nueva rareza de pétalos: Súper.
+	- Hemos añadido un par de comandos para unirse/crear equipos mientras estás en el juego, escribe /help en el chat para obtener más información.
+	- Por defecto, un mensaje de chat solo lo ven las personas que te rodean. Para enviarlo a los miembros de tu equipo, independientemente de dónde se encuentren, anteponga /squad en el mensaje o presione TAB.
 
 1 de Enero de 2023
-	- Reenabled summoner petals. Summoned mobs no longer have collision with other squad mobs. Summoned mobs now deal collision damage to non-squad friendly mobs.
-	- An area can now temporarily run out of mobs if they're farmed too quickly.
-	- Crafting Ultras has been temporarily disabled. We'll be reworking them to a permanent rarity. Existing ultras can still be used. On January 3rd: every 10 ultras will be reverted into a mythic. Then any left over will be absorbed for 50k each.
-	- Higher tier mobs now have varying amounts of slow resistance.
+	- Pétalos de invocador reactivados. Las criaturas invocadas ya no tienen colisión con otras criaturas del equipo. Las criaturas invocadas ahora causan daño de colisión a las criaturas no amigables con los equipos.
+	- Un área ahora puede quedarse temporalmente sin criaturas si se caza demasiado rápido.
+	- Fabricar Ultras se ha desactivado temporalmente. Los reelaboraremos para que se conviertan en una rareza permanente. Todavía se pueden usar los ultras existentes. El 3 de enero: cada 10 Ultras se convertirán en un Mítico. Luego, cualquier sobra será absorbida por 50k cada uno.
+	- Las criaturas de rareza superior ahora tienen cantidades variables de resistencia a la lentitud.
 
 30 de Diciembre de 2022
 	- Drops are now shared among the 4 players that dealt the most damage to the mob (as long as they deal at least 5% damage). Squad damage is counted together. Only flowers within about a screen distance can get drops from a mob.

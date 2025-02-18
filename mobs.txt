@@ -224,3 +224,6 @@ Mobs/wasp_mecha/Description=Están enojadas MECÁNICAMENTE.
 
 Mobs/spider_mecha/Name=Araña
 Mobs/spider_mecha/Description=Mecánicamente espeluznante.
+
+Mobs/leafbug_shiny/Name=Insecto Hoja
+Mobs/leafbug_shiny/Description=Este tiene un color especial...

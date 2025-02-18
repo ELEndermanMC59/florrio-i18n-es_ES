@@ -1,11 +1,11 @@
-Rarities/common/Name=Common
-Rarities/common/ArticleUpper=A
-Rarities/common/Article=a
+Rarities/common/Name=Común
+Rarities/common/ArticleUpper=Un
+Rarities/common/Article=un
 Rarities/common/NameColored=<c val="{#Colors/common}">{#Rarities/common/Name}</c>
 
-Rarities/unusual/Name=Unusual
-Rarities/unusual/ArticleUpper=An
-Rarities/unusual/Article=an
+Rarities/unusual/Name=Inusual
+Rarities/unusual/ArticleUpper=Un
+Rarities/unusual/Article=un
 Rarities/unusual/NameColored=<c val="{#Colors/unusual}">{#Rarities/unusual/Name}</c>
 
 Rarities/rare/Name=Rare

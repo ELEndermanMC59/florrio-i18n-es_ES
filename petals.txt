@@ -1,9 +1,11 @@
 Petals/basic/Name=Básico
 Petals/basic/FullName=Básico
+Petals/basic/Gender=Male
 Petals/basic/Description=Un buen pétalo, ni demasiado fuerte ni demasiado débil.
 
 Petals/light/Name=Ligero
 Petals/light/FullName=Ligero
+Petals/light/Gender=Male
 Petals/light/Description=Más débil que la mayoría de los pétalos, pero se recarga muy rápidamente.
 
 Petals/rock/Name=Roca
@@ -13,6 +15,7 @@ Petals/rock/Description=Extremadamente duradera, pero tarda un poco más en reca
 
 Petals/square/Name=Cuadrado
 Petals/square/FullName=Cuadrado
+Petals/square/Gender=Male
 Petals/square/Description=Esta forma... parece familiar...
 
 Petals/rose/Name=Rosa
@@ -22,10 +25,12 @@ Petals/rose/Description=Sus propiedades curativas son asombrosas. Aunque no es t
 
 Petals/stinger/Name=Aguijón
 Petals/stinger/FullName=Aguijón
+Petals/stinger/Gender=Male
 Petals/stinger/Description=Duele mucho, pero es muy frágil.
 
 Petals/iris/Name=Iris
 Petals/iris/FullName=Iris
+Petals/iris/Gender=Male
 Petals/iris/Description=Muy venenoso, pero tarda un poco en hacer su trabajo.<n/>-50% de daño vs otras flores.
 
 Petals/wing/Name=Ala
@@ -35,18 +40,22 @@ Petals/wing/Description=Viene y va.
 
 Petals/missile/Name=Misil
 Petals/missile/FullName=Misil
+Petals/missile/Gender=Male
 Petals/missile/Description=De hecho, puedes disparar este.
 
 Petals/grapes/Name=Uvas
 Petals/grapes/FullName=Uvas
+Petals/grapes/Gender=Female
 Petals/grapes/Description=Hace puf. Ahora con un ingrediente secreto: veneno.
 
 Petals/cactus/Name=Cactus
 Petals/cactus/FullName=Cactus
+Petals/cactus/Gender=Male
 Petals/cactus/Description=No es muy fuerte, pero de alguna manera aumenta tu vida máxima.
 
 Petals/faster/Name=Rápido
 Petals/faster/FullName=Rápido
+Petals/faster/Gender=Male
 Petals/faster/Description=Es tan ligero que hace que los otros pétalos giren más rápido.
 
 Petals/bubble/Name=Burbuja
@@ -56,34 +65,42 @@ Petals/bubble/Description=Física es para los débiles.
 
 Petals/pollen/Name=Polen
 Petals/pollen/FullName=Polen
+Petals/pollen/Gender=Male
 Petals/pollen/Description=Cuidado con los asmáticos.
 
 Petals/dandelion/Name=Diente León
 Petals/dandelion/FullName=Diente de León
+Petals/dandelion/Gender=Male
 Petals/dandelion/Description=Sus interesantes propiedades inhiben los efectos curativos en las unidades afectadas.<n/>Las unidades afectadas tienen su curación reducida en un 20%. Se acumula consigo mismo.
 
 Petals/beetle_egg/Name=Huevo
 Petals/beetle_egg/FullName=Huevo de Escarabajo
+Petals/beetle_egg/Gender=Male
 Petals/beetle_egg/Description=Algo interesante podría salir de esto.
 
 Petals/antennae/Name=Antenas
 Petals/antennae/FullName=Antenas
+Petals/antennae/Gender=Female
 Petals/antennae/Description=Permite que tu flor sienta enemigos más lejanos.
 
 Petals/heavy/Name=Pesado
 Petals/heavy/FullName=Pesado
+Petals/heavy/Gender=Male
 Petals/heavy/Description=Esta cosa es tan pesada que nada se interpone en el camino.<n/>Disminuye la velocidad de rotación de los pétalos cuando está equipado.
 
 Petals/yin_yang/Name=Yin Yang
 Petals/yin_yang/FullName=Yin y Yang
+Petals/yin_yang/Gender=Male
 Petals/yin_yang/Description=Este pétalo misterioso afecta la rotación de tus pétalos de maneras impredecibles.
 
 Petals/web/Name=Red
 Petals/web/FullName=Red
+Petals/web/Gender=Male
 Petals/web/Description=Es muy pegajoso.
 
 Petals/honey/Name=Miel
 Petals/honey/FullName=Miel
+Petals/honey/Gender=Male
 Petals/honey/Description=A las creaturas les encanta esto. Los atrae en un gran radio.<n/>Las creaturas priorizarán esto sobre las flores.<n/>Las unidades afectadas desarrollan inmunidad a sus efectos después de algún tiempo.
 
 Petals/leaf/Name=Hoja
@@ -93,14 +110,17 @@ Petals/leaf/Description=Recoge energía del sol para curar tu flor de forma pasi
 
 Petals/salt/Name=Sal
 Petals/salt/FullName=Sal
+Petals/salt/Gender=Male
 Petals/salt/Description=Refleja parte del daño que llevas al enemigo que lo infligió.<n/>Las creaturas de mayor rareza tienen una mayor resistencia a la reflexión del daño.
 
 Petals/rice/Name=Arroz
 Petals/rice/FullName=Arroz
+Petals/rice/Gender=Male
 Petals/rice/Description=Aparece muy rápido, pero no es muy fuerte.
 
 Petals/corn/Name=Maíz
 Petals/corn/FullName=Maíz
+Petals/corn/Gender=Male
 Petals/corn/Description=Tarda mucho tiempo en aparecer, pero tiene mucha vida.
 
 Petals/sand/Name=Arena
@@ -120,10 +140,12 @@ Petals/yucca/Description=Cura tu flor, pero solo mientras estás en posición de
 
 Petals/magnet/Name=Imán
 Petals/magnet/FullName=Imán
+Petals/magnet/Gender=Male
 Petals/magnet/Description=Aumenta el rango de recogida de botin.
 
 Petals/yggdrasil/Name=Yggdrasil
 Petals/yggdrasil/FullName=Yggdrasil
+Petals/yggdrasil/Gender=Male
 Petals/yggdrasil/Description=Una hoja seca del árbol Yggdrasil.<n/>Se rumorea que puede devolver la vida a los caídos.
 
 Petals/starfish/Name=Estrella
@@ -138,6 +160,7 @@ Petals/pearl/Description=Solo déjala en algún lugar y usa tus poderes cinétic
 
 Petals/lightning/Name=Relámpago
 Petals/lightning/FullName=Relámpago
+Petals/lightning/Gender=Male
 Petals/lightning/Description=Golpea a varios enemigos cercanos.
 
 Petals/jelly/Name=Gelatina
@@ -157,6 +180,7 @@ Petals/shell/Description=Añade un escudo temporal a ti mismo o a aliados.
 
 Petals/cutter/Name=Cortador
 Petals/cutter/FullName=Cortador
+Petals/cutter/Gender=Male
 Petals/cutter/Description=Un amigo solía ser dueño de esto... ahora es el momento de venganza.<n/>Aumenta el daño corporal.
 
 Petals/dahlia/Name=Dalia
@@ -166,6 +190,7 @@ Petals/dahlia/Description=Una pequeña cantidad de curación, pero bastante cons
 
 Petals/uranium/Name=Uranio
 Petals/uranium/FullName=Uranio
+Petals/uranium/Gender=Male
 Petals/uranium/Description=Periódicamente libera radiación.<n/>-75% de daño en contra de otras flores.<n/>La fuerza del efecto depende de la distancia al pétalo.
 
 Petals/sponge/Name=Esponja
@@ -180,30 +205,37 @@ Petals/soil/Description=Aumenta la vida, pero también aumenta el tamaño de la 
 
 Petals/fangs/Name=Colmillo
 Petals/fangs/FullName=Colmillo
+Petals/fangs/Gender=Male
 Petals/fangs/Description=Cura en función del daño causado por este pétalo.
 
 Petals/third_eye/Name=Tercer Ojo
 Petals/third_eye/FullName=Tercer Ojo
+Petals/third_eye/Gender=Male
 Petals/third_eye/Description=Permite que tu flor expanda tus pétalos más lejos.
 
 Petals/peas/Name=Guisantes
 Petals/peas/FullName=Guisantes
+Petals/peas/Gender=Male
 Petals/peas/Description=Hace puf.
 
 Petals/stick/Name=Palo
 Petals/stick/FullName=Palo Misterioso
+Petals/stick/Gender=Male
 Petals/stick/Description=Un palo misterioso que invoca las fuerzas del viento.
 
 Petals/clover/Name=Trébol
 Petals/clover/FullName=Trébol
+Petals/clover/Gender=Male
 Petals/clover/Description=Aumenta tu suerte.<n/>Suerte es utilizada por pétalos específicos para cambiar sus estadísticas.
 
 Petals/powder/Name=Polvo
 Petals/powder/FullName=Polvo Misterioso
+Petals/powder/Gender=Male
 Petals/powder/Description=Aumenta la velocidad de movimiento.<n/>Desactivado si la flor recibe daño o si está cerca de una creatura más alta que cierta rareza.
 
 Petals/air/Name=Aire
 Petals/air/FullName=Aire
+Petals/air/Gender=Male
 Petals/air/Description=Es literalmente nada.
 
 Petals/basil/Name=Albahaca
@@ -218,6 +250,7 @@ Petals/orange/Description=Una fruta cítrica dulce.
 
 Petals/ant_egg/Name=Huevo
 Petals/ant_egg/FullName=Huevo de Hormiga
+Petals/ant_egg/Gender=Male
 Petals/ant_egg/Description=Algo interesante podría salir de esto.
 
 Petals/poo/Name=Caca
@@ -232,6 +265,7 @@ Petals/relic/Description=Una extraña reliquia. Aumenta significativamente la vi
 
 Petals/lotus/Name=Loto
 Petals/lotus/FullName=Loto
+Petals/lotus/Gender=Male
 Petals/lotus/Description=Absorbe el daño venenoso sufrido por la flor.
 
 Petals/bulb/Name=Bombilla
@@ -241,6 +275,7 @@ Petals/bulb/Description=Una bombilla brillante. Extrae aggro de las creaturas.
 
 Petals/cotton/Name=Algodón
 Petals/cotton/FullName=Algodón
+Petals/cotton/Gender=Male
 Petals/cotton/Description=Absorbe el daño recibido por la flor.
 
 Petals/carrot/Name=Zanahoria
@@ -250,14 +285,17 @@ Petals/carrot/Description=Robusto y fiable. Se puede disparar y rebotar en las p
 
 Petals/bone/Name=Hueso
 Petals/bone/FullName=Hueso
+Petals/bone/Gender=Male
 Petals/bone/Description=Robusto.
 
 Petals/plank/Name=Tablón
 Petals/plank/FullName=Tablón
+Petals/plank/Gender=Male
 Petals/plank/Description=Hace 20x daño en contra de proyectiles y pétalos.
 
 Petals/tomato/Name=Tomate
 Petals/tomato/FullName=Tomate
+Petals/tomato/Gender=Male
 Petals/tomato/Description=Se vuelve más fuerte con el tiempo.
 
 Petals/mark/Name=Marca
@@ -272,6 +310,7 @@ Petals/rubber/Description=Aumenta el retroceso recibido. También absorbe el da�
 
 Petals/blood_stinger/Name=Aguijón
 Petals/blood_stinger/FullName=Aguijón de Sangre
+Petals/blood_stinger/Gender=Male
 Petals/blood_stinger/Description=Realmente duele, pero es muy frágil.<n/> Te hace daño a sí mismo cuando aparece.
 
 Petals/bur/Name=Rebaba
@@ -281,18 +320,22 @@ Petals/bur/Description=Disminuye la armadura de la unidad afectada. No se acumul
 
 Petals/root/Name=Raíz
 Petals/root/FullName=Raíz
+Petals/root/Gender=Male
 Petals/root/Description=Proporciona armadura adicional, pero solo mientras está en posición defensiva.
 
 Petals/ankh/Name=Anj
 Petals/ankh/FullName=Anj
+Petals/ankh/Gender=Male
 Petals/ankh/Description=Una reliquia antigua.<n/>Cuando se destruye, se teletransportará la flor de vuelta a donde fue destruida.
 
 Petals/dice/Name=Dado
 Petals/dice/FullName=Dado
+Petals/dice/Gender=Male
 Petals/dice/Description=Tiene un 5% de probabilidad de infligir 35 veces el daño.<n/>La probabilidad aumenta de un 4% por punto de suerte.
 
 Petals/talisman/Name=Talismán
 Petals/talisman/FullName=Talismán de Evasión
+Petals/talisman/Gender=Male
 Petals/talisman/Description=Un collar que permite al usuario anticipar los ataques enemigos.
 
 Petals/battery/Name=Batería
@@ -302,6 +345,7 @@ Petals/battery/Description=Descarga electricidad cada vez que la flor es golpead
 
 Petals/amulet/Name=Amuleto
 Petals/amulet/FullName=Amuleto
+Petals/amulet/Gender=Male
 Petals/amulet/Description=Convierte un porcentaje de sobrecura en escudo.
 
 Petals/compass/Name=Brújula
@@ -311,7 +355,8 @@ Petals/compass/Description=Esta cosa podría ser capaz de encontrar algo interes
 
 Petals/disc/Name=Disco
 Petals/disc/FullName=Disco
-Petals/disc/Description=Reduce el daño causado por colisiones con creaturas y flores.
+Petals/disc/Gender=Male
+Petals/disc/Description=Reduce el daño causado por colisiones con criaturas y flores.
 
 Petals/shovel/Name=Pala
 Petals/shovel/FullName=Pala
@@ -330,6 +375,7 @@ Petals/chip/Description=APOSTARLO TODO.
 
 Petals/card/Name=Naipe
 Petals/card/FullName=Naipe
+Petals/card/Gender=Male
 Petals/card/Description=Un naipe. Probablemente marcado.
 
 Petals/moon/Name=Luna
@@ -344,26 +390,32 @@ Petals/privet/Description=Causa daño extra de {#Attribute/PoisonNoColon} basado
 
 Petals/glass/Name=Cristal
 Petals/glass/FullName=Cristal
+Petals/glass/Gender=Male
 Petals/glass/Description=Va a través de los enemigos.<n/>No puede dañar a los enemigos más a menudo que un cierto intervalo.
 
 Petals/corruption/Name=Corrupción
 Petals/corruption/FullName=Corrupción
+Petals/corruption/Gender=Male
 Petals/corruption/Description=Corrompe el alma de uno, volviéndolo en contra de su propia especie.
 
 Petals/orb/Name=Orbe
 Petals/orb/FullName=Orbe de Maná
+Petals/orb/Gender=Male
 Petals/orb/Description=Crea maná.
 
 Petals/blueberries/Name=Arándanos
 Petals/blueberries/FullName=Arándanos
+Petals/blueberries/Gender=Male
 Petals/blueberries/Description=Hace puf. Ahora con un ingrediente secreto extra: rayos.
 
 Petals/magic_cotton/Name=Algodón
 Petals/magic_cotton/FullName=Algodón Magico
+Petals/magic_cotton/Gender=Male
 Petals/magic_cotton/Description=Absorbe el daño recibido por la flor.
 
 Petals/magic_stinger/Name=Aguijón
 Petals/magic_stinger/FullName=Aguijón Magico
+Petals/magic_stinger/Gender=Male
 Petals/magic_stinger/Description=Realmente duele, pero es muy frágil.
 
 Petals/magic_leaf/Name=Hoja
@@ -373,22 +425,27 @@ Petals/magic_leaf/Description=Recoge maná del entorno de forma pasiva.
 
 Petals/magic_cactus/Name=Cactus
 Petals/magic_cactus/FullName=Cactus Magico
+Petals/magic_cactus/Gender=Male
 Petals/magic_cactus/Description=Aumenta la capacidad máxima de maná.
 
 Petals/magic_eye/Name=Ojo Magico
 Petals/magic_eye/FullName=Ojo Magico
+Petals/magic_eye/Gender=Male
 Petals/magic_eye/Description=Consume la mitad del maná actual e inflige daño basado en ese valor.
 
 Petals/magic_missile/Name=Misil
 Petals/magic_missile/FullName=Misil Magico
+Petals/magic_missile/Gender=Male
 Petals/magic_missile/Description=De hecho, puedes disparar este... con magia.
 
 Petals/magic_stick/Name=Palo
 Petals/magic_stick/FullName=Palo Magico
+Petals/magic_stick/Gender=Male
 Petals/magic_stick/Description=Un palo misterioso que invoca las fuerzas del viento... con magia.
 
 Petals/coral/Name=Coral
 Petals/coral/FullName=Coral
+Petals/coral/Gender=Male
 Petals/coral/Description=Se rompe al impacto.<n/>Cada pieza tiene el 50% de las estadísticas de la predecesora.
 
 Petals/magic_bubble/Name=Burbuja
@@ -398,26 +455,32 @@ Petals/magic_bubble/Description=Física es para los que no son mágicos.
 
 Petals/nazar/Name=Nazar
 Petals/nazar/FullName=Amuleto de Nazar
+Petals/nazar/Gender=Male
 Petals/nazar/Description=Reduce el daño de una instancia de daño en un 98 %.
 
 Petals/mimic/Name=Imitador
 Petals/mimic/FullName=Imitador
+Petals/mimic/Gender=Male
 Petals/mimic/Description=Copia el pétalo a la izquierda de esto, con la misma rareza que este.
 
 Petals/mjolnir/Name={#Petals/mjolnir/{0:rarity:is-unique}/Name}
 Petals/mjolnir/FullName={#Petals/mjolnir/{0:rarity:is-unique}/FullName}
+Petals//Gender=Male
 Petals/mjolnir/Description={#Petals/mjolnir/{0:rarity:is-unique}/Description}
 
 Petals/mjolnir/not-unique/Name=Fragmento
 Petals/mjolnir/not-unique/FullName=Fragmento
+Petals/mjolnir/not-unique/Gender=Male
 Petals/mjolnir/not-unique/Description=¿Tal vez esto podría usarse para forjar algo grandioso?
 
 Petals/mjolnir/unique/Name=Mjölnir
 Petals/mjolnir/unique/FullName=Mjölnir
+Petals/mjolnir/unique/Gender=Male
 Petals/mjolnir/unique/Description=Solo el martillo más poderoso del universo.
 	
 Petals/mecha_missile/Name=Misil
 Petals/mecha_missile/FullName=Misil Mecánico
+Petals/mecha_missile/Gender=Male
 Petals/mecha_missile/Description=Bloqueado.
 
 Petals/wax/Name=Cera

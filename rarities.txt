@@ -8,37 +8,52 @@ Rarities/unusual/ArticleUpper=Un
 Rarities/unusual/Article=un
 Rarities/unusual/NameColored=<c val="{#Colors/unusual}">{#Rarities/unusual/Name}</c>
 
-Rarities/rare/Name=Rare
-Rarities/rare/ArticleUpper=A
-Rarities/rare/Article=a
+Rarities/rare/Name/Male=Raro
+Rarities/rare/Name/Female=Rara
+Rarities/rare/ArticleUpper/Male=Un
+Rarities/rare/Article/Male=un
+Rarities/rare/ArticleUpper/Female=Una
+Rarities/rare/Article/Female=una
 Rarities/rare/NameColored=<c val="{#Colors/rare}">{#Rarities/rare/Name}</c>
 
-Rarities/epic/Name=Epic
-Rarities/epic/ArticleUpper=An
-Rarities/epic/Article=an
+Rarities/epic/Name/Male=Épico
+Rarities/epic/Name/Female=Épica
+Rarities/epic/ArticleUpper/Male=Un
+Rarities/epic/Article/Male=un
+Rarities/epic/ArticleUpper/Female=Una
+Rarities/epic/Article/Female=una
 Rarities/epic/NameColored=<c val="{#Colors/epic}">{#Rarities/epic/Name}</c>
 
-Rarities/legendary/Name=Legendary
-Rarities/legendary/ArticleUpper=A
-Rarities/legendary/Article=a
+Rarities/legendary/Name/Male=Legendario
+Rarities/legendary/Name/Female=Legendaria
+Rarities/legendary/ArticleUpper/Male=Un
+Rarities/legendary/Article/Male=un
+Rarities/legendary/ArticleUpper/Female=Una
+Rarities/legendary/Article/Female=una
 Rarities/legendary/NameColored=<c val="{#Colors/legendary}">{#Rarities/legendary/Name}</c>
 
-Rarities/mythic/Name=Mythic
-Rarities/mythic/ArticleUpper=A
-Rarities/mythic/Article=a
+Rarities/mythic/Name/Male=Mítico
+Rarities/mythic/Name/Female=Mítica
+Rarities/mythic/ArticleUpper/Male=Un
+Rarities/mythic/Article/Male=un
+Rarities/mythic/ArticleUpper/Female=Una
+Rarities/mythic/Article/Female=una
 Rarities/mythic/NameColored=<c val="{#Colors/mythic}">{#Rarities/mythic/Name}</c>
 
 Rarities/ultra/Name=Ultra
-Rarities/ultra/ArticleUpper=An
-Rarities/ultra/Article=an
+Rarities/ultra/ArticleUpper=Un
+Rarities/ultra/Article=un
 Rarities/ultra/NameColored=<c val="{#Colors/ultra}">{#Rarities/ultra/Name}</c>
 
-Rarities/super/Name=Super
-Rarities/super/ArticleUpper=A
-Rarities/super/Article=a
+Rarities/super/Name=Súper
+Rarities/super/ArticleUpper=Un
+Rarities/super/Article=un
 Rarities/super/NameColored=<c val="{#Colors/super}">{#Rarities/super/Name}</c>
 
-Rarities/unique/Name=Unique
-Rarities/unique/ArticleUpper=A
-Rarities/unique/Article=a
+Rarities/unique/Name/Male=Único
+Rarities/unique/Name/Female=Única
+Rarities/unique/ArticleUpper/Male=Un
+Rarities/unique/Article/Male=un
+Rarities/unique/ArticleUpper/Female=Una
+Rarities/unique/Article/Female=una
 Rarities/unique/NameColored=<c val="{#Colors/unique}">{#Rarities/unique/Name}</c>

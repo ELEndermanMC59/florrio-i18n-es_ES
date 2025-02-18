@@ -8,6 +8,7 @@ Petals/light/Description=Más débil que la mayoría de los pétalos, pero se re
 
 Petals/rock/Name=Roca
 Petals/rock/FullName=Roca
+Petals/rock/Gender=Female
 Petals/rock/Description=Extremadamente duradera, pero tarda un poco más en recargarse.
 
 Petals/square/Name=Cuadrado
@@ -16,6 +17,7 @@ Petals/square/Description=Esta forma... parece familiar...
 
 Petals/rose/Name=Rosa
 Petals/rose/FullName=Rosa
+Petals/rose/Gender=Female
 Petals/rose/Description=Sus propiedades curativas son asombrosas. Aunque no es tan buena en combate.
 
 Petals/stinger/Name=Aguijón
@@ -28,6 +30,7 @@ Petals/iris/Description=Muy venenoso, pero tarda un poco en hacer su trabajo.<n/
 
 Petals/wing/Name=Ala
 Petals/wing/FullName=Ala
+Petals/wing/Gender=Female
 Petals/wing/Description=Viene y va.
 
 Petals/missile/Name=Misil
@@ -48,13 +51,14 @@ Petals/faster/Description=Es tan ligero que hace que los otros pétalos giren m�
 
 Petals/bubble/Name=Burbuja
 Petals/bubble/FullName=Burbuja
+Petals/bubble/Gender=Female
 Petals/bubble/Description=Física es para los débiles.
 
 Petals/pollen/Name=Polen
 Petals/pollen/FullName=Polen
 Petals/pollen/Description=Cuidado con los asmáticos.
 
-Petals/dandelion/Name=Diente de León
+Petals/dandelion/Name=Diente León
 Petals/dandelion/FullName=Diente de León
 Petals/dandelion/Description=Sus interesantes propiedades inhiben los efectos curativos en las unidades afectadas.<n/>Las unidades afectadas tienen su curación reducida en un 20%. Se acumula consigo mismo.
 
@@ -84,6 +88,7 @@ Petals/honey/Description=A las creaturas les encanta esto. Los atrae en un gran 
 
 Petals/leaf/Name=Hoja
 Petals/leaf/FullName=Hoja
+Petals/leaf/Gender=Female
 Petals/leaf/Description=Recoge energía del sol para curar tu flor de forma pasiva.
 
 Petals/salt/Name=Sal
@@ -100,14 +105,17 @@ Petals/corn/Description=Tarda mucho tiempo en aparecer, pero tiene mucha vida.
 
 Petals/sand/Name=Arena
 Petals/sand/FullName=Arena
+Petals/sand/Gender=Female
 Petals/sand/Description=Un montón de partículas de arena.
 
 Petals/pincer/Name=Pinza
 Petals/pincer/FullName=Pinza
+Petals/pincer/Gender=Female
 Petals/pincer/Description=Debilita a los enemigos temporalmente, reduciendo su velocidad de movimiento.
 
 Petals/yucca/Name=Yuca
 Petals/yucca/FullName=Yuca
+Petals/yucca/Gender=Female
 Petals/yucca/Description=Cura tu flor, pero solo mientras estás en posición defensiva.
 
 Petals/magnet/Name=Imán
@@ -120,10 +128,12 @@ Petals/yggdrasil/Description=Una hoja seca del árbol Yggdrasil.<n/>Se rumorea q
 
 Petals/starfish/Name=Estrella
 Petals/starfish/FullName=Estrella de Mar
+Petals/starfish/Gender=Female
 Petals/starfish/Description=Aumenta la regeneración mientras que la vida está por debajo del 75%.
 
 Petals/pearl/Name=Perla
 Petals/pearl/FullName=Perla
+Petals/pearl/Gender=Female
 Petals/pearl/Description=Solo déjala en algún lugar y usa tus poderes cinéticos para no perderla.
 
 Petals/lightning/Name=Relámpago
@@ -132,14 +142,17 @@ Petals/lightning/Description=Golpea a varios enemigos cercanos.
 
 Petals/jelly/Name=Gelatina
 Petals/jelly/FullName=Gelatina
+Petals/jelly/Gender=Female
 Petals/jelly/Description=A nadie le gusta tocar esto.
 
 Petals/claw/Name=Garra
 Petals/claw/FullName=Garra
+Petals/claw/Gender=Female
 Petals/claw/Description=Inflige daño adicional si la víctima está por encima del 80% de salud.<n/>-50% de daño vs otras flores.
 
 Petals/shell/Name=Concha
-Petals/shell/FullName=Concha
+Petals/shell/FullName=Concha de Mar
+Petals/shell/Gender=Female
 Petals/shell/Description=Añade un escudo temporal a ti mismo o a aliados.
 
 Petals/cutter/Name=Cortador
@@ -148,6 +161,7 @@ Petals/cutter/Description=Un amigo solía ser dueño de esto... ahora es el mome
 
 Petals/dahlia/Name=Dalia
 Petals/dahlia/FullName=Dalia
+Petals/dahlia/Gender=Female
 Petals/dahlia/Description=Una pequeña cantidad de curación, pero bastante consistente.
 
 Petals/uranium/Name=Uranio
@@ -156,10 +170,12 @@ Petals/uranium/Description=Periódicamente libera radiación.<n/>-75% de daño e
 
 Petals/sponge/Name=Esponja
 Petals/sponge/FullName=Esponja
+Petals/sponge/Gender=Female
 Petals/sponge/Description=Difunde el daño recibido por la flor durante un período de tiempo.<n/>Si se destruye, inflige el daño restante de una vez.<n/>No retrasa el daño de {#Attribute/PoisonNoColon}.
 
 Petals/soil/Name=Tierra
 Petals/soil/FullName=Tierra
+Petals/soil/Gender=Female
 Petals/soil/Description=Aumenta la vida, pero también aumenta el tamaño de la flor y disminuye la velocidad de movimiento.
 
 Petals/fangs/Name=Colmillo
@@ -192,10 +208,12 @@ Petals/air/Description=Es literalmente nada.
 
 Petals/basil/Name=Albahaca
 Petals/basil/FullName=Albahaca
+Petals/basil/Gender=Female
 Petals/basil/Description=Aumenta toda la curación recibida.
 
 Petals/orange/Name=Naranja
 Petals/orange/FullName=Naranja
+Petals/orange/Gender=Female
 Petals/orange/Description=Una fruta cítrica dulce.
 
 Petals/ant_egg/Name=Huevo
@@ -204,10 +222,12 @@ Petals/ant_egg/Description=Algo interesante podría salir de esto.
 
 Petals/poo/Name=Caca
 Petals/poo/FullName=Caca
+Petals/poo/Gender=Female
 Petals/poo/Description=Hace que sea menos probable que las creaturas quieran atacarte.
 
 Petals/relic/Name=Reliquia
 Petals/relic/FullName=Reliquia Misteriosa
+Petals/relic/Gender=Female
 Petals/relic/Description=Una extraña reliquia. Aumenta significativamente la vida máxima.<n/>El daños recibidos se propaga entre otros usuarios.
 
 Petals/lotus/Name=Loto
@@ -216,6 +236,7 @@ Petals/lotus/Description=Absorbe el daño venenoso sufrido por la flor.
 
 Petals/bulb/Name=Bombilla
 Petals/bulb/FullName=Bombilla
+Petals/bulb/Gender=Female
 Petals/bulb/Description=Una bombilla brillante. Extrae aggro de las creaturas.
 
 Petals/cotton/Name=Algodón
@@ -224,6 +245,7 @@ Petals/cotton/Description=Absorbe el daño recibido por la flor.
 
 Petals/carrot/Name=Zanahoria
 Petals/carrot/FullName=Zanahoria
+Petals/carrot/Gender=Female
 Petals/carrot/Description=Robusto y fiable. Se puede disparar y rebotar en las paredes.
 
 Petals/bone/Name=Hueso
@@ -240,10 +262,12 @@ Petals/tomato/Description=Se vuelve más fuerte con el tiempo.
 
 Petals/mark/Name=Marca
 Petals/mark/FullName=Marca Oscura
+Petals/mark/Gender=Female
 Petals/mark/Description=Una marca oscura que se une a un alma caída.
 
 Petals/rubber/Name=Goma
 Petals/rubber/FullName=Goma
+Petals/rubber/Gender=Female
 Petals/rubber/Description=Aumenta el retroceso recibido. También absorbe el daño causado por rayos a la flor.
 
 Petals/blood_stinger/Name=Aguijón
@@ -252,6 +276,7 @@ Petals/blood_stinger/Description=Realmente duele, pero es muy frágil.<n/> Te ha
 
 Petals/bur/Name=Rebaba
 Petals/bur/FullName=Rebaba
+Petals/bur/Gender=Female
 Petals/bur/Description=Disminuye la armadura de la unidad afectada. No se acumula consigo mismo.
 
 Petals/root/Name=Raíz
@@ -272,6 +297,7 @@ Petals/talisman/Description=Un collar que permite al usuario anticipar los ataqu
 
 Petals/battery/Name=Batería
 Petals/battery/FullName=Batería
+Petals/battery/Gender=Female
 Petals/battery/Description=Descarga electricidad cada vez que la flor es golpeada.
 
 Petals/amulet/Name=Amuleto
@@ -280,6 +306,7 @@ Petals/amulet/Description=Convierte un porcentaje de sobrecura en escudo.
 
 Petals/compass/Name=Brújula
 Petals/compass/FullName=Brújula
+Petals/compass/Gender=Female
 Petals/compass/Description=Esta cosa podría ser capaz de encontrar algo interesante...
 
 Petals/disc/Name=Disco
@@ -288,14 +315,17 @@ Petals/disc/Description=Reduce el daño causado por colisiones con creaturas y f
 
 Petals/shovel/Name=Pala
 Petals/shovel/FullName=Pala
+Petals/shovel/Gender=Female
 Petals/shovel/Description=Te vuelves inalcanzable, pero no puede usar pétalos durante un tiempo limitado.
 
 Petals/coin/Name=Moneda
 Petals/coin/FullName=Moneda
+Petals/coin/Gender=Female
 Petals/coin/Description=¡El poder del capitalismo te obliga!
 
 Petals/chip/Name=Ficha
 Petals/chip/FullName=Ficha de Póquer
+Petals/chip/Gender=Female
 Petals/chip/Description=APOSTARLO TODO.
 
 Petals/card/Name=Naipe
@@ -304,10 +334,12 @@ Petals/card/Description=Un naipe. Probablemente marcado.
 
 Petals/moon/Name=Luna
 Petals/moon/FullName=Roca Lunar
+Petals/moon/Gender=Female
 Petals/moon/Description=Esta cosa es tan grande que tus pétalos la orbitan en su lugar.<n/>¿Dónde encontraste esto de todos modos?
 
 Petals/privet/Name=Alheña
 Petals/privet/FullName=Baya de Alheña
+Petals/privet/Gender=Female
 Petals/privet/Description=Causa daño extra de {#Attribute/PoisonNoColon} basado en el daño existente de {#Attribute/PoisonNoColon} por segundo.
 
 Petals/glass/Name=Cristal
@@ -336,6 +368,7 @@ Petals/magic_stinger/Description=Realmente duele, pero es muy frágil.
 
 Petals/magic_leaf/Name=Hoja
 Petals/magic_leaf/FullName=Hoja Magica
+Petals/magic_leaf/Gender=Female
 Petals/magic_leaf/Description=Recoge maná del entorno de forma pasiva.
 
 Petals/magic_cactus/Name=Cactus
@@ -360,6 +393,7 @@ Petals/coral/Description=Se rompe al impacto.<n/>Cada pieza tiene el 50% de las 
 
 Petals/magic_bubble/Name=Burbuja
 Petals/magic_bubble/FullName=Burbuja Magica
+Petals/magic_bubble/Gender=Female
 Petals/magic_bubble/Description=Física es para los que no son mágicos.
 
 Petals/nazar/Name=Nazar
@@ -388,8 +422,10 @@ Petals/mecha_missile/Description=Bloqueado.
 
 Petals/wax/Name=Cera
 Petals/wax/FullName=Cera
+Petals/wax/Gender=Female
 Petals/wax/Description=No preguntes de dónde vino.
 
 Petals/golden_leaf/Name=Hoja
 Petals/golden_leaf/FullName=Hoja Dorada
+Petals/golden_leaf/Gender=Female
 Petals/golden_leaf/Description=Una hoja especial, parece permitir usar tus otros pétalos aún mejor.

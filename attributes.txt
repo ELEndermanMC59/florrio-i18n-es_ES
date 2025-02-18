@@ -107,3 +107,4 @@ Petal/Attribute/LightningPerMana=<c val="{#Colors/lightning}">Relámpago:</c> {0
 Petal/Attribute/SpawnManaCost=<c val="{#Colors/generic}">Costo de generación:</c> {0:tooltip} <c val="{#Colors/mana}">maná</c>
 Petal/Attribute/MaintenanceManaCost=<c val="{#Colors/generic}">Costo de mantenimiento:</c> {0:tooltip} <c val="{#Colors/mana}">maná</c>/s
 Petal/Attribute/ExtraDropChance=<c val="{#Colors/generic}">Da un {0:perc}% de posibilidad de obtener una caída adicional de las criaturas.</c>
+Petal/Attribute/Reload=<c val="{#Colors/generic}">Recarga:</c> -{0:perc}%

@@ -170,31 +170,31 @@ UI/DailyChallenge/TimeLeft=Desafíos van a cambiar en {0:time}
 UI/DailyChallenge/Claimed=Reclamado
 UI/DailyChallenge/SupportersOnly=Desafío disponible<n/>solo para seguidores.
 
-UI/Bonus/Title=Bonus
-UI/Bonus/Button=Bonus
-UI/Bonus/Instructions=Earn bonus drops
-UI/Bonus/Instructions2=For the first hour you play each day, you get extra drops.
+UI/Bonus/Title=Bono
+UI/Bonus/Button=Bono
+UI/Bonus/Instructions=Gana bonificaciones
+UI/Bonus/Instructions2=Durante la primera hora que juegues cada día, obtienes caidas adicionales.
 UI/Bonus/Pill/Label={0}x
-UI/Bonus/Delay=You can activate your bonus again in {0:time}.
-UI/Bonus/CurrentlyActive=Your bonus is active for {0:time}.
-UI/Bonus/Available=You can activate your bonus now. It will last {0:time}.
-UI/Bonus/AvailableExpiration=If you do not activate your bonus, it will reset in {0:time}.
-UI/Bonus/AutoDelay=Your bonus will activate again in {0:time}.
-UI/Bonus/Activate=Activate
-UI/Bonus/Activate/Setting=Activate automatically
+UI/Bonus/Delay=Puedes activar tu bono de nuevo en {0:time}.
+UI/Bonus/CurrentlyActive=Su bono está activo para {0:time}.
+UI/Bonus/Available=Puedes activar tu bono ahora. Durará {0:time}.
+UI/Bonus/AvailableExpiration=Si no activa su bono, se restablecerá en {0:time}.
+UI/Bonus/AutoDelay=Su bono se activará de nuevo en {0:time}.
+UI/Bonus/Activate=Activar
+UI/Bonus/Activate/Setting=Activar automáticamente
 
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/SortName={#Petals/{0:base}/Name}
 UI/Petal/FullName={#Petals/{0:base}/FullName}
 UI/Petal/Description={#Petals/{0:base}/Description}
-UI/Petal/Rarity={#Rarities/{0:rarity}/Name}
+UI/Petal/Rarity={#Rarities/{0:rarity}/{#Petals/{0:base}/Gender}/Name}
 UI/Petal/Reload1={0}s
 UI/Petal/Reload2={0}s + {1}s
 
 UI/Mob/Name={#Mobs/{0:base}/Name}
 UI/Mob/SortName={#Mobs/{0:base}/Name}
 UI/Mob/Description={#Mobs/{0:base}/Description}
-UI/Mob/Rarity={#Rarities/{0:rarity}/Name}
+UI/Mob/Rarity={#Rarities/{0:rarity}/{#Mobs/{0:base}/Gender}/Name}
 
 UI/Map/Name={#Maps/{0}/Name}
 

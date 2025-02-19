@@ -1,3 +1,5 @@
+Mobs/none/Gender=Male
+
 Mobs/rock/Name=Roca
 Mobs/rock/Description=Una roca. No hace mucho.
 Mobs/rock/Spawn=Algo parecido a una montaña aparece en la distancia...

@@ -1,42 +1,42 @@
 Achievements/0/Name=Tutorial
-Achievements/0/Description=Move a little bit.
-Achievements/0/ExtraDescription=Use your mouse to move. Your flower will automatically follow your cursor.<n/>You can change to keyboard movement in the settings menu.<n/><n/>Move a little bit to proceed.
+Achievements/0/Description=Muévete un poco.
+Achievements/0/ExtraDescription=Usa el ratón para moverte. Tu flor seguirá automáticamente tu cursor.<n/>Puedes cambiar al movimiento de teclado en el menú de configuración.<n/><n/>Muevete un poco para continuar.
 
 Achievements/1/Name=Tutorial
-Achievements/1/Description=Kill a mob.
-Achievements/1/ExtraDescription=Those insects are your enemies. Destroying them has a chance of dropping new petals.<n/><n/>Find one and destroy it.<n/>You might find helpful to hold down your left mouse button to extend your petals.
+Achievements/1/Description=Mata a una criatura.
+Achievements/1/ExtraDescription=Esos insectos son tus enemigos. Destruirlos tiene la posibilidad de soltar nuevos pétalos.<n/><n/>Encuentra uno y destrúyelo.<n/>Puede que te resulta útil mantener presionado el botón izquierdo del ratón para extender tus pétalos.
 
 Achievements/2/Name=Tutorial
 Achievements/2/Description=Collect a petal.
 Achievements/2/ExtraDescription=Keep destroying enemies until they drop a petal, then get close to the petal to collect it.
 
 Achievements/3/Name=Tutorial
-Achievements/3/Description=Equip a petal.
-Achievements/3/ExtraDescription=If you have space in your loadout when you collect a petal, it'll go there, otherwise it'll go to your inventory.<n/>Click the petal you just collected to equip it (or use the numeric hotkey for it).
+Achievements/3/Description=Equipa un pétalo.
+Achievements/3/ExtraDescription=Si tienes espacio en tu equipamiento cuando recojas un pétalo, irá allí, de lo contrario irá a tu inventario.<n/>Haz clic en el pétalo que acabas de recoger para equiparlo (o usa la tecla de acceso rápido numérica para él).
 
 # Disabled
 Achievements/4/Name=Tutorial
-Achievements/4/Description=Collect more petals.
-Achievements/4/ExtraDescription=For the next step, we'll need a lot of petals.<n/>Keep destroying enemies and collecting petals.
+Achievements/4/Description=Recoge más pétalos.
+Achievements/4/ExtraDescription=Para el siguiente paso, necesitaremos muchos pétalos.<n/>Sigue destruyendo enemigos y recogiendo pétalos.
 
 Achievements/5/Name=Tutorial
-Achievements/5/Description=Get to level {0}.
-Achievements/5/ExtraDescription=To level up, just keep destroying some insects.
+Achievements/5/Description=Llega al nivel {0}.
+Achievements/5/ExtraDescription=Para subir de nivel, solo sigue destruyendo algunos insectos.
 
 Achievements/6/Name=Tutorial
-Achievements/6/Description=Use your talent point.
-Achievements/6/ExtraDescription=Use this new talent point you got to unlock any talent.<n/><n/>Remember you need to click and HOLD to upgrade a talent.
+Achievements/6/Description=Usa tu punto de talento.
+Achievements/6/ExtraDescription=Usa este nuevo punto de talento que tienes para desbloquear cualquier talento.<n/><n/>Recuerda que necesitas hacer clic y MANTENER para mejorar un talento.
 
 Achievements/7/Name=Tutorial
-Achievements/7/Description=Collect some petals.
-Achievements/7/ExtraDescription=Now we need to collect {0} of the same {#Rarities/{1}/NameColored} petal to craft {#Rarities/{2}/Article} {#Rarities/{2}/NameColored} petal.<n/>Keep destroying some insects to collect a couple more petals.
+Achievements/7/Description=Recoge algunos pétalos.
+Achievements/7/ExtraDescription=Ahora necesitamos recolectar {0} del mismo pétalo {#Rarities/{1}/NameColored} para crear {#Rarities/{2}/Article} {#Rarities/{2}/NameColored} pétalo.<n/>Sigue destruyendo algunos insectos para recolectar un par de pétalos más.
 
 Achievements/8/Name=Tutorial
-Achievements/8/Description=Craft a petal.
-Achievements/8/ExtraDescription=Now try to craft your first petal.<n/>Note that you might need to unequip some petals to have enough to do this craft.<n/>You need 5 of the same petal.<n/><n/>Don't worry, we loaded the dice for this one, it will succeed.
+Achievements/8/Description=Fabrica un pétalo.
+Achievements/8/ExtraDescription=Ahora intenta fabricar tu primer pétalo.<n/>Ten en cuenta que es posible que necesites desequipar algunos pétalos para tener suficiente para hacer la fabricación.<n/>Necesitas 5 del mismo pétalo.<n/><n/>No te preocupes, cargamos los dados para este, tendrá éxito.
 
 Achievements/9/Name=Tutorial
-Achievements/9/Description=Complete the tutorial.
+Achievements/9/Description=Completa el tutorial.
 
 Achievements/10/Name=Crafter
 Achievements/10/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.

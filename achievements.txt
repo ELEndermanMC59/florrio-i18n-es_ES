@@ -29,7 +29,7 @@ Achievements/6/ExtraDescription=Usa este nuevo punto de talento que tienes para 
 
 Achievements/7/Name=Tutorial
 Achievements/7/Description=Recoge algunos pétalos.
-Achievements/7/ExtraDescription=Ahora necesitamos recolectar {0} del mismo pétalo {#Rarities/{1}/NameColored} para crear {#Rarities/{2}/Article} pétalo {#Rarities/{2}/NameColored}.<n/>Sigue destruyendo algunos insectos para recolectar un par de pétalos más.
+Achievements/7/ExtraDescription=Ahora necesitamos recolectar {0} del mismo pétalo {#Rarities/{1}/Male/NameColored} para crear {#Rarities/{2}/Male/Article} pétalo {#Rarities/{2}/Male/NameColored}.<n/>Sigue destruyendo algunos insectos para recolectar un par de pétalos más.
 
 Achievements/8/Name=Tutorial
 Achievements/8/Description=Fabrica un pétalo.
@@ -38,8 +38,8 @@ Achievements/8/ExtraDescription=Ahora intenta fabricar tu primer pétalo.<n/>Ten
 Achievements/9/Name=Tutorial
 Achievements/9/Description=Completa el tutorial.
 
-Achievements/10/Name=Crafter
-Achievements/10/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/10/Name=Fabricador
+Achievements/10/Description=Fabrica {#Rarities/{0}/Male/Article} pétalo {#Rarities/{0}/Male/Name}.
 
 Achievements/11/Name=Crafter
 Achievements/11/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.

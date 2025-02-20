@@ -494,3 +494,8 @@ Petals/golden_leaf/Name=Hoja
 Petals/golden_leaf/FullName=Hoja Dorada
 Petals/golden_leaf/Gender=Female
 Petals/golden_leaf/Description=Una hoja especial, parece permitir usar tus otros pétalos aún mejor.
+
+Petals/cog/Name=Engranaje
+Petals/cog/FullName=Engranaje
+Petals/cog/Gender=Male
+Petals/cog/Description=No parece hacer mucho...

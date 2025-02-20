@@ -2,230 +2,303 @@ Mobs/none/Gender=Male
 
 Mobs/rock/Name=Roca
 Mobs/rock/Description=Una roca. No hace mucho.
+Mobs/rock/Gender=Male
 Mobs/rock/Spawn=Algo parecido a una montaña aparece en la distancia...
 
 Mobs/cactus/Name=Cactus
 Mobs/cactus/Description=Evita tocarlo, duele.
+Mobs/cactus/Gender=Male
 Mobs/cactus/Spawn=Una torre de espinas se eleva de las arenas...
 
 Mobs/ladybug/Name=Mariquita
 Mobs/ladybug/Description=Linda y inofensiva.
+Mobs/ladybug/Gender=Female
 
 Mobs/bee/Name=Abeja
 Mobs/bee/Description=Pica. No la toques.
+Mobs/bee/Gender=Female
 
 Mobs/ant_baby/Name=Hormiga Bebé
 Mobs/ant_baby/Description=Débil e indefenso, pero grandes sueños.
+Mobs/ant_baby/Gender=Female
 
 Mobs/ant_worker/Name=Hormiga Trabajadora
 Mobs/ant_worker/Description=Es un poco temperamental, probablemente por trabajar todo el tiempo.
+Mobs/ant_worker/Gender=Female
 
 Mobs/ant_soldier/Name=Hormiga Soldado
 Mobs/ant_soldier/Description=Tiene alas y está listo para usarlas.
+Mobs/ant_soldier/Gender=Female
 
 Mobs/ant_queen/Name=Hormiga Reina
 Mobs/ant_queen/Description=Debes haber hecho algo muy malo si ella te está persiguiendo.
+Mobs/ant_queen/Gender=Female
 
 Mobs/ant_hole/Name=Agujero de Hormigas
 Mobs/ant_hole/Description=Las hormigas entran y salen. No puedo explicar eso.
+Mobs/ant_hole/Gender=Male
 
 Mobs/beetle/Name=Escarabajo
 Mobs/beetle/Description=Tiene hambre y las flores son su comida favorita.
+Mobs/beetle/Gender=Male
 
 Mobs/hornet/Name=Avispón
-Mobs/hornet/Description=Estas no son tan bonitas como las abejitas.
+Mobs/hornet/Description=Estos no son tan bonitos como las abejitas.
+Mobs/hornet/Gender=Male
 Mobs/hornet/Spawn=Una gran mancha amarilla aparece en la distancia...
 
 Mobs/centipede/Name=Ciempiés
 Mobs/centipede/Description=Solo está ahí haciendo lo suyo.
+Mobs/centipede/Gender=Male
 
 Mobs/centipede_body/Name=Ciempiés
 Mobs/centipede_body/Description=Solo está ahí haciendo lo suyo.
+Mobs/centipede_body/Gender=Male
 
 Mobs/centipede_evil/Name=Ciempiés
 Mobs/centipede_evil/Description=A este le encantan las flores.
+Mobs/centipede_evil/Gender=Male
 
 Mobs/centipede_evil_body/Name=Ciempiés
 Mobs/centipede_evil_body/Description=A este le encantan las flores.
+Mobs/centipede_evil_body/Gender=Male
 
 Mobs/centipede_desert/Name=Ciempiés
 Mobs/centipede_desert/Description=Hay que ir rápido.
+Mobs/centipede_desert/Gender=Male
 
 Mobs/centipede_desert_body/Name=Ciempiés
 Mobs/centipede_desert_body/Description=Hay que ir rápido.
+Mobs/centipede_desert_body/Gender=Male
 
 Mobs/square/Name=Cuadrado
 Mobs/square/Description=Esta forma... parece familiar...
+Mobs/square/Gender=Male
 
 Mobs/ladybug_dark/Name=Mariquita
 Mobs/ladybug_dark/Description=Linda y inofensiva... si no se provoca.
+Mobs/ladybug_dark/Gender=Female
 
 Mobs/ladybug_shiny/Name=Mariquita
 Mobs/ladybug_shiny/Description=Brillante, linda y mayormente inofensiva.
+Mobs/ladybug_shiny/Gender=Female
 
 Mobs/spider/Name=Araña
 Mobs/spider/Description=Espeluznante.
+Mobs/spider/Gender=Female
 
 Mobs/scorpion/Name=Escorpión
 Mobs/scorpion/Description=¡PICA!
+Mobs/scorpion/Gender=Male
 
 Mobs/fire_ant_soldier/Name=Hormiga de Fuego Soldado
 Mobs/fire_ant_soldier/Description=Esta hormiga está en fuegoooooooooooooo.
+Mobs/fire_ant_soldier/Gender=Female
 
 Mobs/fire_ant_burrow/Name=Madriguera de Hormigas de Fuego
 Mobs/fire_ant_burrow/Description=¿Qué podría haber aquí?
+Mobs/fire_ant_burrow/Gender=Female
 
 Mobs/sandstorm/Name=Tormenta de Arena
 Mobs/sandstorm/Description=Darude (1999)
+Mobs/sandstorm/Gender=Female
 
 Mobs/bubble/Name=Burbuja
 Mobs/bubble/Description=Pop
+Mobs/bubble/Gender=Female
 
 Mobs/bumble_bee/Name=Abejorro
-Mobs/bumble_bee/Description=TENGO QUE CORRER.
+Mobs/bumble_bee/Description=HAY QUE CORRER.
+Mobs/bumble_bee/Gender=Male
 
-Mobs/shell/Name=Concha
+Mobs/shell/Name=Concha de Mar
 Mobs/shell/Description=No es un anuncio.
+Mobs/shell/Gender=Female
 
 Mobs/starfish/Name=Estrella de Mar
 Mobs/starfish/Description=Su nombre es Patrick.
+Mobs/starfish/Gender=Female
 
 Mobs/crab/Name=Cangrejo
 Mobs/crab/Description=Sr. Cangrejo.
+Mobs/crab/Gender=Male
 
 Mobs/jellyfish/Name=Medusa
 Mobs/jellyfish/Description=Hace la mermelada más deliciosa.
+Mobs/jellyfish/Gender=Female
 Mobs/jellyfish/Spawn=Escuchas rayos que vienen desde muy lejos...
 
 Mobs/digger/Name=Excavador
 Mobs/digger/Description=Juego equivocado, amigo.
+Mobs/digger/Gender=Male
 
 Mobs/sponge/Name=Esponja
 Mobs/sponge/Description=Bob.
+Mobs/sponge/Gender=Female
 
 Mobs/leech/Name=Sanguijuela
 Mobs/leech/Description=Slurp slurp.
+Mobs/leech/Gender=Female
 
 Mobs/leech_body/Name=Sanguijuela
 Mobs/leech_body/Description=Slurp slurp.
+Mobs/leech_body/Gender=Female
 
 Mobs/dandelion/Name=Diente de León
 Mobs/dandelion/Description=Hinchado.
+Mobs/dandelion/Gender=Male
 
 Mobs/fire_ant_baby/Name=Hormiga de Fuego Bebé
 Mobs/fire_ant_baby/Description=Esta hormiga está en fuegoooooooooooooo.
+Mobs/fire_ant_baby/Gender=Female
 
 Mobs/fire_ant_worker/Name=Hormiga de Fuego de Trabajador
 Mobs/fire_ant_worker/Description=Esta hormiga está en fuegoooooooooooooo.
+Mobs/fire_ant_worker/Gender=Female
 
 Mobs/fire_ant_queen/Name=Hormiga de Fuego Reina
 Mobs/fire_ant_queen/Description=Esta hormiga está en fuegoooooooooooooo.
+Mobs/fire_ant_queen/Gender=Female
 
 Mobs/ant_egg/Name=Huevo de Hormiga
 Mobs/ant_egg/Description=Todavía no es una hormiga, pero tal vez pronto.
+Mobs/ant_egg/Gender=Male
 
 Mobs/fire_ant_egg/Name=Huevo de Hormiga de Fuego
 Mobs/fire_ant_egg/Description=Esta hormiga aún no está en fuego.
+Mobs/fire_ant_egg/Gender=Male
 
 Mobs/fly/Name=Mosca
 Mobs/fly/Description=Hzzzzzzzzzzzz.
+Mobs/fly/Gender=Female
 
 Mobs/leafbug/Name=Insecto Hoja
 Mobs/leafbug/Description=No es una hoja, pero es un bicho.
+Mobs/leafbug/Gender=Male
 
 Mobs/mantis/Name=Mantis
 Mobs/mantis/Description=Será mejor que reces para que no te conviertas en cena.
+Mobs/mantis/Gender=Female
 
 Mobs/termite_baby/Name=Termita Bebé
 Mobs/termite_baby/Description=Débiles e indefensos, pero grandes sueños.<n/>Estas criaturas parecen estar conectadas de alguna manera.
+Mobs/termite_baby/Gender=Female
 
 Mobs/termite_worker/Name=Termita Trabajadora
 Mobs/termite_worker/Description=Es un poco temperamental, probablemente por trabajar todo el tiempo.<n/>Estas criaturas parecen estar conectadas de alguna manera.
+Mobs/termite_worker/Gender=Female
 
 Mobs/termite_soldier/Name=Termita Soldado
 Mobs/termite_soldier/Description=Tiene alas y está listo para usarlas.<n/>Estas criaturas parecen estar conectadas de alguna manera.
+Mobs/termite_soldier/Gender=Female
 
 Mobs/termite_overmind/Name=Mente Superior de Termitas
 Mobs/termite_overmind/Description=El que supervisa todo.
+Mobs/termite_overmind/Gender=Female
 
-Mobs/termite_mound/Name=Termite Mound
+Mobs/termite_mound/Name=Montículo de Termitas
 Mobs/termite_mound/Description=Las termitas entran y salen. No puedo explicar eso.
+Mobs/termite_mound/Gender=Male
 
 Mobs/termite_egg/Name=Huevo de Termita
 Mobs/termite_egg/Description=Todavía no es una termita, pero tal vez pronto.
+Mobs/termite_egg/Gender=Male
 
 Mobs/bush/Name=Arbusto
 Mobs/bush/Description=No me subestimes.
+Mobs/bush/Gender=Male
 
 Mobs/roach/Name=Cucaracha
 Mobs/roach/Description=Hay que ir RÁPIDO... hasta que se cansan.
+Mobs/roach/Gender=Male
 
 Mobs/moth/Name=Polilla
 Mobs/moth/Description=Se asusta fácilmente, sea amable.
+Mobs/moth/Gender=Female
 
 Mobs/firefly/Name=Luciérnaga
 Mobs/firefly/Description=Oooooh brillante.
+Mobs/firefly/Gender=Female
 Mobs/firefly/Spawn=Hay una luz brillante en el horizonte...
 
 Mobs/beetle_hel/Name=Escarabajo
 Mobs/beetle_hel/Description=Flagelo que aparece en el otro plano.
+Mobs/beetle_hel/Gender=Male
 Mobs/beetle_hel/Spawn=Sientes vibraciones ominosas que vienen de un reino diferente...
 
 Mobs/wasp/Name=Avispa
 Mobs/wasp/Description=Están ENOJADAS.
+Mobs/wasp/Gender=Female
 
 Mobs/dummy/Name=Maniquí Objetivo
 Mobs/dummy/Description=¿Cómo tienes esto en tu galería?
+Mobs/dummy/Gender=Male
 
 Mobs/spider_hel/Name=Araña
 Mobs/spider_hel/Description=Flagelo que aparece en el otro plano.
+Mobs/spider_hel/Gender=Female
 Mobs/spider_hel/Spawn=Sientes vibraciones ominosas que vienen de un reino diferente...
 
 Mobs/centipede_hel/Name=Ciempiés
 Mobs/centipede_hel/Description=Flagelo que aparece en el otro plano.
+Mobs/centipede_hel/Gender=Male
 Mobs/centipede_hel/Spawn=Sientes vibraciones ominosas que vienen de un reino diferente...
 
 Mobs/centipede_hel_body/Name=Ciempiés
 Mobs/centipede_hel_body/Description=Flagelo que aparece en el otro plano.
+Mobs/centipede_hel_body/Gender=Male
 Mobs/centipede_hel_body/Spawn=Sientes vibraciones ominosas que vienen de un reino diferente...
 
 Mobs/wasp_hel/Name=Avispa
 Mobs/wasp_hel/Description=Flagelo que aparece en el otro plano.
+Mobs/wasp_hel/Gender=Female
 Mobs/wasp_hel/Spawn=Sientes vibraciones ominosas que vienen de un reino diferente...
 
 Mobs/trader/Name=Comerciante
 Mobs/trader/Description= 
+Mobs/trader/Gender=Male
 
 Mobs/gambler/Name=Apostador
 Mobs/gambler/Description=Esto te puede pasar a TI.
+Mobs/gambler/Gender=Male
 Mobs/gambler/Spawn=Escuchas a alguien susurrar débilmente... "solo... un juego más..."
 
 Mobs/oracle/Name=Oráculo
 Mobs/oracle/Description= 
+Mobs/oracle/Gender=Male
 
 Mobs/firefly_magic/Name=Luciérnaga
 Mobs/firefly_magic/Description=Hay algo mágico en este.
+Mobs/firefly_magic/Gender=Female
 
 Mobs/titan/Name=Titán
 Mobs/titan/Description= 
+Mobs/titan/Gender=Male
 
 Mobs/beetle_nazar/Name=Escarabajo
 Mobs/beetle_nazar/Description=Este tiene un patrón diferente... ¿qué significa eso?
+Mobs/beetle_nazar/Gender=Male
 
 Mobs/worm/Name=Gusano
 Mobs/worm/Description=Se supone que debe comer tierra, pero este está comiendo flores.
+Mobs/worm/Gender=Male
 
 Mobs/worm_guts/Name=Tripas de Gusano
 Mobs/worm_guts/Description=Se supone que no debes ver este texto. Voy a llamar a la policía.
+Mobs/worm_guts/Gender=Female
 
 Mobs/mecha_flower/Name=Flor Mecánica
 Mobs/mecha_flower/Description=Alguien ha estado haciendo estas flores mecánicas... ¿Qué podría significar esto?
+Mobs/mecha_flower/Gender=Female
 
 Mobs/wasp_mecha/Name=Avispa
 Mobs/wasp_mecha/Description=Están enojadas MECÁNICAMENTE.
+Mobs/wasp_mecha/Gender=Female
 
 Mobs/spider_mecha/Name=Araña
 Mobs/spider_mecha/Description=Mecánicamente espeluznante.
+Mobs/spider_mecha/Gender=Female
 
 Mobs/leafbug_shiny/Name=Insecto Hoja
 Mobs/leafbug_shiny/Description=Este tiene un color especial...
+Mobs/leafbug_shiny/Gender=Male

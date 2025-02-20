@@ -8,6 +8,7 @@ UI/Title/LoggingIn=Iniciando Sesión...
 UI/Title/Ready=Jugar
 UI/Title/GuestName=Visitante
 UI/Title/GuestLimitation=Puedes elegir un apodo una vez que vincules una cuenta o subas al nivel {0}.
+UI/Title/LockedInHel=Estás atrapado en Hel por {0:time}.
 UI/Title/Name/Title=Esta linda flor se llama...
 UI/Title/Name/Rules1=Su nombre debe ser alfanumérico o {2}, y contener {0}~{1} caracteres.
 UI/Title/Name/Rules2=Debe tener al menos {0} caracteres alfanuméricos.

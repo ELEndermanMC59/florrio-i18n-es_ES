@@ -499,3 +499,8 @@ Petals/cog/Name=Engranaje
 Petals/cog/FullName=Engranaje
 Petals/cog/Gender=Male
 Petals/cog/Description=No parece hacer mucho...
+
+Petals/monstera/Name=Piñanona
+Petals/monstera/FullName=Piñanona
+Petals/monstera/Gender=Female
+Petals/monstera/Description=Cura las flores a su alrededor.<n/>El efecto se desvanece con la distancia al pétalo.

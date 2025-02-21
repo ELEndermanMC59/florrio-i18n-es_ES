@@ -4,9 +4,9 @@ UI/Language/Credits=ELEndermanMC
 
 UI/Title/Loading=Cargando...
 UI/Title/Connecting=Conectandose...
-UI/Title/LoggingIn=Iniciando Sesión...
+UI/Title/LoggingIn=Iniciando sesión...
 UI/Title/Ready=Jugar
-UI/Title/GuestName=Visitante
+UI/Title/GuestName=Invitado
 UI/Title/GuestLimitation=Puedes elegir un apodo una vez que vincules una cuenta o subas al nivel {0}.
 UI/Title/LockedInHel=Estás atrapado en Hel por {0:time}.
 UI/Title/Name/Title=Esta linda flor se llama...
@@ -22,19 +22,19 @@ UI/Title/Name/InternalError=Error interno, intentalo mas tarde.
 UI/Title/Biome={#UI/Title/Biome/{0}}
 UI/Title/Biome/0=Jardín
 UI/Title/Biome/1=Desierto
-UI/Title/Biome/2=Oceano
+UI/Title/Biome/2=Océano
 UI/Title/Biome/3=Jungla
 UI/Title/Biome/4=Hel
 
 UI/Login/Title=Cuenta
-UI/Login/PlayAsGuest=Juega como un visitante
+UI/Login/PlayAsGuest=Juega como un invitado
 UI/Login/SignInApple=Iniciar sesión con Apple
 UI/Login/SignInDiscord=Iniciar sesión con Discord
 UI/Login/Logout=Cerrar sesión
 UI/Login/AccountID=ID de cuenta:
 UI/Login/Connecting=(conectando)
-UI/Login/GuestName=Visitante
-UI/Login/GuestInfo=Si ya tienes una cuenta de visitante en este dispositivo,<n/>al iniciar sesión se vinculará esa cuenta y se mantendrá tu progreso.
+UI/Login/GuestName=Invitado
+UI/Login/GuestInfo=Si ya tienes una cuenta de invitado en este dispositivo,<n/>al iniciar sesión se vinculará esa cuenta y se mantendrá tu progreso.
 UI/Login/LinkInfo=Puedes vincular tu cuenta para<n/>mantener tu progreso en todos tus dispositivos.
 UI/Login/Linked=Vinculado
 UI/Login/SupportPIN=PIN de soporte: {0}
@@ -46,7 +46,7 @@ UI/Login/Reminder=Vincula tu cuenta para guardar tu progreso
 UI/Social/Discord=¡Únete a nuestra comunidad de Discord!
 UI/Social/QQ=加入我们的QQ群!
 
-UI/AbandonGame=Abandonar el juego
+UI/AbandonGame=Abandonar partida
 UI/Reconnecting=Conexión perdida, reconectando...
 
 UI/LevelBar/Level=Nivel {0}
@@ -59,7 +59,7 @@ UI/Scoreboard/Title/N={0} Flores
 UI/Scoreboard/HiddenName=Jugador #{0}
 
 UI/Chat/PromptTap=Toca aqui para chatear
-UI/Chat/PromptClick=Clica aqui para chatear
+UI/Chat/PromptClick=Haz click aquí para chatear
 UI/Chat/PromptKeyboardOrClick=Presione [ENTER] o haga clic aquí para chatear
 UI/Chat/Player/Block=Bloquear
 UI/Chat/Player/ReportMessage=Reportar mensaje
@@ -79,19 +79,19 @@ UI/Death/Title=Fuiste destruido por:
 UI/Death/NoSource=Una entidad misteriosa
 UI/Death/Continue=Continuar
 UI/Death/Close=Cerrar
-UI/Death/CollectedThisRun=Recogído en esta partida
+UI/Death/CollectedThisRun=Recogido en esta partida
 
-UI/AFKCheck/Title=Cheque de AFK
+UI/AFKCheck/Title=Chequeo de AFK
 UI/AFKCheck/Instructions=Arrastra el circulo hasta el final
 
 UI/Achievements/Title=Logros
 UI/Achievements/Reward=Recompensa
-UI/Achievements/RewardTP={0} TP
-UI/Achievements/Done=Completo
-UI/Achievements/Track=Sige
-UI/Achievements/TrackAutomatically=Sige automaticamente
+UI/Achievements/RewardTP={0} PT
+UI/Achievements/Done=Completado
+UI/Achievements/Track=Sigue
+UI/Achievements/TrackAutomatically=Seguir automaticamente
 UI/Achievements/Hidden=???
-UI/Achievements/TotalProgress={0}/{1} completo
+UI/Achievements/TotalProgress={0}/{1} Completado
 UI/Achievements/UnlockedNotification={#UI/Achievements/UnlockedNotification/{0:1orN}}
 UI/Achievements/UnlockedNotification/1=Logro desbloqueado
 UI/Achievements/UnlockedNotification/N=Logros desbloqueados
@@ -99,11 +99,11 @@ UI/Achievements/UnlockedNotification/N=Logros desbloqueados
 UI/MobGallery/Title=Galería de criaturas
 
 UI/Changelog/Title=Registro de cambios
-UI/Changelog/Bottom=Regristro de cambios más viejos no disponibles
+UI/Changelog/Bottom=Registro de cambios más viejos no disponibles
 
 UI/Inventory/Title=Inventario
 UI/Inventory/Stack=Apilar
-UI/Inventory/Instructions=Arrastra un petalo para equiparlo
+UI/Inventory/Instructions=Arrastra un pétalo para equiparlo
 UI/Inventory/Speed=Velocidad
 UI/Inventory/Rarity={#UI/Petal/Rarity}
 

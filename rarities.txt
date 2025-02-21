@@ -1,10 +1,20 @@
 Rarities/common/Male/Name=Común
-Rarities/common/Male/Article=Un
+Rarities/common/Male/NamePlural=Comúnes
+Rarities/common/Male/ArticleUpper=Un
+Rarities/common/Male/ArticleLower=un
+Rarities/common/Male/ArticleUpperPlural=Unos
+Rarities/common/Male/ArticleLowerPlural=unos
 Rarities/common/Male/NameColored=<c val="{#Colors/common}">{#Rarities/common/Male/Name}</c>
+Rarities/common/Male/NameColoredPlural=<c val="{#Colors/common}">{#Rarities/common/Male/NamePlural}</c>
 
 Rarities/common/Female/Name=Común
-Rarities/common/Female/Article=Una
+Rarities/common/Female/NamePlural=Comúnes
+Rarities/common/Female/ArticleUpper=Una
+Rarities/common/Female/ArticleLower=una
+Rarities/common/Female/ArticleUpperPlural=Unas
+Rarities/common/Female/ArticleLowerPlural=unas
 Rarities/common/Female/NameColored=<c val="{#Colors/common}">{#Rarities/common/Female/Name}</c>
+Rarities/common/Female/NameColoredPlural=<c val="{#Colors/common}">{#Rarities/common/Female/NamePlural}</c>
 
 Rarities/unusual/Male/Name=Inusual
 Rarities/unusual/Male/Article=Un

@@ -14,7 +14,7 @@ Achievements/3/Name=Tutorial
 Achievements/3/Description=Equipa un pétalo.
 Achievements/3/ExtraDescription=Si tienes espacio en tu equipamiento cuando recojas un pétalo, irá allí, de lo contrario irá a tu inventario.<n/>Haz clic en el pétalo que acabas de recoger para equiparlo (o usa la tecla de acceso rápido numérica para él).
 
-# Disabled
+# Unused
 Achievements/4/Name=Tutorial
 Achievements/4/Description=Recoge más pétalos.
 Achievements/4/ExtraDescription=Para el siguiente paso, necesitaremos muchos pétalos.<n/>Sigue destruyendo enemigos y recogiendo pétalos.
@@ -27,6 +27,7 @@ Achievements/6/Name=Tutorial
 Achievements/6/Description=Usa tu punto de talento.
 Achievements/6/ExtraDescription=Usa este nuevo punto de talento que tienes para desbloquear cualquier talento.<n/><n/>Recuerda que necesitas hacer clic y MANTENER para mejorar un talento.
 
+# Unused
 Achievements/7/Name=Tutorial
 Achievements/7/Description=Recoge algunos pétalos.
 Achievements/7/ExtraDescription=Ahora necesitamos recolectar {0} del mismo pétalo {#Rarities/{1}/Male/NameColored} para crear {#Rarities/{2}/Male/Article} pétalo {#Rarities/{2}/Male/NameColored}.<n/>Sigue destruyendo algunos insectos para recolectar un par de pétalos más.

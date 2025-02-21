@@ -17,65 +17,145 @@ Rarities/common/Female/NameColored=<c val="{#Colors/common}">{#Rarities/common/F
 Rarities/common/Female/NameColoredPlural=<c val="{#Colors/common}">{#Rarities/common/Female/NamePlural}</c>
 
 Rarities/unusual/Male/Name=Inusual
-Rarities/unusual/Male/Article=Un
+Rarities/unusual/Male/NamePlural=Inusuales
+Rarities/unusual/Male/ArticleUpper=Un
+Rarities/unusual/Male/ArticleLower=un
+Rarities/unusual/Male/ArticleUpperPlural=Unos
+Rarities/unusual/Male/ArticleLowerPlural=unos
 Rarities/unusual/Male/NameColored=<c val="{#Colors/unusual}">{#Rarities/unusual/Male/Name}</c>
+Rarities/unusual/Male/NameColoredPlural=<c val="{#Colors/unusual}">{#Rarities/unusual/Male/NamePlural}</c>
 
 Rarities/unusual/Female/Name=Inusual
-Rarities/unusual/Female/Article=Una
+Rarities/unusual/Female/NamePlural=Inusuales
+Rarities/unusual/Female/ArticleUpper=Una
+Rarities/unusual/Female/ArticleLower=una
+Rarities/unusual/Female/ArticleUpperPlural=Unas
+Rarities/unusual/Female/ArticleLowerPlural=unas
 Rarities/unusual/Female/NameColored=<c val="{#Colors/unusual}">{#Rarities/unusual/Female/Name}</c>
+Rarities/unusual/Female/NameColoredPlural=<c val="{#Colors/unusual}">{#Rarities/unusual/Female/NamePlural}</c>
 
 Rarities/rare/Male/Name=Raro
-Rarities/rare/Male/Article=Un
+Rarities/rare/Male/NamePlural=Raros
+Rarities/rare/Male/ArticleUpper=Un
+Rarities/rare/Male/ArticleLower=un
+Rarities/rare/Male/ArticleUpperPlural=Unos
+Rarities/rare/Male/ArticleLowerPlural=unos
 Rarities/rare/Male/NameColored=<c val="{#Colors/rare}">{#Rarities/rare/Male/Name}</c>
+Rarities/rare/Male/NameColoredPlural=<c val="{#Colors/rare}">{#Rarities/rare/Male/NamePlural}</c>
 
 Rarities/rare/Female/Name=Rara
-Rarities/rare/Female/Article=Una
+Rarities/rare/Female/NamePlural=Raras
+Rarities/rare/Female/ArticleUpper=Una
+Rarities/rare/Female/ArticleLower=una
+Rarities/rare/Female/ArticleUpperPlural=Unas
+Rarities/rare/Female/ArticleUpperPlural=unas
 Rarities/rare/Female/NameColored=<c val="{#Colors/rare}">{#Rarities/rare/Female/Name}</c>
+Rarities/rare/Female/NameColoredPLural=<c val="{#Colors/rare}">{#Rarities/rare/Female/NamePlural}</c>
 
 Rarities/epic/Male/Name=Épico
-Rarities/epic/Male/Article=Un
+Rarities/epic/Male/NamePlural=Épicos
+Rarities/epic/Male/ArticleUpper=Un
+Rarities/epic/Male/ArticleLower=un
+Rarities/epic/Male/ArticleUpperPlural=Unos
+Rarities/epic/Male/ArticleLowerPlural=unos
 Rarities/epic/Male/NameColored=<c val="{#Colors/epic}">{#Rarities/epic/Male/Name}</c>
+Rarities/epic/Male/NameColoredPlural=<c val="{#Colors/epic}">{#Rarities/epic/Male/NamePlural}</c>
 
 Rarities/epic/Female/Name=Épica
-Rarities/epic/Female/Article=Una
+Rarities/epic/Female/NamePlural=Épicas
+Rarities/epic/Female/ArticleUpper=Una
+Rarities/epic/Female/ArticleLower=una
+Rarities/epic/Female/ArticleUpperPlural=Unas
+Rarities/epic/Female/ArticleLowerPlural=unas
 Rarities/epic/Female/NameColored=<c val="{#Colors/epic}">{#Rarities/epic/Female/Name}</c>
+Rarities/epic/Female/NameColoredPlural=<c val="{#Colors/epic}">{#Rarities/epic/Female/NamePlural}</c>
 
 Rarities/legendary/Male/Name=Legendario
-Rarities/legendary/Male/Article=Un
+Rarities/legendary/Male/NamePlural=Legendarios
+Rarities/legendary/Male/ArticleUpper=Un
+Rarities/legendary/Male/ArticleLower=un
+Rarities/legendary/Male/ArticleUpperPlural=Unos
+Rarities/legendary/Male/ArticleLowerPlural=unos
 Rarities/legendary/Male/NameColored=<c val="{#Colors/legendary}">{#Rarities/legendary/Male/Name}</c>
+Rarities/legendary/Male/NameColoredPlural=<c val="{#Colors/legendary}">{#Rarities/legendary/Male/NamePlural}</c>
 
 Rarities/legendary/Female/Name=Legendaria
-Rarities/legendary/Female/Article=Una
+Rarities/legendary/Female/NamePlural=Legendarias
+Rarities/legendary/Female/ArticleUpper=Una
+Rarities/legendary/Female/ArticleLower=una
+Rarities/legendary/Female/ArticleUpperPlural=Unas
+Rarities/legendary/Female/ArticleLowerPlural=unas
 Rarities/legendary/Female/NameColored=<c val="{#Colors/legendary}">{#Rarities/legendary/Female/Name}</c>
+Rarities/legendary/Female/NameColoredPlural=<c val="{#Colors/legendary}">{#Rarities/legendary/Female/NamePlural}</c>
 
 Rarities/mythic/Male/Name=Mítico
-Rarities/mythic/Male/Article=Un
+Rarities/mythic/Male/NamePlural=Míticos
+Rarities/mythic/Male/ArticleUpper=Un
+Rarities/mythic/Male/ArticleLower=un
+Rarities/mythic/Male/ArticleUpperPlural=Unos
+Rarities/mythic/Male/ArticleLowerPlural=unos
 Rarities/mythic/Male/NameColored=<c val="{#Colors/mythic}">{#Rarities/mythic/Male/Name}</c>
+Rarities/mythic/Male/NameColoredPlural=<c val="{#Colors/mythic}">{#Rarities/mythic/Male/NamePlural}</c>
 
 Rarities/mythic/Female/Name=Mítica
-Rarities/mythic/Female/Article=Una
+Rarities/mythic/Female/NamePlural=Míticas
+Rarities/mythic/Female/ArticleUpper=Una
+Rarities/mythic/Female/rticleLower=una
+Rarities/mythic/Female/ArticleUpperPlural=Unas
+Rarities/mythic/Female/ArticleLowerPlural=unas
 Rarities/mythic/Female/NameColored=<c val="{#Colors/mythic}">{#Rarities/mythic/Female/Name}</c>
+Rarities/mythic/Female/NameColoredPlural=<c val="{#Colors/mythic}">{#Rarities/mythic/Female/NamePlural}</c>
 
 Rarities/ultra/Male/Name=Ultra
-Rarities/ultra/Male/Article=Un
+Rarities/ultra/Male/NamePlural=Ultras
+Rarities/ultra/Male/ArticleUpper=Un
+Rarities/ultra/Male/ArticleLower=un
+Rarities/ultra/Male/ArticleUpperPlural=Unos
+Rarities/ultra/Male/ArticleLowerPlural=unos
 Rarities/ultra/Male/NameColored=<c val="{#Colors/ultra}">{#Rarities/ultra/Male/Name}</c>
+Rarities/ultra/Male/NameColoredPlural=<c val="{#Colors/ultra}">{#Rarities/ultra/Male/NamePlural}</c>
 
 Rarities/ultra/Female/Name=Ultra
-Rarities/ultra/Female/Article=Una
+Rarities/ultra/Female/NamePlural=Ultras
+Rarities/ultra/Female/ArticleUpper=Una
+Rarities/ultra/Female/ArticleLower=una
+Rarities/ultra/Female/ArticleUpperPlural=Unas
+Rarities/ultra/Female/ArticleLowerPlural=unas
 Rarities/ultra/Female/NameColored=<c val="{#Colors/ultra}">{#Rarities/ultra/Female/Name}</c>
+Rarities/ultra/Female/NameColoredPlural=<c val="{#Colors/ultra}">{#Rarities/ultra/Female/NamePlural}</c>
 
 Rarities/super/Male/Name=Súper
-Rarities/super/Male/Article=Un
+Rarities/super/Male/NamePlural=Súpers
+Rarities/super/Male/ArticleUpper=Un
+Rarities/super/Male/ArticleLower=un
+Rarities/super/Male/ArticleUpperPlural=Unos
+Rarities/super/Male/ArticleLowerPlural=unos
 Rarities/super/Male/NameColored=<c val="{#Colors/super}">{#Rarities/super/Male/Name}</c>
+Rarities/super/Male/NameColoredPlural=<c val="{#Colors/super}">{#Rarities/super/Male/NamePlural}</c>
 
 Rarities/super/Female/Name=Súper
-Rarities/super/Female/Article=Una
+Rarities/super/Female/NamePlural=Súpers
+Rarities/super/Female/ArticleUpper=Una
+Rarities/super/Female/ArticleLower=una
+Rarities/super/Female/ArticleUpperPlural=Unas
+Rarities/super/Female/ArticleLowerPlural=unas
 Rarities/super/Female/NameColored=<c val="{#Colors/super}">{#Rarities/super/Female/Name}</c>
+Rarities/super/Female/NameColoredPlural=<c val="{#Colors/super}">{#Rarities/super/Female/NamePlural}</c>
 
 Rarities/unique/Male/Name=Único
-Rarities/unique/Male/Article=Un
+Rarities/unique/Male/NamePlural=Únicos
+Rarities/unique/Male/ArticleUpper=Un
+Rarities/unique/Male/ArticleLower=un
+Rarities/unique/Male/ArticleUpperPlural=Unos
+Rarities/unique/Male/ArticleLowerPlural=unos
 Rarities/unique/Male/NameColored=<c val="{#Colors/unique}">{#Rarities/unique/Male/Name}</c>
+Rarities/unique/Male/NameColoredPlural=<c val="{#Colors/unique}">{#Rarities/unique/Male/NamePlural}</c>
 
 Rarities/unique/Female/Name=Única
-Rarities/unique/Female/Article=Una
+Rarities/unique/Female/NamePlural=Únicas
+Rarities/unique/Female/ArticleUpper=Una
+Rarities/unique/Female/ArticleLower=una
+Rarities/unique/Female/ArticleUpperPlural=Unas
+Rarities/unique/Female/ArticleLowerPlural=unas
 Rarities/unique/Female/NameColored=<c val="{#Colors/unique}">{#Rarities/unique/Female/Name}</c>
+Rarities/unique/Female/NameColoredPlural=<c val="{#Colors/unique}">{#Rarities/unique/Female/NamePlural}</c>

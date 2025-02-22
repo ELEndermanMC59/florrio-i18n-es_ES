@@ -1,4 +1,4 @@
-Mobs/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper} {#Rarities/{0:rarity}/Name} {#Mobs/{0:base}/Name}
+Mobs/AnnouncementPrefix={#Rarities/{0:rarity}/{0:gender}/ArticleUpper} {#Rarities/{0:rarity}/{0:gender}/Name} {#Mobs/{0:base}/Name}
 Petals/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper} {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName}
 
 Chat/PetalCraftedUnnamed={#Chat/PetalCraftedUnnamed/{0:rarity:is-unique}}

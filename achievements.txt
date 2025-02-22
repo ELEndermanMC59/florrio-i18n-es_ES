@@ -7,8 +7,8 @@ Achievements/1/Description=Mata a una criatura.
 Achievements/1/ExtraDescription=Esos insectos son tus enemigos. Destruirlos tiene la posibilidad de soltar nuevos pétalos.<n/><n/>Encuentra uno y destrúyelo.<n/>Puede que te resulta útil mantener presionado el botón izquierdo del ratón para extender tus pétalos.
 
 Achievements/2/Name=Tutorial
-Achievements/2/Description=Collect a petal.
-Achievements/2/ExtraDescription=Keep destroying enemies until they drop a petal, then get close to the petal to collect it.
+Achievements/2/Description=Recoge un pétalo.
+Achievements/2/ExtraDescription=Sigue destruyendo enemigos hasta que dejen caer un pétalo, luego acércate al pétalo para recogerlo.
 
 Achievements/3/Name=Tutorial
 Achievements/3/Description=Equipa un pétalo.
@@ -30,7 +30,7 @@ Achievements/6/ExtraDescription=Usa este nuevo punto de talento que tienes para 
 # Unused
 Achievements/7/Name=Tutorial
 Achievements/7/Description=Recoge algunos pétalos.
-Achievements/7/ExtraDescription=Ahora necesitamos recolectar {0} del mismo pétalo {#Rarities/{1}/Male/NameColored} para crear {#Rarities/{2}/Male/Article} pétalo {#Rarities/{2}/Male/NameColored}.<n/>Sigue destruyendo algunos insectos para recolectar un par de pétalos más.
+Achievements/7/ExtraDescription=Ahora necesitamos recolectar {0} del mismo pétalo {#Rarities/{1}/Male/NameColored} para crear {#Rarities/{2}/Male/ArticleLower} pétalo {#Rarities/{2}/Male/NameColored}.<n/>Sigue destruyendo algunos insectos para recolectar un par de pétalos más.
 
 Achievements/8/Name=Tutorial
 Achievements/8/Description=Fabrica un pétalo.
@@ -40,34 +40,34 @@ Achievements/9/Name=Tutorial
 Achievements/9/Description=Completa el tutorial.
 
 Achievements/10/Name=Fabricador
-Achievements/10/Description=Fabrica {#Rarities/{0}/Male/Article} pétalo {#Rarities/{0}/Male/Name}.
+Achievements/10/Description=Fabrica {#Rarities/{0}/Male/ArticleLower} pétalo {#Rarities/{0}/Male/Name}.
 
-Achievements/11/Name=Crafter
-Achievements/11/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/11/Name=Fabricador
+Achievements/11/Description=Fabrica {#Rarities/{0}/Male/ArticleLower} pétalo {#Rarities/{0}/Male/Name}.
 
-Achievements/12/Name=Crafter
-Achievements/12/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/12/Name=Fabricador
+Achievements/12/Description=Fabrica {#Rarities/{0}/Male/ArticleLower} pétalo {#Rarities/{0}/Male/Name}.
 
-Achievements/13/Name=Crafter
-Achievements/13/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/13/Name=Fabricador
+Achievements/13/Description=Fabrica {#Rarities/{0}/Male/ArticleLower} pétalo {#Rarities/{0}/Male/Name}.
 
-Achievements/14/Name=Crafter
-Achievements/14/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/14/Name=Fabricador
+Achievements/14/Description=Fabrica {#Rarities/{0}/Male/ArticleLower} pétalo {#Rarities/{0}/Male/Name}.
 
-Achievements/15/Name=Crafter
-Achievements/15/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/15/Name=Fabricador
+Achievements/15/Description=Fabrica {#Rarities/{0}/Male/ArticleLower} pétalo {#Rarities/{0}/Male/Name}.
 
-Achievements/16/Name=Crafter
-Achievements/16/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/16/Name=Fabricador
+Achievements/16/Description=Fabrica {#Rarities/{0}/Male/ArticleLower} pétalo {#Rarities/{0}/Male/Name}.
 
-Achievements/17/Name=Consolation prize
-Achievements/17/Description=Fail to craft a petal and lose {0} petals.
+Achievements/17/Name=Premio de consolación
+Achievements/17/Description=Falla en fabricar un pétalo y pierdes {0} pétalos.
 
 Achievements/18/Name=Consolation prize
-Achievements/18/Description=Fail to craft {#Rarities/{1}/Article} {#Rarities/{1}/Name} petal and lose {0} petals.
+Achievements/18/Description=Fail to craft {#Rarities/{1}/Male/ArticleLower} {#Rarities/{1}/Male/Name} petal and lose {0} petals.
 
 Achievements/19/Name=Consolation prize
-Achievements/19/Description=Fail to craft {#Rarities/{1}/Article} {#Rarities/{1}/Name} petal and lose {0} petals.
+Achievements/19/Description=Fail to craft {#Rarities/{1}/Male/ArticleLower} {#Rarities/{1}/Male/Name} petal and lose {0} petals.
 
 Achievements/20/Name=Digger
 Achievements/20/Description=Equip a {#Petals/cutter/Name}.
@@ -115,25 +115,25 @@ Achievements/34/Name=Sewers
 Achievements/34/Description=Find out where that pipe goes.
 
 Achievements/35/Name=Conqueror
-Achievements/35/Description=Defeat your first {#Rarities/{0}/Name} mob.
+Achievements/35/Description=Defeat your first {#Rarities/{0}/Male/Name} mob.
 
 Achievements/36/Name=Conqueror
-Achievements/36/Description=Defeat your first {#Rarities/{0}/Name} mob.
+Achievements/36/Description=Defeat your first {#Rarities/{0}/Male/Name} mob.
 
 Achievements/37/Name=Conqueror
-Achievements/37/Description=Defeat your first {#Rarities/{0}/Name} mob.
+Achievements/37/Description=Defeat your first {#Rarities/{0}/Male/Name} mob.
 
 Achievements/38/Name=Conqueror
-Achievements/38/Description=Defeat your first {#Rarities/{0}/Name} mob.
+Achievements/38/Description=Defeat your first {#Rarities/{0}/Male/Name} mob.
 
 Achievements/39/Name=Conqueror
-Achievements/39/Description=Defeat your first {#Rarities/{0}/Name} mob.
+Achievements/39/Description=Defeat your first {#Rarities/{0}/Male/Name} mob.
 
 Achievements/40/Name=Conqueror
-Achievements/40/Description=Defeat your first {#Rarities/{0}/Name} mob.
+Achievements/40/Description=Defeat your first {#Rarities/{0}/Male/Name} mob.
 
 Achievements/41/Name=Conqueror
-Achievements/41/Description=Defeat your first {#Rarities/{0}/Name} mob.
+Achievements/41/Description=Defeat your first {#Rarities/{0}/Male/Name} mob.
 
 Achievements/42/Name=Go to WHERE?!
 Achievements/42/Description=Visit the other plane.
@@ -151,25 +151,25 @@ Achievements/46/Name=Challenger
 Achievements/46/Description=Complete {0} challenges.
 
 Achievements/47/Name=Gear Up
-Achievements/47/Description=Equip {1} {#Rarities/{0}/Name} petals.
+Achievements/47/Description=Equip {1} {#Rarities/{0}/Male/NamePlural} petals.
 
 Achievements/48/Name=Gear Up
-Achievements/48/Description=Equip {1} {#Rarities/{0}/Name} petals.
+Achievements/48/Description=Equip {1} {#Rarities/{0}/Male/NamePlural} petals.
 
 Achievements/49/Name=Gear Up
-Achievements/49/Description=Equip {1} {#Rarities/{0}/Name} petals.
+Achievements/49/Description=Equip {1} {#Rarities/{0}/Male/NamePlural} petals.
 
 Achievements/50/Name=Gear Up
-Achievements/50/Description=Equip {1} {#Rarities/{0}/Name} petals.
+Achievements/50/Description=Equip {1} {#Rarities/{0}/Male/NamePlural} petals.
 
 Achievements/51/Name=Gear Up
-Achievements/51/Description=Equip {1} {#Rarities/{0}/Name} petals.
+Achievements/51/Description=Equip {1} {#Rarities/{0}/Male/NamePlural} petals.
 
 Achievements/52/Name=Gear Up
-Achievements/52/Description=Equip {1} {#Rarities/{0}/Name} petals.
+Achievements/52/Description=Equip {1} {#Rarities/{0}/Male/NamePlural} petals.
 
 Achievements/53/Name=Gear Up
-Achievements/53/Description=Equip {1} {#Rarities/{0}/Name} petals.
+Achievements/53/Description=Equip {1} {#Rarities/{0}/Male/NamePlural} petals.
 
 Achievements/54/Name=Summoner
 Achievements/54/Description=Spawn a friendly mob.
@@ -199,19 +199,19 @@ Achievements/62/Name=Pain dealer
 Achievements/62/Description=Deal {0:tooltip} damage.
 
 Achievements/63/Name=One-hit KO
-Achievements/63/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
+Achievements/63/Description=Destroy {#Rarities/{0}/Male/ArticleLower} {#Rarities/{0}/Male/Name} mob in one hit.
 
 Achievements/64/Name=One-hit KO
-Achievements/64/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
+Achievements/64/Description=Destroy {#Rarities/{0}/Male/ArticleLower} {#Rarities/{0}/Male/Name} mob in one hit.
 
 Achievements/65/Name=One-hit KO
-Achievements/65/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
+Achievements/65/Description=Destroy {#Rarities/{0}/Male/ArticleLower} {#Rarities/{0}/Male/Name} mob in one hit.
 
 Achievements/66/Name=One-hit KO
-Achievements/66/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
+Achievements/66/Description=Destroy {#Rarities/{0}/Male/ArticleLower} {#Rarities/{0}/Male/Name} mob in one hit.
 
 Achievements/67/Name=One-hit KO
-Achievements/67/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
+Achievements/67/Description=Destroy {#Rarities/{0}/Male/ArticleLower} {#Rarities/{0}/Male/Name} mob in one hit.
 
 Achievements/68/Name=Getting tanned
 Achievements/68/Description=Survive {0:time} in Hel.
@@ -265,25 +265,25 @@ Achievements/84/Name=Serial killer
 Achievements/84/Description=Destroy {0} mobs within {1:time} of each other.
 
 Achievements/85/Name=Unkillable
-Achievements/85/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+Achievements/85/Description=Destroy {0} {#Rarities/{1}/Male/Name}+ mobs without dying.
 
 Achievements/86/Name=Unkillable
-Achievements/86/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+Achievements/86/Description=Destroy {0} {#Rarities/{1}/Male/Name}+ mobs without dying.
 
 Achievements/87/Name=Unkillable
-Achievements/87/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+Achievements/87/Description=Destroy {0} {#Rarities/{1}/Male/Name}+ mobs without dying.
 
 Achievements/88/Name=Unkillable
-Achievements/88/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+Achievements/88/Description=Destroy {0} {#Rarities/{1}/Male/Name}+ mobs without dying.
 
 Achievements/89/Name=Unkillable
-Achievements/89/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+Achievements/89/Description=Destroy {0} {#Rarities/{1}/Male/Name}+ mobs without dying.
 
 Achievements/90/Name=Unkillable
-Achievements/90/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+Achievements/90/Description=Destroy {0} {#Rarities/{1}/Male/Name}+ mobs without dying.
 
 Achievements/91/Name=Unkillable
-Achievements/91/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+Achievements/91/Description=Destroy {0} {#Rarities/{1}/Male/Name}+ mobs without dying.
 
 Achievements/92/Name=You're the dummy
 Achievements/92/Description=Die to a {#Mobs/{0}/Name}.
@@ -298,7 +298,7 @@ Achievements/95/Name=Shiny Hunter
 Achievements/95/Description=Destroy {0} shiny Ladybugs within {1:time}.
 
 Achievements/96/Name=Super Hunter
-Achievements/96/Description=Destroy {0} {#Rarities/{1}/Name} mobs.
+Achievements/96/Description=Destroy {0} {#Rarities/{1}/Male/Name} mobs.
 
 Achievements/97/Name=Sacrifice
 Achievements/97/Description=Die within {0:time} of reviving someone.
@@ -307,7 +307,7 @@ Achievements/98/Name=Useless
 Achievements/98/Description=Get kill credit for a mob without dealing any damage to it.
 
 Achievements/99/Name=Useless
-Achievements/99/Description=Get kill credit for {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob without dealing any damage to it.
+Achievements/99/Description=Get kill credit for {#Rarities/{0}/Male/ArticleLower} {#Rarities/{0}/Male/Name} mob without dealing any damage to it.
 
 Achievements/100/Name=The lucky one
 Achievements/100/Description=Successfully craft {0} petals in a row.
@@ -319,10 +319,10 @@ Achievements/102/Name=Paper
 Achievements/102/Description=Die to a damage instance higher than your max hp.
 
 Achievements/103/Name=Statue
-Achievements/103/Description=Spawn then kill {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob without moving.
+Achievements/103/Description=Spawn then kill {#Rarities/{0}/Male/ArticleLower} {#Rarities/{0}/Male/Name} mob without moving.
 
 Achievements/104/Name=Statue
-Achievements/104/Description=Spawn then kill {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob without moving.
+Achievements/104/Description=Spawn then kill {#Rarities/{0}/Male/ArticleLower} {#Rarities/{0}/Male/Name} mob without moving.
 
 Achievements/105/Name=Breath in, breath out
 Achievements/105/Description=Equip and unequip {#Petals/{0}/Name} many times
@@ -355,7 +355,7 @@ Achievements/114/Name=Racecar
 Achievements/114/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0:time}.
 
 Achievements/115/Name=Biologist
-Achievements/115/Description=Destroy {0} different types of {#Rarities/{1}/Name}+ mobs without dying.
+Achievements/115/Description=Destroy {0} different types of {#Rarities/{1}/Male/Name}+ mobs without dying.
 
 Achievements/116/Name=Bad in every way
 Achievements/116/Description=Die to {0} different types of mobs.
@@ -385,13 +385,13 @@ Achievements/124/Name=Hater
 Achievements/124/Description=Destroy {0} of the same type of mob in a row without dying.
 
 Achievements/125/Name=Hater
-Achievements/125/Description=Destroy {0} of the same type of {#Rarities/{1}/Name}+ mob in a row without dying.
+Achievements/125/Description=Destroy {0} of the same type of {#Rarities/{1}/Male/Name}+ mob in a row without dying.
 
 Achievements/126/Name=Hater
-Achievements/126/Description=Destroy {0} of the same type of {#Rarities/{1}/Name}+ mob in a row without dying.
+Achievements/126/Description=Destroy {0} of the same type of {#Rarities/{1}/Male/Name}+ mob in a row without dying.
 
 Achievements/127/Name=Hater
-Achievements/127/Description=Destroy {0} of the same type of {#Rarities/{1}/Name}+ mob in a row without dying.
+Achievements/127/Description=Destroy {0} of the same type of {#Rarities/{1}/Male/Name}+ mob in a row without dying.
 
 Achievements/128/Name=Revenge
 Achievements/128/Description=Destroy the mob that killed you.
@@ -403,10 +403,10 @@ Achievements/130/Name=Trade
 Achievements/130/Description=Acquire a {#Petals/{0:base}/Name} through trade.
 
 Achievements/131/Name=Trade
-Achievements/131/Description=Acquire {#Rarities/{0:rarity}/Article} {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/Name} through trade.
+Achievements/131/Description=Acquire {#Rarities/{0:rarity}/Female/ArticleLower} {#Rarities/{0:rarity}/Female/Name} {#Petals/{0:base}/Name} through trade.
 
 Achievements/132/Name=Trade
-Achievements/132/Description=Acquire {#Rarities/{0:rarity}/Article} {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/Name} through trade.
+Achievements/132/Description=Acquire {#Rarities/{0:rarity}/Female/Article} {#Rarities/{0:rarity}/Female/Name} {#Petals/{0:base}/Name} through trade.
 
 Achievements/133/Name=Gambler
 Achievements/133/Description=Insert {0} Chips into Plinko.
@@ -415,16 +415,16 @@ Achievements/134/Name=JACKPOT!
 Achievements/134/Description=Hit the Jackpot in Plinko.
 
 Achievements/135/Name=High roller
-Achievements/135/Description=Insert {#Rarities/{0:rarity}/Article} {#Rarities/{0:rarity}/Name}+ {#Petals/{0:base}/Name} in Plinko.
+Achievements/135/Description=Insert {#Rarities/{0:rarity}/Female/ArticleLower} {#Rarities/{0:rarity}/Female/Name}+ {#Petals/{0:base}/Name} in Plinko.
 
 Achievements/136/Name=The all-seeing one
 Achievements/136/Description=Craft a petal using the Oracle.
 
 Achievements/137/Name=It was destiny
-Achievements/137/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name}+ petal using the Oracle.
+Achievements/137/Description=Craft {#Rarities/{0}/Male/ArticleLower} {#Rarities/{0}/Male/Name}+ petal using the Oracle.
 
 Achievements/138/Name=Magician
 Achievements/138/Description=Equip an {#Petals/{0}/Name}.
 
 Achievements/139/Name=I'm feeling lucky
-Achievements/139/Description=Get an extra drop due to a {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/Name}.
+Achievements/139/Description=Get an extra drop due to {#Rarities/{0}/Male/ArticleLower} {#Rarities/{0:rarity}/Male/Name} {#Petals/{0:base}/Name}.

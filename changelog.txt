@@ -204,73 +204,78 @@
 	- Las criaturas de rareza superior ahora tienen cantidades variables de resistencia a la lentitud.
 
 30 de Diciembre de 2022
-	- Drops are now shared among the 4 players that dealt the most damage to the mob (as long as they deal at least 5% damage). Squad damage is counted together. Only flowers within about a screen distance can get drops from a mob.
+	- El botín ahora se comparte entre los 4 jugadores que infligieron más daño a la criatura (siempre que causen al menos un 5% de daño). El daño del esquipo se cuenta en conjunto. Solo las flores dentro de una distancia de pantalla pueden recibir botín de una criatura.
 
 29 de Diciembre de 2022
-	- As a special event, we'll be running a game mode that some of you might feel some familiarity with. Have fun!
-	- Some summoner petals are disabled in the main map of this mode (still useable inside antholes). Unfortunately this is too abuseable.
+	- Como evento especial, ejecutaremos un modo de juego con el que algunos de ustedes podrían estar familiarizados. ¡Diviértete!
+	- Algunos pétalos de invocador están desactivados en el mapa principal de este modo (todavía se pueden usar dentro de los Agujeros de Hormigas). Desafortunadamente, esto es demasiado abusable.
 
 28 de Diciembre de 2022
-	- We're experimenting with a HUGE rebalancing of the entire game. We've reset everyone's waves for this. Please be patient while we tweak things to get everything perfect.
-	- The idea is increasing the gap between rarities. Such that if you have unusual petals, a rare mob actually presents a bigger challenge. Before this update, there wasn't really enough distinction between lower mob rarities.
+	- Estamos experimentando con un ENORME reequilibrio de todo el juego. Hemos restablecido las oleadas de todos para esto. Por favor, tenga paciencia mientras ajustamos las cosas para que todo sea perfecto.
+	- La idea está aumentando la brecha entre las rarezas. De tal manera que si tienes pétalos inusuales, una criatura rara en realidad presenta un desafío mayor. Antes de esta actualización, realmente no había suficiente distinción entre las rarezas de la criaturas más bajas.
 
 26 de Diciembre de 2022
-	- Added chat.
-	- Added damage numbers, toggleable in the settings (default on).
-	- Petal tooltips values now update correctly to match values after taking talents into account.
-	- Added more Medic talent tiers.
-	- Removed luck talent, anyone who owned it has been refunded.
+	- Chat añadido.
+	- Números de daños añadidos, conmutables en la configuración (por defecto activados).
+	- Los valores de la información sobre herramientas de los pétalos ahora se actualizan correctamente para que coincidan con los valores después de tener en cuenta los talentos.
+	- Se agregaron más niveles de talento Médico.
+	- Se eliminó el talento de  suerte, cualquiera que lo poseyera ha sido reembolsado.
 
 20 de Diciembre de 2022
-	- We've added a texture to Desert. Other maps will get their own soon. Check out the discord server for the contest!
+	- Hemos añadido una textura al desierto. Otros mapas pronto tendrán los suyos propios. ¡Mira el servidor de Discord para el concurso!
 
 11 de Diciembre de 2022
-	- It is now possible to refund all your TP, at a cost of 5 levels.
+	- Ahora es posible reembolsar todo tu PT, a un costo de 5 niveles.
 
 10 de Diciembre de 2022
-	- Due to some changes in the talent tree, we've reset everyone's talents and refunded all TP.
+	- Debido a algunos cambios en el árbol de talentos, hemos restablecido los talentos de todos y reembolsado todos los PT.
 
 30 de Noviembre de 2022
-	- Mobile users can now tap and hold a petal on the crafting screen to add many at a time.
-	- To make the game a little bit easier, petals now move towards enemies within a certain range of them, which should make it easier to hit enemies.
-	- Since many people have spent their TP without realizing how permanent they are, we will be doing a future update (in late December) in which players can reset their TP allocation once per year.
-	- As a reminder, we'll be adding more things to spend TP on as time goes on.
+	- Los usuarios de móvil ahora pueden tocar y mantener un pétalo en la pantalla de fabricación para agregar muchos a la vez.
+	- Para hacer el juego un poco más fácil, los pétalos ahora se mueven hacia los enemigos dentro de un cierto alcance de ellos, lo que debería facilitar golpea los enemigos.
+	- Dado que muchas personas han gastado sus PT sin darse cuenta de lo permanentes que son, haremos una futura actualización (a finales de diciembre) en la que los jugadores pueden restablecer su asignación de PT una vez al año.
+	- Como recordatorio, añadiremos más cosas en las que gastar PT a medida que pase el tiempo.
 
 29 de Noviembre de 2022
-	- The long awaited talents update is here.
-	- Killing mobs no longer awards XP. We have reset everyone's levels back to 1 as this update significantly changes how levels are acquired.
-	- Petals can now be absorbed to earn XP.
-	- Advancing levels provides TP, which can be used to upgrade talents.
-	- Talents have a permanent effect on your flower. Once upgraded they're unlocked forever. There is no way to undo TP spent on talents.
-	- We may change the formula of XP required on each level. If so, we'll adjust everyone's levels to match the new formula (and award or take back any TP).
-	- Level cap has been raised to 200.
+	- La tan esperada actualización de talentos está aquí.
+	- Matar criaturas ya no otorga XP. Hemos restablecido los niveles de todos a 1, ya que esta actualización cambia significativamente la forma en que se adquieren los niveles.
+	- Los pétalos ahora se pueden absorber para ganar XP.
+	- Avanzar los niveles proporciona PT, que se puede usar para mejorar los talentos.
+	- Los talentos tienen un efecto permanente en tu flor. Una vez actualizados, se desbloquean para siempre. No hay manera de deshacer el PT gastado en talentos.
+	- Podemos cambiar la fórmula de XP requerida en cada nivel. Si es así, ajustaremos los niveles de todos para que coincidan con la nueva fórmula (y otorgaremos o revocaremos cualquier PT).
+	- El límite de nivel se ha elevado a 200.
 
 15 de Noviembre de 2022
-	- Nerfed Hornet health.
+	- Vida de los Avispónes reducida.
 
 6 de Noviembre de 2022
-	- Tweaked number of mobs in each wave.
-	- Tweaked map size in later waves.
-	- We're trying to incentivize clearing mobs before the wave ends by making all mobs aggro when it ends. The map size changes also makes it harder to stay in one spot and just tank all mobs.
-	- We've reset the highest wave beaten by everyone to wave 25, if it was previously higher than that. This is due to the change in wave difficulty.
-	- Enemies no longer have their attack range the same as their aggro range (so hornets for example won't start attacking from half way across the map).
+	- Número de criaturas ajustado en cada ola.
+	- Tamaño del mapa ajustado en oleadas posteriores.
+	- Estamos tratando de incentivar la limpieza de criaturas antes de que termine la ola haciendo que todas las criaturas ataquen cuando termine. Los cambios de tamaño del mapa también hacen que sea más difícil permanecer en un solo lugar y simplemente tanquear a todas las criaturas.
+	- Hemos restablecido la ola más alta alcanzada por todos a la ola 25, si anteriormente era más alta que eso. Esto se debe al cambio en la dificultad de las olas.
+	- Los enemigos ya no tienen su alcance de ataque igual que su alcance de enojo (por lo que los avispones, por ejemplo, no comenzarán a atacar desde la mitad del mapa).
 
 4 de Noviembre de 2022
-	- Map now scales based on the mobs contained within, this should avoid crowding out in late game waves.
-	- Recipe for Ultra petals has changed.
-	  Now creates 50 Ultras from 5 Mythics.
+	- El mapa ahora escala en función de las criaturas contenidas en su interior, esto debería evitar aglomeraciones en las oleadas tardías del juego.
+	- La receta de Ultra pétalos ha cambiado.
+
+Ahora crea 50 Ultras de 5 Míticos.
 
 3 de Noviembre de 2022
-	- Recipe for Ultra petals has changed.
-	  Now creates 3 Ultras from 1 Mythic.
-	  No longer reverts back to Mythic on use, it's just lost forever.
-	  Unused Ultras before this update have been converted back to 2 Mythics (old recipe).
+	- La receta de Ultra pétalos ha cambiado.
+
+Ahora crea 3 Ultras de 1 Mítico.
+	  Ya no vuelve a ser Mítico en uso, simplemente se pierde para siempre.
+
+Los Ultras no utilizados antes de esta actualización se han convertido de nuevo a 2 Míticos (receta antigua).
 
 2 de Noviembre de 2022
-	- Added Ultra petals.
-	  You can combine 2 Mythics to form an Ultra.
-	  Ultra petals are several times stronger than Mythics, but only last for one match.
-	  After one match, they will revert back to 1 Mythic (the other is lost).
+	- Añadido Ultra pétalos.
+
+Puedes combinar 2 Míticos para formar un Ultra.
+	  Los Ultra pétalos son varias veces más fuertes que los Míticos, pero solo duran una partida.
+
+Después de una partida, volverán a 1 Mítico (el otro está perdido).
 
 20 de Octubre de 2022
 	- Pseudo-RNG system has been removed from crafting. Now it's back to truly random with no increasing odds. If you have any failed attempts on a specific petal, it'll keep using the old system until you succeed (so you don't lose increased odds you already accumulated).

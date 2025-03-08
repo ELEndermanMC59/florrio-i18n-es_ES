@@ -586,7 +586,7 @@ Petals/wax/Name=Cera
 Petals/wax/FullName=Cera
 Petals/wax/Gender=Female
 Petals/wax/Number=Singular
-Petals/wax/Description=No preguntes de dónde vino.
+Petals/wax/Description=No preguntes de donde salió.
 
 Petals/golden_leaf/Name=Hoja
 Petals/golden_leaf/FullName=Hoja Dorada

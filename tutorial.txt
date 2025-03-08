@@ -1,7 +1,7 @@
 Tutorial/Start=<s val="1.5">Tutorial</s><n/><n/>Pareces ser nuevo aquí, vamos a explicarte los conceptos básicos.<n/>Haz clic en {#UI/Title/Ready} para iniciar.
-Tutorial/End=<s val="1.5">Tutorial</s><n/><n/>¡Asi! Recuerda usar el inventario para equipar y desequipar pétalos.<n/>Puedes hacer clic en un pétalo para equiparlo/desequiparlo.<n/><n/>¡Sigue expandiendo tu colección de pétalos y buena suerte!
+Tutorial/End=<s val="1.5">Tutorial</s><n/><n/>¡Así! Recuerda usar el inventario para equipar y desequipar pétalos.<n/>Puedes hacer clic en un pétalo para equiparlo/desequiparlo.<n/><n/>¡Sigue expandiendo tu colección de pétalos y buena suerte!
 Tutorial/MustBeAlive=Debes estar vivo para proceder en el tutorial.
 Tutorial/MustBeInGame=Debes estar en del juego para esta parte del tutorial, haz clic en el gran botón que dice {#UI/Title/Ready}.
-Tutorial/MustLeaveGame=Para continuar, abandona este juego haciendo clic en el botón de abandonar en la parte superior izquierda.
+Tutorial/MustLeaveGame=Para continuar, abandona esta partida haciendo clic en el botón de abandonar en la parte superior izquierda.
 Tutorial/Next=Siguiente
 Tutorial/Done=Listo

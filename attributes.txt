@@ -1,10 +1,10 @@
 Attribute/PoisonNoColon=<c val="{#Colors/poison}">Veneno</c>
 
-Flower/Attribute/Health=<c val="{#Colors/health}">Vida de Flores:</c> {0:tooltip}
-Flower/Attribute/HealthNoColon=<c val="{#Colors/health}">Vida de Flores</c>
+Flower/Attribute/Health=<c val="{#Colors/health}">Vida de la Flor:</c> {0:tooltip}
+Flower/Attribute/HealthNoColon=<c val="{#Colors/health}">Vida de la Flor</c>
 Flower/Attribute/BodyDamage=<c val="{#Colors/damage}">Daño Corporal:</c> {0:tooltip}
 Flower/Attribute/BodyDamageNoColon=<c val="{#Colors/damage}">Daño Corporal</c>
-Flower/Attribute/BodyPoison=<c val="{#Colors/poison}">Cuerpo Toxico:</c> {0:tooltip} ({1:tooltip}/s)
+Flower/Attribute/BodyPoison=<c val="{#Colors/poison}">Cuerpo Tóxico:</c> {0:tooltip} ({1:tooltip}/s)
 Flower/Attribute/LuckNoColon=<c val="{#Colors/generic}">Suerte</c>
 Flower/Attribute/RotationSpeedNoColon=<c val="{#Colors/generic}">Velocidad de Rotación</c>
 Flower/Attribute/AttackRangeNoColon=<c val="{#Colors/generic}">Rango de Ataque</c>
@@ -14,7 +14,9 @@ Mob/Attribute/Health=<c val="{#Colors/health}">Vida:</c> {0:tooltip}
 Mob/Attribute/HealthRange=<c val="{#Colors/health}">Vida:</c> {0:tooltip}~{1:tooltip}
 Mob/Attribute/HealthNoColon=<c val="{#Colors/health}">Vida</c>
 Mob/Attribute/Damage=<c val="{#Colors/damage}">Daño:</c> {0:tooltip}
-Mob/Attribute/Damage/Lightning=<c val="{#Colors/damage}">Daño:</c> {0:tooltip} <c val="{#Colors/lightning}">(lightning)</c>
+Mob/Attribute/Damage/Lightning=<c val="{#Colors/damage}">Daño:</c> {0:tooltip} <c val="{#Colors/lightning}">(relámpago)</c>
+Mob/Attribute/DamagePerSecond=<c val="{#Colors/damage}">Daño:</c> {0:tooltip}/s
+Mob/Attribute/DamagePerSecond/Lightning=<c val="{#Colors/damage}">Daño:</c> {0:tooltip}/s <c val="{#Colors/lightning}">(relámpago)</c>
 Mob/Attribute/Armor=<c val="{#Colors/armor}">Armadura:</c> {0:tooltip}
 Mob/Attribute/Poison=<c val="{#Colors/poison}">Veneno:</c> {0:tooltip} ({1:tooltip}/s)
 Mob/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">Veneno:</c> {0:tooltip}/s
@@ -41,6 +43,8 @@ Mob/Attribute/Evasion=<c val="{#Colors/generic}">Evasión:</c> {0:perc}%
 Petal/Attribute/Health=<c val="{#Colors/health}">Vida:</c> {0:tooltip}
 Petal/Attribute/Damage=<c val="{#Colors/damage}">Daño:</c> {0:tooltip}
 Petal/Attribute/Damage/Lightning=<c val="{#Colors/damage}">Daño:</c> {0:tooltip} <c val="{#Colors/lightning}">(relámpago)</c>
+Petal/Attribute/DamagePerSecond=<c val="{#Colors/damage}">Daño:</c> {0:tooltip}/s
+Petal/Attribute/DamagePerSecond/Lightning=<c val="{#Colors/damage}">Daño:</c> {0:tooltip}/s <c val="{#Colors/lightning}">(relámpago)</c>
 Petal/Attribute/DamageRange=<c val="{#Colors/damage}">Daño:</c> {0:tooltip}~{1:tooltip}
 Petal/Attribute/Armor=<c val="{#Colors/armor}">Armadura:</c> {0:tooltip}
 Petal/Attribute/RotationSpeed=<c val="{#Colors/generic}">Velocidad de Rotación:</c> +{0:tooltip} rad/s
@@ -50,21 +54,21 @@ Petal/Attribute/HealPerc=<c val="{#Colors/heal}">Curación:</c> {0:perc}%
 Petal/Attribute/Poison=<c val="{#Colors/poison}">Veneno:</c> {0:tooltip} ({1:tooltip}/s)
 Petal/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">Veneno:</c> {0:tooltip}/s
 Petal/Attribute/PoisonResistance=<c val="{#Colors/poison}">Resistencia al Veneno:</c> {0:tooltip}/s
-Petal/Attribute/FlowerHealth=<c val="{#Colors/health}">Vida de Flores:</c> {0:tooltip}
-Petal/Attribute/FlowerHealthPerc=<c val="{#Colors/health}">Vida de Flores:</c> +{0:perc}%
+Petal/Attribute/FlowerHealth=<c val="{#Colors/health}">Vida de la Flor:</c> {0:tooltip}
+Petal/Attribute/FlowerHealthPerc=<c val="{#Colors/health}">Vida de la Flor:</c> +{0:perc}%
 Petal/Attribute/Duration=<c val="{#Colors/duration}">Duración:</c> {0:tooltipTime}
 Petal/Attribute/Contents={#Petal/Attribute/Contents{0:1orN}}
-Petal/Attribute/Contents1=<c val="{#Colors/generic}">Contenido:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
-Petal/Attribute/ContentsN=<c val="{#Colors/generic}">Contenidos:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/Contents1=<c val="{#Colors/generic}">Contenido:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/Male/NameColored})
+Petal/Attribute/ContentsN=<c val="{#Colors/generic}">Contenidos:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/Female/NameColored})
 Petal/Attribute/ExtraVision=<c val="{#Colors/generic}">Visión Adicional:</c> {0:perc}%
 Petal/Attribute/Radius=<c val="{#Colors/generic}">Radio:</c> {0:tooltip}
-Petal/Attribute/MaxMobRarity=<c val="{#Colors/generic}">Rareza máxima de Criatura:</c> {#Rarities/{0}/NameColored}
-Petal/Attribute/DamageReflection=<c val="{#Colors/reflection}">Reflexión de daño:</c> {0:perc}% (vs {#Rarities/{2}/NameColored} criaturas), {1:perc}% (vs flores)
+Petal/Attribute/MaxMobRarity=<c val="{#Colors/generic}">Rareza máxima de Criatura:</c> {#Rarities/{0}/Female/NameColored}
+Petal/Attribute/DamageReflection=<c val="{#Colors/reflection}">Reflexión de Daño:</c> {0:perc}% (vs criaturas {#Rarities/{2}/Female/NameColored}), {1:perc}% (vs flores)
 Petal/Attribute/PickUpRange=<c val="{#Colors/generic}">Rango de Recogida:</c> +{0:tooltip}
 Petal/Attribute/Lightning=<c val="{#Colors/lightning}">Relámpago:</c> {0:tooltip}
 Petal/Attribute/Bounces=<c val="{#Colors/generic}">Rebotes:</c> {0:tooltip}
 Petal/Attribute/Knockback=<c val="{#Colors/generic}">Retroceso:</c> {0:tooltip}
-  Petal/Attribute/ExtraDamage=<c val="{#Colors/damage}">Daño Adicional:</c> {0:tooltip}
+Petal/Attribute/ExtraDamage=<c val="{#Colors/damage}">Daño Adicional:</c> {0:tooltip}
 Petal/Attribute/Shield=<c val="{#Colors/generic}">Escudo:</c> {0:tooltip}
 Petal/Attribute/BodyDamage=<c val="{#Colors/damage}">Daño Corporal:</c> {0:tooltip}
 Petal/Attribute/Period=<c val="{#Colors/generic}">Período:</c> {0:tooltipTime}
@@ -72,31 +76,31 @@ Petal/Attribute/FlowerRadius=<c val="{#Colors/generic}">Radio de la Flor:</c> +{
 Petal/Attribute/DamageHealed=<c val="{#Colors/heal}">Daño Curado:</c> {0:perc}%
 Petal/Attribute/AttackRange=<c val="{#Colors/generic}">Rango de Ataque:</c> +{0:tooltip}
 Petal/Attribute/Spawn={#Petal/Attribute/Spawn{0:1orN}}
-Petal/Attribute/Spawn1=<c val="{#Colors/generic}">Genera:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
-Petal/Attribute/SpawnN=<c val="{#Colors/generic}">Genera:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/Spawn1=<c val="{#Colors/generic}">Genera:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/Female/NameColored})
+Petal/Attribute/SpawnN=<c val="{#Colors/generic}">Genera:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/Female/NameColored})
 Petal/Attribute/Luck=<c val="{#Colors/generic}">Suerte:</c> +{0:tooltip}
 Petal/Attribute/MovementSpeed=<c val="{#Colors/generic}">Velocidad de Movimiento:</c> +{0:perc}%
 Petal/Attribute/HealBonus=<c val="{#Colors/heal}">Bonificación de Curación:</c> +{0:perc}%
-Petal/Attribute/MobAggroRange=<c val="{#Colors/generic}">Rango de agresión de Criaturas:</c> -{0:perc}%
+Petal/Attribute/MobAggroRange=<c val="{#Colors/generic}">Rango de Agresión de Criaturas:</c> -{0:perc}%
 Petal/Attribute/FlowerKnockback=<c val="{#Colors/generic}">Retroceso de la Flor:</c> +{0:tooltip}
 Petal/Attribute/SelfDamage=<c val="{#Colors/damage}">Autodaño:</c> {0:tooltip}
 Petal/Attribute/ArmorDebuff=<c val="{#Colors/armor}">Desventaja de Armadura:</c> {0:tooltip}
 Petal/Attribute/FlowerArmor=<c val="{#Colors/armor}">Armadura de la Flor:</c> {0:tooltip}
 Petal/Attribute/FlowerEvasion=<c val="{#Colors/generic}">Evasión de la Flor:</c> +{0:perc}%
 Petal/Attribute/Charges=<c val="{#Colors/generic}">Cargas:</c> {0:tooltip}
-Petal/Attribute/OverhealConversion=<c val="{#Colors/generic}">Conversión de curación excesiva:</c> +{0:perc}%
-Petal/Attribute/AffectedByMagnets=<c val="{#Colors/generic}">Afectados por los imanes</c>
+Petal/Attribute/OverhealConversion=<c val="{#Colors/generic}">Conversión de Curación Sobrante:</c> +{0:perc}%
+Petal/Attribute/AffectedByMagnets=<c val="{#Colors/generic}">Afectada por los Imanes</c>
 Petal/Attribute/CanFindSquares=<c val="{#Colors/generic}">Puede encontrar criaturas que no pertenecen</c>
 Petal/Attribute/CollisionDamageResistance=<c val="{#Colors/generic}">Resistencia al Daño por Colisión:</c> +{0:perc}%
 Petal/Attribute/Evasion=<c val="{#Colors/generic}">Evasión:</c> {0:perc}%
 Petal/Attribute/Health4=<c val="{#Colors/health}">Vida:</c> {0:tooltip} / {1:tooltip} / {2:tooltip} / {3:tooltip}
 Petal/Attribute/Damage4=<c val="{#Colors/damage}">Daño:</c> {0:tooltip} / {1:tooltip} / {2:tooltip} / {3:tooltip}
-Petal/Attribute/ExtraPoison=<c val="{#Colors/poison}">Veneno extra:</c> {0:tooltip}s
+Petal/Attribute/ExtraPoison=<c val="{#Colors/poison}">Veneno Extra:</c> {0:tooltip}s
 Petal/Attribute/Interval=<c val="{#Colors/generic}">Intervalo:</c> {0:tooltipTime}
 Petal/Attribute/CorruptsFlowersAround=<c val="{#Colors/generic}">Corrompe flores a tu alrededor.</c>
 Petal/Attribute/CannotBeUnequipped=<c val="{#Colors/generic}">No se puede desequipar.</c>
-Petal/Attribute/PetalLostOnDeath=<c val="{#Colors/danger}">Pétalo se pierde al morir.</c>
-Petal/Attribute/CannotBeUnequippedWhileAlive=<c val="{#Colors/generic}">No se puede desequipar mientras está vivo.</c>
+Petal/Attribute/PetalLostOnDeath=<c val="{#Colors/danger}">El pétalo se pierde al morir.</c>
+Petal/Attribute/CannotBeUnequippedWhileAlive=<c val="{#Colors/generic}">No se puede desequipar mientras estés vivo.</c>
 Petal/Attribute/Mana=<c val="{#Colors/mana}">Maná:</c> {0:tooltip}
 Petal/Attribute/ManaPerSecond=<c val="{#Colors/mana}">Maná:</c> {0:tooltip}/s
 Petal/Attribute/BaseMaxMana=<c val="{#Colors/mana}">Maná Máximo Base:</c> {0:tooltip}
@@ -104,9 +108,10 @@ Petal/Attribute/MaxMana=<c val="{#Colors/mana}">Maná Máximo:</c> +{0:tooltip}
 Petal/Attribute/AllowsFindingMagicPetals=<c val="{#Colors/mana}">Permite encontrar pétalos mágicos.</c>
 Petal/Attribute/DamageAbsorptionPerMana=<c val="{#Colors/generic}">Absorción de Daño:</c> {0:tooltip}/<c val="{#Colors/mana}">maná</c>
 Petal/Attribute/LightningPerMana=<c val="{#Colors/lightning}">Relámpago:</c> {0:tooltip}/<c val="{#Colors/mana}">maná</c>
-Petal/Attribute/SpawnManaCost=<c val="{#Colors/generic}">Costo de generación:</c> {0:tooltip} <c val="{#Colors/mana}">maná</c>
-Petal/Attribute/MaintenanceManaCost=<c val="{#Colors/generic}">Costo de mantenimiento:</c> {0:tooltip} <c val="{#Colors/mana}">maná</c>/s
-Petal/Attribute/ExtraDropChance=<c val="{#Colors/generic}">Da un {0:perc}% de posibilidad de obtener una caída adicional de las criaturas.</c>
+Petal/Attribute/SpawnManaCost=<c val="{#Colors/generic}">Costo de Generación:</c> {0:tooltip} <c val="{#Colors/mana}">maná</c>
+Petal/Attribute/MaintenanceManaCost=<c val="{#Colors/generic}">Costo de Mantenimiento:</c> {0:tooltip} <c val="{#Colors/mana}">maná</c>/s
+Petal/Attribute/ExtraDropChance=<c val="{#Colors/generic}">Da un {0:perc}% de posibilidad de obtener el doble de botín de las criaturas.</c>
 Petal/Attribute/Reload=<c val="{#Colors/generic}">Recarga:</c> -{0:perc}%
 Petal/Attribute/LockInHel=<c val="{#Colors/danger}">Las víctimas estarán atrapadas en Hel por {0:time}.</c>
 Petal/Attribute/Controls=<c val="{#Colors/generic}">Controla:</c> {#Petals/{0:base}/FullName} ({#Rarities/{0:rarity}/Male/NameColored})
+Petal/Attribute/Broken=<c val="{#Colors/danger}">Rota.</c>

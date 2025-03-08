@@ -1,16 +1,16 @@
 UI/Chat/CommandHelp=/{0} {#Chat/Command/{0}/Args} - {#Chat/Command/{0}/Description}
 
 Chat/Command/help/Args=[cmd]
-Chat/Command/help/Description=Enlista todos los comandos o enlista ayuda para un comando específico
+Chat/Command/help/Description=Enumera todos los comandos o enlista ayuda para un comando específico
 
 Chat/Command/guild/Args=<mensaje>
-Chat/Command/guild/Description=Envía un mensaje sólo a otros miembros del gremio
+Chat/Command/guild/Description=Envía un mensaje solo a otros miembros del gremio
 
 Chat/Command/guild-create/Args=<nombre> <etiqueta>
 Chat/Command/guild-create/Description=Crea un nuevo gremio. El nombre debe tener entre 3 y 13 caracteres. La etiqueta debe tener entre 2 y 4 caracteres
 
 Chat/Command/guild-invite/Args=<nombre>
-Chat/Command/guild-invite/Description=Invita el jugador al gremio. Debe ser el líder. El jugador debe estar cerca de ti
+Chat/Command/guild-invite/Description=Invita un jugador al gremio. Debes ser el líder. El jugador debe estar cerca de ti
 
 Chat/Command/guild-transfer-leader/Args=<objetivo>
 Chat/Command/guild-transfer-leader/Description=Transferir el liderazgo del gremio a otra persona
@@ -19,7 +19,7 @@ Chat/Command/guild-motd/Args=<texto>
 Chat/Command/guild-motd/Description=Establece el MOTD del gremio
 
 Chat/Command/squad/Args=<mensaje>
-Chat/Command/squad/Description=Envía un mensaje sólo a otros miembros del equipo
+Chat/Command/squad/Description=Envía un mensaje solo a otros miembros del equipo
 
 Chat/Command/squad-create/Args=
 Chat/Command/squad-create/Description=Crea un equipo
@@ -28,10 +28,10 @@ Chat/Command/squad-join/Args=<codigo>
 Chat/Command/squad-join/Description=Te une a un equipo
 
 Chat/Command/squad-leave/Args=
-Chat/Command/squad-leave/Description=Deja el equipo
+Chat/Command/squad-leave/Description=Abandona el equipo
 
 Chat/Command/squad-find-public/Args=
-Chat/Command/squad-find-public/Description=Se une a un equipo público aleatorio
+Chat/Command/squad-find-public/Description=Te une a un equipo público aleatorio
 
 Chat/Command/squad-public/Args=
 Chat/Command/squad-public/Description=Hace público el equipo
@@ -52,7 +52,7 @@ Chat/Command/r/Args={#Chat/Command/reply/Args}
 Chat/Command/r/Description={#Chat/Command/reply/Description}
 
 Chat/Command/local/Args=<mensaje>
-Chat/Command/local/Description=Envía un mensaje sólo a las personas que te rodean
+Chat/Command/local/Description=Envía un mensaje solo a las personas que te rodean
 
 Chat/Command/map/Args=<mensaje>
 Chat/Command/map/Description=Envía un mensaje de mapa
@@ -70,7 +70,7 @@ Chat/Command/rot-speed/Args=<valor>
 Chat/Command/rot-speed/Description=Establece la velocidad de rotación de pétalos, de 0.0 a 1.0
 
 Chat/Command/print-players/Args=
-Chat/Command/print-players/Description=Muestra la identificación de cuenta de los jugadores cerca de usted
+Chat/Command/print-players/Description=Muestra la identificación de cuenta de los jugadores cerca de ti
 
 ##################################################################################
 # All the ones below do not need to be translated, they are admin-only commands: #

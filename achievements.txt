@@ -96,7 +96,7 @@ Achievements/27/Description=Llega al nivel {0}.
 Achievements/28/Name=Despilfarro de fabricación
 Achievements/28/Description=Destruye {0:tooltip} pétalos en intentos de fabricación.
 
-Achievements/29/Name=Fabricador a granel
+Achievements/29/Name=Fabricador en masa
 Achievements/29/Description=Fabrica {0:tooltip} pétalos.
 
 Achievements/30/Name=Desierto

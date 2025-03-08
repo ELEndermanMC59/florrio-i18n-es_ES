@@ -1,9 +1,9 @@
 UI/Language/Name=Español
 # These are the translators that worked on this translation. Separate with <n/>
-UI/Language/Credits=ELEndermanMC
+UI/Language/Credits=ELEndermanMC<n/>Fireplant<n/>90210
 
 UI/Title/Loading=Cargando...
-UI/Title/Connecting=Conectandose...
+UI/Title/Connecting=Conectándose...
 UI/Title/LoggingIn=Iniciando sesión...
 UI/Title/Ready=Jugar
 UI/Title/GuestName=Invitado
@@ -27,7 +27,7 @@ UI/Title/Biome/3=Jungla
 UI/Title/Biome/4=Hel
 
 UI/Login/Title=Cuenta
-UI/Login/PlayAsGuest=Juega como un invitado
+UI/Login/PlayAsGuest=Juega como invitado
 UI/Login/SignInApple=Iniciar sesión con Apple
 UI/Login/SignInDiscord=Iniciar sesión con Discord
 UI/Login/Logout=Cerrar sesión
@@ -40,8 +40,8 @@ UI/Login/Linked=Vinculado
 UI/Login/SupportPIN=PIN de soporte: {0}
 UI/Login/SupportPINHidden=PIN de soporte: (clic para mostrar)
 UI/Login/SupportPINInstructions1=Guarde esto en caso de que pierda el acceso a su cuenta
-UI/Login/SupportPINInstructions2=No compartas tu PIN de soporte con nadie
-UI/Login/Reminder=Vincula tu cuenta para guardar tu progreso
+UI/Login/SupportPINInstructions2=No comparta su PIN de soporte con nadie
+UI/Login/Reminder=Vincule su cuenta para guardar su progreso
 
 UI/Social/Discord=¡Únete a nuestra comunidad de Discord!
 UI/Social/QQ=加入我们的QQ群!
@@ -58,22 +58,26 @@ UI/Scoreboard/Title/1=1 Flor
 UI/Scoreboard/Title/N={0} Flores
 UI/Scoreboard/HiddenName=Jugador #{0}
 
-UI/Chat/PromptTap=Toca aqui para chatear
-UI/Chat/PromptClick=Haz click aquí para chatear
-UI/Chat/PromptKeyboardOrClick=Presione [ENTER] o haga clic aquí para chatear
+UI/Chat/PromptTap=Toca aquí para chatear
+UI/Chat/PromptClick=Haz clic aquí para chatear
+UI/Chat/PromptKeyboardOrClick=Presiona [ENTER] o haz clic aquí para chatear
 UI/Chat/Player/Block=Bloquear
 UI/Chat/Player/ReportMessage=Reportar mensaje
 UI/Chat/Player/Whisper=Susurro
 UI/Chat/Player/InviteToSquad=Invitar al equipo
 UI/Chat/Player/InviteToGuild=Invitar al gremio
 
-UI/Flower/Level=Nivel {0}
+UI/Flower/Level=Nv {0}
 
 # When you evade damage
 UI/Damage/Evade=Evadido
 
 # When the target evades damage
 UI/Damage/Miss=Eludido
+
+UI/Dummy/Last=Último: {0:tooltip}
+UI/Dummy/Total=Total: {0:tooltip}
+UI/Dummy/DPS=DPS: {0:tooltip}
 
 UI/Death/Title=Fuiste destruido por:
 UI/Death/NoSource=Una entidad misteriosa
@@ -82,13 +86,13 @@ UI/Death/Close=Cerrar
 UI/Death/CollectedThisRun=Recogido en esta partida
 
 UI/AFKCheck/Title=Chequeo de AFK
-UI/AFKCheck/Instructions=Arrastra el circulo hasta el final
+UI/AFKCheck/Instructions=Arrastra el círculo hasta el final
 
 UI/Achievements/Title=Logros
 UI/Achievements/Reward=Recompensa
 UI/Achievements/RewardTP={0} PT
 UI/Achievements/Done=Completado
-UI/Achievements/Track=Sigue
+UI/Achievements/Track=Seguir
 UI/Achievements/TrackAutomatically=Seguir automaticamente
 UI/Achievements/Hidden=???
 UI/Achievements/TotalProgress={0}/{1} Completado
@@ -99,7 +103,7 @@ UI/Achievements/UnlockedNotification/N=Logros desbloqueados
 UI/MobGallery/Title=Galería de criaturas
 
 UI/Changelog/Title=Registro de cambios
-UI/Changelog/Bottom=Registro de cambios más viejos no disponibles
+UI/Changelog/Bottom=Registro de cambios más antiguos no disponibles
 
 UI/Inventory/Title=Inventario
 UI/Inventory/Stack=Apilar
@@ -108,54 +112,54 @@ UI/Inventory/Speed=Velocidad
 UI/Inventory/Rarity={#UI/Petal/Rarity}
 
 UI/Guild/Title=Gremio
-UI/Guild/NoGuild=Tu no tienes un gremio aún
+UI/Guild/NoGuild=No tienes un gremio aún
 UI/Guild/Invite=Has sido invitado a:
 UI/Guild/Invite/Button=Acceptar
 UI/Guild/Invite/Expiration=Esta invitación caducará pronto si no se acepta.
 UI/Guild/ChatSetting=Chat
 UI/Guild/SquadButton=Equipo
 UI/Guild/KickButton=Expulsar
-UI/Guild/Leader=(Lider)
+UI/Guild/Leader=(Líder)
 UI/Guild/Members={#UI/Guild/Members/{0:1orN}}
 UI/Guild/Members/1=Miembro (1)
 UI/Guild/Members/N=Miembros ({0})
 UI/Guild/LeaveButton=Abandonar
 UI/Guild/Leave/Title=Abandonar gremio
-UI/Guild/Leave/Instructions=¿Estas seguro?
+UI/Guild/Leave/Instructions=¿Estás seguro?
 UI/Guild/Leave/Confirm=Abandonar
 UI/Guild/Leave/Cancel=Cancelar
 
 UI/Squad/Title=Equipo
 UI/Squad/Error/NotAllowed=Equipos no permitidos en este modo
 UI/Squad/Error/Spam=Estás haciendo eso demasiado
-UI/Squad/Error/DoesNotExist=Equipo no existe
+UI/Squad/Error/DoesNotExist=Este equipo no existe
 UI/Squad/Error/CannotJoin=No puedes unirte a este equipo
-UI/Squad/Error/LevelDifference=Tu nivel no es suficientemente cercano a el del equipo
+UI/Squad/Error/LevelDifference=Tu nivel no es lo suficientemente cercano al del equipo
 UI/Squad/Error/Full=Equipo lleno
 
 UI/Shop/Title=Tienda
 UI/Shop/Button=Tienda
-UI/Shop/Instructions=Ofertas del dia:
+UI/Shop/Instructions=Ofertas del día:
 UI/Shop/TimeLeft=La tienda va a cambiar en {0:time}
-UI/Shop/Lock=Bloqueada
+UI/Shop/Lock=Bloqueo
 UI/Shop/LockedChanged=La tienda va a cambiar una vez se desbloquee.
-UI/Shop/LockedNoChange=La tienda no va a cambiar mientras esta bloqueada.
+UI/Shop/LockedNoChange=La tienda no va a cambiar mientras esté bloqueada.
 UI/Shop/StarsHelp1=Ganarás estrellas al completar desafíos, o puedes
 UI/Shop/StarsHelp2=comprar unas haciendo clic en el número de la derecha.
-UI/Shop/MustLink1=Para hacer qualquier compra, primero tienes que
+UI/Shop/MustLink1=Para hacer cualquier compra, primero tienes que
 UI/Shop/MustLink2=vincular tu cuenta con Discord o Apple.
 UI/Shop/MustLinkCancel=Cancelar
-UI/Shop/BuyStars/Instructions=En caso de qualquier problema con tu compra,<n/>por favor contacta nuestro procesador de pagos:<n/>support@xsolla.com o chat en linea en xsolla.com.
+UI/Shop/BuyStars/Instructions=En caso de cualquier problema con tu compra,<n/>por favor contacta nuestro procesador de pagos:<n/>support@xsolla.com o chat en línea en xsolla.com.
 UI/Shop/BuyStars/Extra=Tengo demasiado dinero
 UI/Shop/BuyStars/Cancel=Cancelar
 UI/Shop/BuyPetal/Title=Confirmar
-UI/Shop/BuyPetal/Instructions=¿Estas seguro que quieres comprar esto?<n/><c val="{#Colors/danger}">Compra de petalos no es refundable</c>
+UI/Shop/BuyPetal/Instructions=¿Estás seguro que quieres comprar esto?<n/><c val="{#Colors/danger}">La compra de pétalos no es reembolsable</c>
 UI/Shop/BuyPetal/Cancel=Cancelar
 UI/Shop/MagicPetalError/Title=Error
-UI/Shop/MagicPetalError/Instructions=Tu no puedes comprar petalos magicos<n/>hasta que tengas una {#Petals/{0}/FullName}.
+UI/Shop/MagicPetalError/Instructions=No puedes comprar petalos mágicos<n/>hasta que tengas un {#Petals/{0}/FullName}.
 UI/Shop/MagicPetalError/Cancel=Cancelar
 UI/Shop/Loyalty/Title=¡Gracias!
-UI/Shop/Loyalty/Instructions=Como agradecimiento por su apoyo,<n/>nos gustaría darte algunas estrellas, gratis.<n/><n/>Esto es el equivalente a lo que habrías obtenido si hubieras gastado<n/>la misma cantidad de dinero que tu ya gastastes, pero con un paquete más grande.
+UI/Shop/Loyalty/Instructions=Como agradecimiento por su apoyo,<n/>nos gustaría darte algunas estrellas, gratis.<n/><n/>Esto es el equivalente a lo que habrías obtenido si hubieras gastado<n/>la misma cantidad de dinero que ya gastastes, pero con un paquete más grande.
 UI/Shop/Price/USD=${0}
 
 UI/Banned/Title=BANEADO
@@ -164,23 +168,23 @@ UI/Banned/TimeLeft=Este ban va a expirar en {0:time}.
 UI/Banned/Permanent=Este ban es permanente.
 UI/Banned/Account=Cuenta: {0}
 
-UI/DailyChallenge/Title=Desafío
-UI/DailyChallenge/Button=Desafío
-UI/DailyChallenge/Instructions=Derrota estos enemigos:
-UI/DailyChallenge/TimeLeft=Desafíos van a cambiar en {0:time}
+UI/DailyChallenge/Title=Desafíos
+UI/DailyChallenge/Button=Desafíos
+UI/DailyChallenge/Instructions=Derrota a estos enemigos:
+UI/DailyChallenge/TimeLeft=Los desafíos van a cambiar en {0:time}
 UI/DailyChallenge/Claimed=Reclamado
-UI/DailyChallenge/SupportersOnly=Desafío disponible<n/>solo para seguidores.
+UI/DailyChallenge/SupportersOnly=Desafío disponible<n/>solo para mecenas.
 
 UI/Bonus/Title=Bono
 UI/Bonus/Button=Bono
 UI/Bonus/Instructions=Gana bonificaciones
-UI/Bonus/Instructions2=Durante la primera hora que juegues cada día, obtienes caidas adicionales.
+UI/Bonus/Instructions2=Durante la primera hora que juegues cada día, obtendrás botín adicional.
 UI/Bonus/Pill/Label={0}x
 UI/Bonus/Delay=Puedes activar tu bono de nuevo en {0:time}.
-UI/Bonus/CurrentlyActive=Su bono está activo para {0:time}.
+UI/Bonus/CurrentlyActive=Tu bono está activo por {0:time}.
 UI/Bonus/Available=Puedes activar tu bono ahora. Durará {0:time}.
-UI/Bonus/AvailableExpiration=Si no activa su bono, se restablecerá en {0:time}.
-UI/Bonus/AutoDelay=Su bono se activará de nuevo en {0:time}.
+UI/Bonus/AvailableExpiration=Si no activas tu bono, se restablecerá en {0:time}.
+UI/Bonus/AutoDelay=Tu bono se activará de nuevo en {0:time}.
 UI/Bonus/Activate=Activar
 UI/Bonus/Activate/Setting=Activar automáticamente
 
@@ -206,20 +210,21 @@ UI/Achievements/ExtraDescription={#Achievements/{0}/ExtraDescription:1-}
 UI/Achievements/Rarity={#UI/Petal/Rarity}
 
 UI/Talent/Title=Talentos
+
 UI/Talent/Name={#Talents/{0}/Name:1-}
 UI/Talent/Description={#Talents/{0}/Description:1-}
 UI/Talent/Rarity={#Rarities/{1}/Name}
-UI/Talent/TP=TP
-UI/Talent/Tooltip=Puedes obtener mas TP al subir de niveles
-UI/Talent/Reset=Resetear
-UI/Talent/HoldToUpgrade=MANTENER para mejorar
+UI/Talent/TP=PT
+UI/Talent/Tooltip=Puedes obtener más PT al subir de nivel
+UI/Talent/Reset=Reiniciar
+UI/Talent/HoldToUpgrade=MANTÉN para mejorar
 
 UI/Craft/Title=Fabricación
 UI/Craft/Button=Fabricar
 UI/Craft/Chance={0:perc}% probabilidad de éxito
 UI/Craft/UnknownChance=?% probabilidad de éxito
 UI/Craft/CombineInstructions=Combina {0} del mismo pétalo para fabricar una mejora
-UI/Craft/FailureInstructions=Fracaso destruirá {0}-{1} pétalos
+UI/Craft/FailureInstructions=El fracaso destruirá {0}-{1} pétalos
 
 UI/Absorb/Title=Absorber
 UI/Absorb/Button=Absorber
@@ -227,47 +232,51 @@ UI/Absorb/Instructions=Absorbe pétalos para ganar XP<n/><c val="{#Colors/danger
 
 UI/CoinCraft/Title=Comerciar
 UI/CoinCraft/Button=Comerciar
-UI/CoinCraft/Instructions=Puedes intercambiar un pétalo por una moneda de la misma raridad.
+UI/CoinCraft/Instructions=Puedes intercambiar un pétalo por una moneda de la misma rareza.
 UI/CoinCraft/Delay=Podrás volver a comerciar en {0:time}
 
-UI/OracleCraft/Title=Oraculo
+UI/OracleCraft/Title=Oráculo
 UI/OracleCraft/Button=Fabricar
-UI/OracleCraft/Instructions=El Oraculo va a garantizar la fabricación... por el precio correcto.
+UI/OracleCraft/Instructions=El Oráculo va a garantizar la fabricación... por el precio correcto.
 UI/OracleCraft/Delay=Podrás volver a fabricar en {0:time}
 
 UI/Plinko/Title=Plinko
 UI/Plinko/Auto=Auto
 
-UI/UniqueCraft/Title=Forjacion
+UI/UniqueCraft/Title=Forja
 UI/UniqueCraft/Button=Forjar
 UI/UniqueCraft/Instructions=Los pétalos Únicos durarán hasta que otro jugador forje el mismo pétalo.<n/>Cuando eso suceda, recibirás de vuelta tus Súper pétalos.<n/>El costo aumenta cada vez que ese pétalo es forjado.
-UI/UniqueCraft/NoSupers=No tienes ningún Súper pétalo para intentar esto.
+UI/UniqueCraft/NoSupers=No tienes ningún pétalo Súper para intentar esto.
+
+UI/AssemblerCraft/Title=Montador
+UI/AssemblerCraft/Button=Montar
+UI/AssemblerCraft/Instructions=Combina pétalos específicos para montar un pétalo nuevo.
 
 UI/Death/Poison=Veneno
 
-UI/Settings/Title=Configuraciones
+UI/Settings/Title=Configuración
 UI/Settings/Game=Juego
-UI/Settings/Graphics=Graficos
+UI/Settings/Graphics=Gráficos
 UI/Settings/Controls=Controles
-UI/Settings/Credits=Creditos
+UI/Settings/Credits=Créditos
 
-UI/Settings/Language=Lenguaje
+UI/Settings/Language=Idioma
 UI/Settings/Language/Warning=NOTA: solo tendrá efecto después que reinicies el juego
-UI/Settings/Language/Automatic=Automatico
+UI/Settings/Language/Automatic=Automático
 
 UI/Settings/Realm=Reino
 UI/Settings/Realms={#UI/Settings/Realms/{0}}
-UI/Settings/Realms/0=Automatico
-UI/Settings/Realms/1=Juliett (US)
+UI/Settings/Realms/0=Automático
+UI/Settings/Realms/1=Julieta (US)
 UI/Settings/Realms/2=Romeo (EU)
 UI/Settings/Realms/3=Sierra (ASIA)
 
 UI/Settings/Chat=Chat
 UI/Settings/ChatWhispers=Susurros de chat
 
-UI/Settings/AutoJoinSquads=Auto-unir equipos
+UI/Settings/AutoJoinSquads=Auto-unirse a equipos
 
-UI/Settings/HideOtherPetals=Esconder pètalos de otros
+UI/Settings/HideOtherPetals=Esconder pétalos de otros
 
 UI/Settings/EquipDrops=Equipar botín
 
@@ -288,18 +297,18 @@ UI/Settings/KeyboardMovement=Movimiento con teclado
 
 UI/Settings/MovementHelper=Ayudante de movimiento
 
-UI/Settings/AutoSearchPetals=Buscar pètalos al momento de abrir el inventario
+UI/Settings/AutoSearchPetals=Buscar pétalos al abrir el inventario
 
 UI/Settings/FixedJoystick=Joystick fijo
 
 UI/Settings/InvertAttack=Invertir botón de ataque
 UI/Settings/InvertDefend=Invertir botón de defensa 
 
-UI/Settings/AutoSaveLoadout=Auto-salvar equipamiento
-UI/Settings/AutoSaveLoadout/Help=Si está desactivado, presione [O] para guardar el equipamiento actual.
+UI/Settings/AutoSaveLoadout=Auto-guardar equipamiento
+UI/Settings/AutoSaveLoadout/Help=Si está desactivado, pulse [O] para guardar el equipamiento.
 
 UI/Settings/PrivacyPolicy=Política de privacidad
-UI/Settings/TermsOfService=Condiciones de servicio
+UI/Settings/TermsOfService=Condiciones del servicio
 
 UI/Credits/MadeBy=Creado por {0}
 UI/Credits/SomeIcons=Algunos iconos de {0}

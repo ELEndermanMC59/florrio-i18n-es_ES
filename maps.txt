@@ -10,13 +10,15 @@ Maps/battle_ground/Name=Campo de Batalla
 
 Maps/desert/Name=Desierto
 
+Maps/factory/Name=Fábrica
+
 Maps/garden/Name=Jardín
 
 Maps/hel/Name=Hel
 
 Maps/jungle/Name=Jungla
 
-Maps/ocean/Name=Oceano
+Maps/ocean/Name=Océano
 
 Maps/sewers/Name=Alcantarillas
 

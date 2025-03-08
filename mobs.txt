@@ -2,8 +2,8 @@ Mobs/none/Gender=Male
 
 Mobs/rock/Name=Roca
 Mobs/rock/Description=Una roca. No hace mucho.
-Mobs/rock/Gender=Male
-Mobs/rock/Spawn=Algo parecido a una montaña aparece en la distancia...
+Mobs/rock/Gender=Female
+Mobs/rock/Spawn=Algo parecido a una montaña aparece a lo lejos...
 
 Mobs/cactus/Name=Cactus
 Mobs/cactus/Description=Evita tocarlo, duele.
@@ -128,7 +128,7 @@ Mobs/crab/Gender=Male
 Mobs/jellyfish/Name=Medusa
 Mobs/jellyfish/Description=Hace la mermelada más deliciosa.
 Mobs/jellyfish/Gender=Female
-Mobs/jellyfish/Spawn=Escuchas rayos que vienen desde muy lejos...
+Mobs/jellyfish/Spawn=Escuchas truenos que vienen desde muy lejos...
 
 Mobs/digger/Name=Excavador
 Mobs/digger/Description=Juego equivocado, amigo.
@@ -154,7 +154,7 @@ Mobs/fire_ant_baby/Name=Hormiga de Fuego Bebé
 Mobs/fire_ant_baby/Description=Esta hormiga está en fuegoooooooooooooo.
 Mobs/fire_ant_baby/Gender=Female
 
-Mobs/fire_ant_worker/Name=Hormiga de Fuego de Trabajador
+Mobs/fire_ant_worker/Name=Hormiga de Fuego Obrera
 Mobs/fire_ant_worker/Description=Esta hormiga está en fuegoooooooooooooo.
 Mobs/fire_ant_worker/Gender=Female
 
@@ -186,7 +186,7 @@ Mobs/termite_baby/Name=Termita Bebé
 Mobs/termite_baby/Description=Débil e indefensa, pero grandes sueños.<n/>Estas criaturas parecen estar conectadas de alguna manera.
 Mobs/termite_baby/Gender=Female
 
-Mobs/termite_worker/Name=Termita Trabajadora
+Mobs/termite_worker/Name=Termita Obrera
 Mobs/termite_worker/Description=Es un poco temperamental, probablemente por trabajar a todas horas.<n/>Estas criaturas parecen estar conectadas de alguna manera.
 Mobs/termite_worker/Gender=Female
 
@@ -213,7 +213,7 @@ Mobs/bush/Gender=Male
 
 Mobs/roach/Name=Cucaracha
 Mobs/roach/Description=Hay que ir RÁPIDO... hasta que se cansan.
-Mobs/roach/Gender=Male
+Mobs/roach/Gender=Female
 
 Mobs/moth/Name=Polilla
 Mobs/moth/Description=Se asusta fácilmente, sé amable.
@@ -305,3 +305,16 @@ Mobs/spider_mecha/Gender=Female
 Mobs/leafbug_shiny/Name=Insecto Hoja
 Mobs/leafbug_shiny/Description=Este tiene un color especial...
 Mobs/leafbug_shiny/Gender=Male
+
+Mobs/crab_mecha/Name=Cangrejo
+Mobs/crab_mecha/Description=Dr. Cangrejo.
+Mobs/crab_mecha/Gender=Male
+
+Mobs/assembler/Name=Montador
+Mobs/assembler/Description= 
+Mobs/assembler/Gender=Male
+
+Mobs/barrel/Name=Barril
+Mobs/barrel/Description=Bajo ninguna circunstancia podemos dejar que se derrame esto.<n/>No podemos permitirnos otro insecto mutante este mes.
+Mobs/barrel/Gender=Male
+

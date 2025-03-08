@@ -1,58 +1,61 @@
 # The format for this file is different
 # Date on a line by itself, then all entries for that date are prefixed by a TAB character.
 
+23 de Febrero de 2025
+	- Añadido fábrica. Aún quedan cosas por añadir, pero está en un punto en el que los jugadores pueden empezar a jugarla.
+
 6 de Febrero de 2025
-	- Los huevos ahora solo engendran criaturas cuando se rompen.
-	- La Tormenta de Arena ahora pasa a través de entidades que no son flores (todavía causa daño normalmente).
+	- Los huevos ahora solo generan criaturas cuando son rotos.
+	- Las Tormentas de Arena ahora pasan a través de entidades que no sean flores (todavía causa daño normalmente).
 
 16 de Enero de 2025
-	- Móvil ahora tiene equipamiento. Mantenga presionado X y puede cambiar el equipamiento tocando las ranuras de pétalos secundarios. Cada equipamiento utiliza el primer pétalo del equipamiento como su icono.
-	- La carga de una equipamiento en un teclado se realiza manteniendo presionado L+número, o K+número para el segundo conjunto de equipamientos.
-	- Se cambió el comportamiento predeterminado de cuándo se guardan los equipamientos. Con el guardado automático habilitado, se guardarán cada vez que se cambien los equipamientos. Si está deshabilitado, deberá presionar O para guardar el equipamiento actual.
+	- Ahora hay un selector de equipamiento en móvil. Mantén presionado X y pulsa las ranuras de pétalos secundarios para cambiar de equipamiento. Cada ranura utiliza el primer pétalo del equipamiento como su icono.
+	- La carga de equipamiento en un teclado se realiza manteniendo presionado L+número, o K+número para el segundo conjunto de equipamientos.
+	- Se cambió el comportamiento predeterminado del guardado de los equipamientos. Con el guardado automático habilitado, se guardarán cada vez que se cambien los equipamientos. Si está deshabilitado, deberás presionar O para guardar el equipamiento actual.
 
 9 de Enero de 2025
-	- Los ralentizadores han sido reelaboradas. Ahora su efectividad dependerá de la criatura vs la rareza de el pétalo.
-	- Yggdrasil ahora aplica un de reutilización de 30s a la flor revivida, evitando que se reviva de nuevo durante ese tiempo.
+	- Los ralentizadores han sido rehechos. Ahora su efectividad dependerá de la rareza de la criatura vs la del pétalo.
+	- Yggdrasil ahora aplica un tiempo de recarga de 30s a la flor revivida, evitando que se reviva de nuevo durante ese tiempo.
 	- Las criaturas agresivas y semiagresivas huirán si son atacadas por una entidad que no puede contraatacar (detrás de una pared, bajo tierra, etc.).
-	- Algunas mejoras en la interfaz de usuario de muerte.
+	- Algunas mejoras en la interfaz de muerte.
 
 25 de Diciembre de 2024
-	- Como un pequeño retroceso, durante unos días el mapa del jardín será algo que podría parecer un poco familiar.
+	- Como un pequeño flashback, durante unos días el mapa de Jardín será algo que podría parecer un poco familiar.
 
 16 de Diciembre de 2024
-	- La ganancia y el costo de maná se han reelaborado para escalar en rarezas más altas.
+	- La ganancia y el costo de maná se han cambiado para escalarse a rarezas más altas.
 
 5 de Diciembre de 2024
-	- Se añadieron algunos pétalos más y esas cosas.
+	- Se añadieron algunos pétalos más y todo eso.
 
 2 de Junio de 2024
-	- Los talentos ahora se pueden restablecer de forma gratuita una cantidad ilimitada de veces sin demora.
+	- Los talentos ahora se pueden restablecer de forma gratuita una cantidad ilimitada de veces sin tiempo de recarga.
 
 30 de Mayo de 2024
 	- Ahora puedes controlar con precisión qué tan rápido/lento quieres que giren los pétalos. Lo más lento es el 30% de la velocidad máxima.
 
 22 de Mayo de 2024
-	- La reaparición ahora borra el crédito de daños conferido a las criaturas con fines de saqueo. Esto no se aplica a ser revivido.
+	- Regenerarse ahora borra el crédito de daños conferido a las criaturas con fines de saqueo. Esto no se aplica a ser revivido.
 	- Se han eliminado los talentos de Fabricación.
 
 11 de Mayo de 2024
-	- Se hicieron algunos cambios en la forma en que se almacenan los logros, lo que significa que se habrán restablecido un par de logros. Sin embargo, debido a estos cambios, ahora está garantizado que una vez que haya completado un logro, se mantendrá completado incluso si sus requisitos cambian.
+	- Se hicieron algunos cambios en la forma en que se almacenan los logros, lo que significa que se habrán restablecido un par de logros. Sin embargo, debido a estos cambios, ahora está garantizado que una vez que hayas completado un logro, se mantendrá completado incluso si sus requisitos cambian.
 
 8 de Mayo de 2024
-	- Los requisitos de nivel se han duplicado, lo que significa que su nivel probablemente debería haberse reducido a la mitad.
-	- Logros añadidos. Proporcionan TP que reemplazará a los perdidos de los niveles que perdiste.
+	- Los requisitos de nivel se han duplicado, lo que significa que tu nivel probablemente debería haberse reducido a la mitad.
+	- Añadidos logros. Proporcionan PT que reemplazará a los perdidos de los niveles que perdiste.
 	- Pronto se añadirán más logros.
 
 21 de Abril de 2024
 	- Se ha eliminado la absorción.
-	- Se ha eliminado el talento de rescate.
+	- Se han eliminado los talentos de Aprovechamiento.
 
 20 de Abril de 2024
-	- Destruyendo criaturas ahora premia con experiencia.
+	- Destruir criaturas ahora da experiencia.
 	- La capacidad de absorber pétalos se eliminará en una futura actualización.
 
 12 de Abril de 2024
-	- Tasas de caída ajustadas para criaturas ultra+.
+	- Tasas de botín ajustadas para criaturas Ultra+.
 	- Algunos pequeños cambios en el mapa.
 
 3 de Abril de 2024
@@ -64,28 +67,28 @@
 
 17 de Enero de 2024
 	- Los talentos de Fabricación ahora son más baratos.
-	- El retraso en el reseteo de talentos ahora depende del nivel del jugador (2 + nivel/3).
-	- Se ha restablecido el tiempo de reutilización de talentos de todos.
+	- El tiempo de recarga en el reinicio de talentos ahora depende del nivel del jugador (2 + nivel/3).
+	- Se ha restablecido el tiempo de recarga de talentos de todos.
 
 14 de Enero de 2024
 	- Se cambiaron las teclas para guardar/restaurar los equipamientos. L+Número carga un equipamiento específico, y L+Shift+Número guarda el equipamiento actual.
 
 11 de Enero de 2024
-	- Se volvio a habilitar las colisiones de jugadores en la mayoría de los casos.
+	- Se volvió a habilitar las colisiones de jugadores en la mayoría de los casos.
 
 5 de Enero de 2024
 	- Los Ultras ahora pueden aparecer en cualquier lugar donde puedan otras criaturas (lo más probable es que en zonas de alta rareza). Todavía solo puede haber un Ultra de cada tipo a la vez en el reino. Todavía hay un temporizador global por reino que evita que reaparezcan con demasiada frecuencia.
-	- Las Súper criaturas ya no tienen más probabilidades de aparecer cuanto más tiempo pasa sin que se elimine una Ultra criatura.
-	- Veneno de diferentes jugadores contra la misma criatura ahora se apila.
+	- Las criaturas Súper ya no tienen más probabilidades de aparecer cuanto más tiempo pasa sin que se mate una Ultra criatura.
+	- El veneno de diferentes jugadores contra la misma criatura ahora se apila.
 
 4 de Enero de 2024
-	- La progresión temprana-mediada del juego se ha ajustado significativamente.
+	- La progresión temprana-media del juego se ha ajustado significativamente.
 	- Las criaturas Míticas- deberían reaparecer un poco más rápido ahora. Esto debería afectar principalmente a las áreas que estaban llenas de jugadores que los cazaban.
 	- La vida de los misiles de las criaturas ahora escala como la vida de los pétalos en lugar de la vida de la criatura. Su vida base ha sido incrementada para compensar.
 
 1 de Enero de 2024
-	- Aproximadamente se duplico las caídas de las Ultra criaturas (pero no Súper).
-	- La frecuencia de generación de Ultra+ ha vuelto a antes de la actualización del 25 de Diciembre.
+	- Aproximadamente se duplico las caídas de las criaturas Ultra (pero no Súper).
+	- La frecuencia de generación de Ultras+ ha vuelto a antes de la actualización del 25 de Diciembre.
 
 30 de Diciembre de 2023
 	- Se duplicó la vida de la mayoría de las criaturas Ultra+.
@@ -94,72 +97,72 @@
 	- Hemos añadido algunas funcionalidades básicas del gremio, que se expandera pronto. Actualmente solo se puede acceder a él a través de comandos de chat.
 
 25 de Diciembre de 2023
-	- Los Ultras ahora deberían reaparecer el doble de rápido. Probabilidad de Súpers reducida a la mitad, por lo que debería resultar en aproximadamente la misma frecuencia que antes.
+	- Los Ultras ahora deberían reaparecer el doble de rápido. La probabilidad de Súpers ha sido reducida a la mitad, por lo que debería resultar en aproximadamente la misma frecuencia que antes.
 
 13 de Diciembre de 2023
 	- Los pétalos no pasivos ahora están desactivados en Centralia y Ellne para evitar lag.
 
 9 de Diciembre de 2023
-	- XP requerido para subir de nivel es ahora un número más redondo. Esto podría hacer que algunos jugadores ganen o pierdan niveles, ya que habrán sido recalculados.
+	- La experiencia requerida para subir de nivel es ahora un número más redondo. Esto podría hacer que algunos jugadores ganen o pierdan niveles, ya que habrán sido recalculados.
 
 8 de Diciembre de 2023
-	- Habilidades ahora se llaman Talentos.
-	- Talento de suerte añadido nuevamente.
-	- Los talentos ya no se pueden restablecer sacrificando niveles.
-	- Los talentos ahora se pueden restablecer de forma gratuita cada 30 días.
+	- Las Habilidades ahora se llaman Talentos.
+	- El Talento de Suerte ha sido reañadido.
+	- Los talentos ya no se pueden reiniciar sacrificando niveles.
+	- Los talentos ahora se pueden reiniciar de forma gratuita cada 30 días.
 
 2 de Diciembre de 2023
 	- Estamos ajustando los precios de algunos pétalos en la tienda para contabilizar adecuadamente su rareza. Por el momento, estamos estableciendo un 50% de descuento en todo.
 
 3 de Julio de 2023
-	- Ahora es más probable que los Súpers aparezcan para las criaturas cuyos ultras no se destruyen muy a menudo.
+	- Ahora es más probable que los Súpers aparezcan para las criaturas cuyos Ultras no se destruyen muy a menudo.
 
 27 de Junio de 2023
-	- Poco a poco estamos añadiendo movimientos especiales a cada criatura Ultra+. Hasta ahora, Tormenta de Arena y Concha tienen nuevos movimientos, y más por venir.
+	- Poco a poco estamos añadiendo movimientos especiales a cada criatura Ultra+. Por ahora, Tormenta de Arena y Concha tienen nuevos movimientos, y más por venir.
 
 9 de Mayo de 2023
 	- Curación incrementada en un 50% (ahora es alrededor del -25% desde antes del 1 de mayo).
 	- Los pétalos de curación Ultra/Súper y vida ahora escalan un poco menos.
 
 3 de Mayo de 2023
-	- Los Ultras ahora aparecen unas 10 veces más con más frecuencia, con una tasa de caída 3-4 veces menor.
+	- Los Ultras ahora aparecen unas 10 veces más con más frecuencia, con una tasa de botín 3-4 veces menor.
 
 1 de Mayo de 2023
-	- ¡El mapa ahora tiene un par de nuevas áreas para explorar! Todavía es un trabajo en progreso, algunas áreas más vendrán eventualmente.
+	- ¡El mapa ahora tiene un par de nuevas áreas para explorar! Todavía es un trabajo en progreso, algunas áreas más vendrán tarde o temprano.
 	- Toda la curación ha sido disminuida en un 50%.
-	- Algunos otros cambios que me olvide.
+	- Algunos otros cambios de los que me olvidao.
 
 17 de Marzo de 2023
-	- ¡PvP está de vuelta!
+	- ¡PvP ha vuelto!
 	- La entrada se encuentra en el lado este de Centralia.
-	- Las arenas se dividen en 3 dificultades: Común-Épica, Legendaria-Mítica, Ultra-Súper. Entrarás en la arena correspondiente al pétalo de rareza más alto que hayas equipado.
+	- Las arenas se dividen en 3 dificultades: Común-Épica, Legendaria-Mítica, Ultra-Súper. Entrarás en la arena correspondiente al pétalo de rareza más alto que tengas equipado.
 	- No puedes cambiar tu equipamiento dentro de la arena.
 
 3 de Marzo de 2023
-	- La aparición de Súper criaturas ahora se anuncian a todos los jugadores en todos los mapas de la región.
+	- La aparición de criaturas Súper ahora se anuncian a todos los jugadores en todos los mapas del reino.
 
 2 de Marzo de 2023
 	- Se agregó una nueva sección a Campos de Centralia.
 
 27 de Febrero de 2023
-	- Se agregó una nueva sección a Infierno de Hormigas.
+	- Se agregó una nueva sección al Infierno de Hormigas.
 
 22 de Febrero de 2023
-	- Las caídas ya no son las mismas para todos los jugadores que contribuyen a destruir una criatura. Ahora se lanzan al azar para cada jugador.
-	- Notamos un problema en el que el sistema de pago identificaba erróneamente el país del jugador, lo que llevó a la falta de procesamiento de algunos pagos. Hemos habilitado una opción para seleccionar el país de pago. Estamos trabajando con nuestro procesador de pagos para arreglarlo, por lo que debería identificarlo automáticamente pronto.
+	- El botín ya no es el mismo para todos los jugadores que contribuyen a destruir una criatura. Ahora se lanzan al azar para cada jugador.
+	- Notamos un problema en el que el sistema de pago identificaba erróneamente el país del jugador, lo que llevó al fracaso del procesamiento de algunos pagos. Hemos habilitado una opción para seleccionar el país de pago. Estamos trabajando con nuestro procesador de pagos para arreglarlo, por lo que debería identificarlo automáticamente pronto.
 
 20 de Febrero de 2023
-	- Se agregó una nueva sección a Infierno de Hormigas.
+	- Se agregó una nueva sección al Infierno de Hormigas.
 
 19 de Febrero de 2023
 	- Se agregaron dos criaturas a las Alcantarillas de Centralia.
 	- Se agregaron dos pétalos nuevos.
 
 14 de Febrero de 2023
-	- Las Ultra criaturas ahora tienen un 1% de posibilidades de generar como Súper criaturas, criaturas aún más poderosas con caídas posiblemente increíbles.
-	- El umbral de daño de las criaturas Ultra+ para recibir caídas se redujo del 5% al 1%. El número máximo de jugadores que pueden recibir caídas aumentó de 4 a 15.
-	- Yggdrasil ligeramente nerfeado, ahora cura menos al revivir.
-	- Se corrigió el Avispón que no recibía retroceso al disparar misiles.
+	- Las criaturas Ultra ahora tienen un 1% de posibilidades de generarse como criaturas Súper, criaturas aún más poderosas con botín posiblemente increíble.
+	- El umbral de daño de las criaturas Ultra+ para recibir botín se redujo del 5% al 1%. El número máximo de jugadores que pueden recibir botín aumentó de 4 a 15.
+	- Ligeramente nerfeado Yggdrasil, ahora cura menos al revivir.
+	- Se corrigió que los Avispones no recibiesen retroceso al disparar misiles.
 
 13 de Febrero de 2023
 	- Las cuentas que han comprado estrellas en la tienda premium ya no tienen que ver anuncios (pero aún así obtienen estrellas como si lo hicieran).
@@ -170,13 +173,13 @@
 10 de Febrero de 2023
 	- Se agregó una tienda premium. Ahora puedes apoyar el juego comprando pétalos usando estrellas, que puedes adquirir con dinero o viendo anuncios.
 	- Reequilibrado un par de pétalos.
-	- Cambió el costo de TP de muchos talentos.
-	- Cambió la recompensa de TP por nivel (ahora siempre es 1 por nivel).
+	- Cambió el costo de PT de muchos talentos.
+	- Cambió la recompensa de PT por nivel (ahora siempre es 1 por nivel).
 	- Añadido un par de nuevos talentos.
-	- La asignación de talento de todos se ha restablecido de forma gratuita.
+	- La asignación de talento de todos se ha reiniciado de forma gratuita.
 
 29 de Enero de 2023
-	- Hemos reequilibrado todas las criaturas y pétalos. La idea está en extender un poco el juego temprano, ya que era demasiado fácil obtener pétalos legendarios en la primera hora de juego.
+	- Hemos reequilibrado todas las criaturas y pétalos. La idea es extender un poco el juego temprano, ya que era demasiado fácil obtener pétalos legendarios en la primera hora de juego.
 
 28 de Enero de 2023
 	- Los apodos ahora son permanentes y únicos. Se te pedirá uno la primera vez que juegues.
@@ -187,66 +190,66 @@
 	- Cambió la forma en que se mueven los escarabajos.
 
 19 de Enero de 2023
-	- El juego finalmente tiene un mapa del mundo. Disfruta explorando y encontrando lugares interesantes.
-	- Tenga en cuenta que todavía es bastante pequeño, planeamos agregar más áreas pronto.
-	- Los equipos han sido deshabilitados por el momento, ya que requerirán un trabajo significativo para volver a funcionar.
+	- El juego por fin tiene un mapa del mundo. Disfruta explorando y encontrando lugares interesantes.
+	- Tén en cuenta que todavía es bastante pequeño, planeamos agregar más áreas pronto.
+	- Los equipos han sido deshabilitados por el momento, ya que requerirán un trabajo significante para volver a funcionar.
 
 2 de Enero de 2023
 	- Debido a la demanda popular, el cambio mencionado en el registro de cambios anterior se cambió a hoy.
-	- Estamos introduciendo una nueva rareza de pétalos: Súper.
+	- Presentamos una nueva rareza de pétalos: Súper.
 	- Hemos añadido un par de comandos para unirse/crear equipos mientras estás en el juego, escribe /help en el chat para obtener más información.
-	- Por defecto, un mensaje de chat solo lo ven las personas que te rodean. Para enviarlo a los miembros de tu equipo, independientemente de dónde se encuentren, anteponga /squad en el mensaje o presione TAB.
+	- Por defecto, un mensaje de chat solo lo ven las personas que te rodean. Para enviarlo a los miembros de tu equipo, independientemente de dónde se encuentren, antepón /squad en el mensaje o presiona TAB.
 
 1 de Enero de 2023
-	- Pétalos de invocador reactivados. Las criaturas invocadas ya no tienen colisión con otras criaturas del equipo. Las criaturas invocadas ahora causan daño de colisión a las criaturas no amigables con los equipos.
-	- Un área ahora puede quedarse temporalmente sin criaturas si se caza demasiado rápido.
-	- Fabricar Ultras se ha desactivado temporalmente. Los reelaboraremos para que se conviertan en una rareza permanente. Todavía se pueden usar los ultras existentes. El 3 de enero: cada 10 Ultras se convertirán en un Mítico. Luego, cualquier sobra será absorbida por 50k cada uno.
+	- Pétalos generadores reactivados. Las criaturas invocadas ya no tienen colisión con otras criaturas del equipo. Las criaturas generadas ahora causan daño de colisión a las criaturas generadas que no sean del equipo.
+	- Un área ahora puede quedarse temporalmente sin criaturas si se matan demasiado rápido.
+	- Fabricar Ultras se ha desactivado temporalmente. Los reharemos para que se conviertan en una rareza permanente. Todavía se pueden usar los Ultras existentes. El 3 de enero: cada 10 Ultras se convertirán en un Mítico. Luego, cualquier sobrante será absorbido por 50k de experiencia cada uno.
 	- Las criaturas de rareza superior ahora tienen cantidades variables de resistencia a la lentitud.
 
 30 de Diciembre de 2022
-	- El botín ahora se comparte entre los 4 jugadores que infligieron más daño a la criatura (siempre que causen al menos un 5% de daño). El daño del esquipo se cuenta en conjunto. Solo las flores dentro de una distancia de pantalla pueden recibir botín de una criatura.
+	- El botín ahora se comparte entre los 4 jugadores que infligieron más daño a la criatura (siempre que causen al menos un 5% de daño). El daño del equipo se cuenta en conjunto. Solo las flores dentro de una distancia de pantalla pueden recibir botín de una criatura.
 
 29 de Diciembre de 2022
-	- Como evento especial, ejecutaremos un modo de juego con el que algunos de ustedes podrían estar familiarizados. ¡Diviértete!
-	- Algunos pétalos de invocador están desactivados en el mapa principal de este modo (todavía se pueden usar dentro de los Agujeros de Hormigas). Desafortunadamente, esto es demasiado abusable.
+	- Como evento especial, ejecutaremos un modo de juego con el que algunos de vosotros podríais estar familiarizados. ¡Diviértete!
+	- Algunos pétalos generadores están desactivados en el mapa principal de este modo (todavía se pueden usar dentro de los Agujeros de Hormigas). Desafortunadamente, esto es demasiado abusable.
 
 28 de Diciembre de 2022
-	- Estamos experimentando con un ENORME reequilibrio de todo el juego. Hemos restablecido las oleadas de todos para esto. Por favor, tenga paciencia mientras ajustamos las cosas para que todo sea perfecto.
-	- La idea está aumentando la brecha entre las rarezas. De tal manera que si tienes pétalos inusuales, una criatura rara en realidad presenta un desafío mayor. Antes de esta actualización, realmente no había suficiente distinción entre las rarezas de la criaturas más bajas.
+	- Estamos experimentando con un ENORME reequilibrio de todo el juego. Hemos restablecido las oleadas de todos para esto. Por favor, tén paciencia mientras ajustamos las cosas para que todo sea perfecto.
+	- La idea es aumentar la brecha entre las rarezas. De tal manera que si tienes pétalos inusuales, una criatura rara presenta un desafío mayor. Antes de esta actualización, no había suficiente distinción entre las rarezas más bajas.
 
 26 de Diciembre de 2022
 	- Chat añadido.
-	- Números de daños añadidos, conmutables en la configuración (por defecto activados).
-	- Los valores de la información sobre herramientas de los pétalos ahora se actualizan correctamente para que coincidan con los valores después de tener en cuenta los talentos.
-	- Se agregaron más niveles de talento Médico.
-	- Se eliminó el talento de  suerte, cualquiera que lo poseyera ha sido reembolsado.
+	- Números de daños añadidos, activables y desactivables en la configuración (por defecto activados).
+	- Los valores de la información sobre los pétalos ahora se actualizan correctamente para que coincidan con los valores después de tener en cuenta los talentos.
+	- Se agregaron más niveles del talento Médico.
+	- Se eliminó el talento de Suerte, cualquiera que lo poseyera ha sido reembolsado.
 
 20 de Diciembre de 2022
-	- Hemos añadido una textura al desierto. Otros mapas pronto tendrán los suyos propios. ¡Mira el servidor de Discord para el concurso!
+	- Hemos añadido una textura al Desierto. Otros mapas pronto tendrán los suyos propios. ¡Mira el servidor de Discord para el concurso!
 
 11 de Diciembre de 2022
-	- Ahora es posible reembolsar todo tu PT, a un costo de 5 niveles.
+	- Ahora es posible reembolsar todos tus PH, a un costo de 5 niveles.
 
 10 de Diciembre de 2022
-	- Debido a algunos cambios en el árbol de talentos, hemos restablecido los talentos de todos y reembolsado todos los PT.
+	- Debido a algunos cambios en el árbol de habilidades, hemos restablecido los talentos de todos y reembolsado todos los PH.
 
 30 de Noviembre de 2022
 	- Los usuarios de móvil ahora pueden tocar y mantener un pétalo en la pantalla de fabricación para agregar muchos a la vez.
-	- Para hacer el juego un poco más fácil, los pétalos ahora se mueven hacia los enemigos dentro de un cierto alcance de ellos, lo que debería facilitar golpea los enemigos.
-	- Dado que muchas personas han gastado sus PT sin darse cuenta de lo permanentes que son, haremos una futura actualización (a finales de diciembre) en la que los jugadores pueden restablecer su asignación de PT una vez al año.
-	- Como recordatorio, añadiremos más cosas en las que gastar PT a medida que pase el tiempo.
+	- Para hacer el juego un poco más fácil, los pétalos ahora se mueven hacia los enemigos dentro de un cierto alcance de ellos, lo que debería facilitar golpear los enemigos.
+	- Dado que muchas personas han gastado sus PH sin darse cuenta de lo permanentes que son, haremos una futura actualización (a finales de Diciembre) en la que los jugadores pueden restablecer su asignación de PH una vez al año.
+	- Como recordatorio, añadiremos más cosas en las que gastar PH a medida que pase el tiempo.
 
 29 de Noviembre de 2022
-	- La tan esperada actualización de talentos está aquí.
+	- La tan esperada actualización de habilidades está aquí.
 	- Matar criaturas ya no otorga XP. Hemos restablecido los niveles de todos a 1, ya que esta actualización cambia significativamente la forma en que se adquieren los niveles.
 	- Los pétalos ahora se pueden absorber para ganar XP.
-	- Avanzar los niveles proporciona PT, que se puede usar para mejorar los talentos.
-	- Los talentos tienen un efecto permanente en tu flor. Una vez actualizados, se desbloquean para siempre. No hay manera de deshacer el PT gastado en talentos.
-	- Podemos cambiar la fórmula de XP requerida en cada nivel. Si es así, ajustaremos los niveles de todos para que coincidan con la nueva fórmula (y otorgaremos o revocaremos cualquier PT).
+	- Subir de nivel proporciona PH, que se pueden usar para mejorar las habilidades.
+	- Las habilidades tienen un efecto permanente en tu flor. Una vez activados, se desbloquean para siempre. No hay manera de deshacer los PH gastados en talentos.
+	- Podríamos cambiar la fórmula de XP requerida en cada nivel. Si es así, ajustaremos los niveles de todos para que coincidan con la nueva fórmula (y otorgaremos o revocaremos cualquier PH).
 	- El límite de nivel se ha elevado a 200.
 
 15 de Noviembre de 2022
-	- Vida de los Avispónes reducida.
+	- Vida de los Avispones reducida.
 
 6 de Noviembre de 2022
 	- Número de criaturas ajustado en cada ola.
@@ -257,169 +260,161 @@
 
 4 de Noviembre de 2022
 	- El mapa ahora escala en función de las criaturas contenidas en su interior, esto debería evitar aglomeraciones en las oleadas tardías del juego.
-	- La receta de Ultra pétalos ha cambiado.
-
-Ahora crea 50 Ultras de 5 Míticos.
-
+	- La receta de pétalos Ultra ha cambiado.
+	  Ahora crea 50 Ultras con 5 Míticos.
 3 de Noviembre de 2022
 	- La receta de Ultra pétalos ha cambiado.
-
-Ahora crea 3 Ultras de 1 Mítico.
-	  Ya no vuelve a ser Mítico en uso, simplemente se pierde para siempre.
-
-Los Ultras no utilizados antes de esta actualización se han convertido de nuevo a 2 Míticos (receta antigua).
-
+	 Ahora crea 3 Ultras con 1 Mítico.
+	  Ya no vuelve a ser Mítico al usarse, simplemente se pierde para siempre.
+	  Los Ultras no utilizados antes de esta actualización se han convertido de nuevo a 2 Míticos (receta antigua).
 2 de Noviembre de 2022
-	- Añadido Ultra pétalos.
-
-Puedes combinar 2 Míticos para formar un Ultra.
-	  Los Ultra pétalos son varias veces más fuertes que los Míticos, pero solo duran una partida.
-
-Después de una partida, volverán a 1 Mítico (el otro está perdido).
-
+	- Añadidos pétalos Ultra.
+	 Puedes combinar 2 Míticos para formar un Ultra.
+	 Los pétalos Ultra son varias veces más fuertes que los Míticos, pero solo duran una partida.
+	 Después de una partida, volverán a ser 1 Mítico (el otro está perdido).
 20 de Octubre de 2022
-	- Pseudo-RNG system has been removed from crafting. Now it's back to truly random with no increasing odds. If you have any failed attempts on a specific petal, it'll keep using the old system until you succeed (so you don't lose increased odds you already accumulated).
+	- El sistema de pseudo-RNG ha sido eliminado de la fabricación. Ahora es completamente aleatorio sin incremento de probabilidades, otra vez. Si ya tenías intentos fallidos en un pétalo, seguirá usando el sistema viejo hasta que tengas éxito (para que no pierdas las probabilidades aumentadas que tengas acumuladas).
 
 11 de Octubre de 2022
-	- Added Apple ID login. Note that it doesn't merge Apple ID accounts with Discord accounts. If you already logged in using Discord, keep using that to login. This addition is intended to make it easier for those that don't have a Discord account to keep their progress.
+	- Añadida la posibilidad de vincular una cuenta de Apple ID. Cabe resaltar que no mezclará la cuenta con las de Discord. Si ya habías vinculado una cuenta de Discord, sigue usando eso para iniciar sesión. Este cambio tiene como objetivo hacer que sea más fácil mantener el progreso para los que no tengan cuenta de Discord.
 
 13 de Septiembre de 2022
-	- PvP now has higher rarity mobs (equivalent to wave 18 or so in PvE).
-	- PvP now has a scoreboard again.
-	- Killing players in PvP now awards Basic petals, rarity depends on how many points they have.
-	- PvP map size changes based on how many players are in game.
-	- Magnets no longer increase pick up range in PvP.
+	- PvP ahora tiene criaturas de rarezas más altas (equivalente a la oleada 18 más o menos en PvE).
+	- PvP vuelve a tener marcadores.
+	- Matar jugadores en PvP ahora te recompensa con Básicos, cuya rareza depende en cuantos puntos tenga.
+	- El tamaño del mapa de PvP cambia en función de cuantos jugadores haya.
+	- Los Imanes ya no incrementan el alcance de recogida en PvP.
 
 12 de Septiembre de 2022
-	- Added extra stats in mob gallery.
+	- Añadidas estadísticas extra en la glaería de criaturas.
 
 6 de Septiembre de 2022
-	- Since wave difficulty was changed significantly, we're resetting everyone's highest wave beaten back to 0.
-	- Special wave chance is now 15%.
+	- Ya que la dificultad de las oleadas ha cambiado significativamente, vamos a reiniciar la oleada más alta superada por todos los jugadores a 0.
+	- La probabilidad de una oleada especial es del 15% ahora.
 
 5 de Septiembre de 2022
-	- Leeches now share their health among all segments.
-	- Special single-mob waves are no longer on specific waves, but can occur randomly on any wave.
-	- Changed how initial wave is calculated for a squad, allowing higher initial waves.
-	- Drop rate has been slightly reduced to compensate.
-	- When joining a public squad, players will always be placed on the highest-wave game currently available to them.
+	- Las Sanguijuelas ahora comparten la misma vida en todos sus segmentos.
+	- Las oleadas especiales de una criatura ya no ocurren en oleadas específicas, sino que pueden pasar aleatoriamente en cualquier oleada.
+	- Cambiado el cálculo de la oleada inicial para un equipo, permitiendo oleadas iniciales más altas.
+	- La tasa de botín ha sido reducida un poco para compensar.
+	- Al unirse a un equipo público, los jugadores serán puestos en la partida con la oleada más alta disponibles para ellos.
 
 1 de Septiembre de 2022
-	- Increased mythic craft chance to 3%.
+	- Aumentada la probabilidad de fabricar un Mítico al 3%.
 
 31 de Agosto de 2022
-	- Peas have been split into Peas and Grapes. Existing Peas have been turned into Grapes.
+	- Los Guisantes han sido divididos en Guisantes y Uvas. Los Guisantes existentes han sido convertidos en Uvas.
 
 30 de Agosto de 2022
-	- Reworked several mythic petals.
-	- Leaf can now heal friendly mobs.
+	- Rehechos varios pétalos Míticos.
+	- Hoja ahora puede curar a las criaturas amigas.
 
 29 de Agosto de 2022
-	- Added a wave bar.
-	- We have started banning people for using any sort of scripts. A ban is permanent and will result in loss of all progress.
+	- Añadida una barra de progreso en las oleadas.
+	- Hemos empezado a banear jugadores por usar cualquier tipo de script. Un baneo es permanente y resultará en la pérdida de todo el progreso. 
 
 28 de Agosto de 2022
-	- Added an autocraft button at the bottom of the crafting menu. It will automatically preserve your rarest petals so it is always safe to use.
+	- Añadido un botón de autofabricación al fondo del menú de fabricación. Preservará automáticamente tus pétalos de mayor rareza, por lo que siempre es seguro de usar.
 
 26 de Agosto de 2022
-	- A lot of changes were made in the past week but we were too lazy to put them in the changelog.
-	- Added an AFK timer in public squads.
+	- Han ocurrido muchos cambios en la última semana pero fuimos demasiado vagos para ponerlos en el registro de cambios.
+	- Añadido un temporizador de AFK en los equipos públicos.
 
 18 de Agosto de 2022
-	- Ant holes now have a timer so players can't afk inside.
+	- Los agujeros de hormigas tienen un temporizador ahora, de modo que los jugadores no puedan quedarse AFK dentro.
 
 17 de Agosto de 2022
-	- Decreased drop chance of higher rarities a bit.
-	- Increased craft chances for higher rarities.
+	- Disminuidas las tasas de botín de las rarezas superiores un poco.
+	- Aumentadas las probabilidades de fabricación de las rarezas superiores.
 
 16 de Agosto de 2022
-	- Players can now start on wave 11.
-	- Mobs can now only drop petals of at most their own rarity.
-	- Tweaked petal drop rate to compensate.
-	- Craft chances have been changed.
-	- Rare rarity color is now a bit more blue.
+	- Los jugadores ahora pueden empezar en la oleada 11.
+	- Las criaturas ahora solo podrán dar pétalos de su propia rareza como máximo.
+	- Ajustadas las tasas de botín para compensar.
+	- Las probabilidades de fabricación han sido ajustadas.
+	- El color de la rareza Rara ahora es un poco más azul.
 
 10 de Agosto de 2022
-	- Added a deadzone around the middle of the screen so mouse users can keep their flower still.
+	- Añadida una zona muerta en el centro de la pantalla para que los usuarios de ratón puedan quedarse quietos.
 
 9 de Agosto de 2022
-	- Added a craft all button to mobile (still not fully supported, but this will fix a pain point).
-	- Added a minimal wave display setting that won't display mobs in the wave ui.
+	- Añadido un botón de fabricar todo en móvil (Aún no está acabado, pero le hará la vida más fácil a los jugadores de móvil).
+	- Añadido un ajuste mínimo de interfaz de usuario que no mostrará las criaturas en la interfaz de oleadas.
 
 7 de Agosto de 2022
-	- Rebalanced a lot of petals. They're now separated in offensive and defensive types, which changes how their damage and health scales.
-	- Fixed poison deaths being mislabeled.
+	- Reequilibrados muchos pétalos. Ahora están separados en pétalos de ataque y defensa, que cambia la manera en la que escala su daño y vida.
+	- Arreglado que las muertes por veneno no sean acreditadas correctamente.
 
 5 de Agosto de 2022
-	- Players will now join existing public games automatically as long as they've beaten the wave the squad is at.
+	- Los jugadores ahora se unirán a los equipos públicos automáticamente siempre y cuando hayan superado la oleada a la que esté el equipo.
 
 4 de Agosto de 2022
-	- Rebalanced late game waves. They're now significantly shorter than before.
-	- Reworked Lightning petal.
+	- Reequilibradas las oleadas tardías. Ahora son mucho más cortas que antes.
+	- Rehecho el pétalo Relámpago.
 
 2 de Agosto de 2022
-	- We will now rotate between PvE scenarios every 24 hours.
+	- Vamos a rotar entre los escenarios PvE cada 24 horas.
 
 1 de Agosto de 2022
-	- Added Mob Gallery. It keeps track of every mob you have defeated.
+	- Añadida la galería de criaturas. Mostrará todas las criaturas que hayas derrotado.
 
 30 de Julio de 2022
-	- Reduced Lightning petal range.
-	- Cactus no longer turns poisonous at higher rarity, more health instead.
+	- Reducido el rango del pétalo Relámpago.
+	- Cactus ya no se vuelve venenoso a rarezas altas, da más vida en su lugar.
 
 29 de Julio de 2022
-	- Ocean released. It'll replace Desert for a couple of days then we'll alternate between them every day or so.
+	- Añadido Océano. Reemplazará Desierto por unos cuantos días y entonces haremos que se turnen cada día o algo así.
 
 25 de Julio de 2022
-	- Scientists have now discovered the map is a circle, rather than a square, as previously thought.
-	- Adjusted mobs in each wave.
-	- Added setting to hide lower rarity drops. You can still pick them up, you just won't be able to see them. This is a workaround until we optimize them so they won't lag the game.
+	- Los científicos han descubierto que el mapa es un círclo, no un cuadrado, como se solía pensar.
+	- Ajustadas las criaturas en cada oleada.
+	- Añadida una opción para ocultar el botín de rarezas bajas. Todavía lo podrás recoger, pero no lo verás. Esto es un rodeo hasta que lo optimicemos para que no ralentice el juego.
 
 24 de Julio de 2022
-	- Web no longer stacks, slow increased to -75%.
+	- Los efectos de Telaraña ya no se apilan, su ralentizamiento es del 75% ahora.
 
 22 de Julio de 2022
-	- Web rarity now affects radius rather than duration.
+	- La rareza de Telaraña afecta a su radio en lugar de su duración.
 
 21 de Julio de 2022
-	- Squads will now start at a higher wave that partially depends on the best wave each squad member has beaten.
-	- Balance and stuff.
+	- Los equipos ahora empezarán en una oleada superior que en parte dependerá de la oleada más alta superada por cada miembro del equipo.
+	- Equilibro y demás.
 
 20 de Julio de 2022
-	- Increased base poison damage rate to 15/s (from 9/s).
-	- Increased mythic craft chance to 2%. This might or might not be temporary.
-	- Magnet no longer stacks with itself.
+	- Aumentada la tasa base de veneno a 15/s (desde 9/s).
+	- Aumentadas las probabilidades de fabricar un Mítico al 2%. Esto puede o no ser temporal.
+	- Los efectos de Imán ya no se apilan consigo mismo.
 
 19 de Julio de 2022
-	- Crafting now uses a pseudo random distribution that increases success rate on each failure until a successful craft.
-	- Nominal craft chances on the long run are still the same. It will not show the calculated craft chance for each attempt.
-	- For example, a 75% craft chance means that 66.6% of the time it'll succeed on the first attempt, and 100% of the time on the second attempt.
+	- La fabricación ahora usa una distribución pseudo-aleatoria que aumenta las probabilidades del éxito entre más fracasos tengas hasta el éxito.
+	- Las probabilidades de fabricación nominal son iguales a largo plazo. No mostrará las probabilidades de éxito calculadas por cada intento.
+	- Por ejemplo, una probabilidad de éxito del 75% significa que en el 66.6% de los casos tendrá éxito en el primero intento, y en el 100% de los casos en el segundo.
 
 18 de Julio de 2022
-	- Released PvP.
-	- Salt now stacks with itself. Reflected damage is reduced by 75% against flowers.
-	- Web movement speed debuff changed from -75% to -50%.
+	- Añadido PvP.
+	- Los efectos de Sal ahora se apilan consigo mismos. El daño reflejado es reducido en un 75% contra las flores.
+	- La ralentización de Telaraña ha sido cambiada del 75% al 50%.
 
 16 de Julio de 2022
-	- Next wave will now start once current wave has 4 or fewer mobs alive.
-	- Mob aggro range now constantly increases while they're alive.
-	- Rarer mobs now give more experience as intended.
-	- Level experience requirements have been increased to compensate.
+	- La siguiente oleada empezará una vez que la oleada actual tenga 4 o menos criaturas vivas.
+	- El rango de agresión de las criaturas ahora aumentará a medida que estén vivas.
+	- Las criaturas de rarezas superiores ahora darán más experiencia, como era intencionado.
+	- Los requerimientos de experiencia para subir de nivel han sido ajustados para compensar.
 
 15 de Julio de 2022
-	- Released Desert scenario.
+	- Añadido el escenario de Desierto.
 
 14 de Julio de 2022
-	- In-game inventory management has been simplified, now it is only possible to swap the primary and secondary petal for each slot.
+	- El uso del inventario en una partida ha sido simplificado, ahora únicamente se podrá cambiar el pétalo primario y secundario para cada ranura.
 
 13 de Julio de 2022
-	- Ant holes can now be of higher rarities again, but only the queen will be above Rare.
-	- Petals now have a Mythic rarity. It does not drop from mobs, only available via crafting.
+	- Los agujeros de hormigas ahora pueden tener rarezas superiores otra vez, pero solo la reina se generará con una rareza superior a Rara.
+	- Los pétalos ahora tienen una rareza Mítica. No se puede obtener de las criaturas, y solo se puede obtener por medio de la fabricación.
 
 12 de Julio de 2022
-	- Mobs can now only drop petals up to 1 rarity level above themselves.
-	- Ant holes can no longer have a rarity higher than Rare.
-	- Added Craft All button, hold SHIFT before clicking the Craft button.
+	- Las criaturas ahora solo podrán dar botín una rareza más alta que el de ella misma.
+	- Los agujeros de hormigas ya no pueden tener rarezas superiores a Raro.
+	- Añadido un botón de fabricar todo, mantén SHIFT antes de hacer clic en el botón de fabricar.
 
 11 de Julio de 2022
-	- The game has been re-released. It's nothing like it was before, so might as well clear this changelog too :)
+	- El juego ha sido re-sacado. No se parece en nada a lo que era, asi que por qué no borrar el registro de cambios :)

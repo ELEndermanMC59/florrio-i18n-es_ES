@@ -148,7 +148,7 @@
 	- Se agregó una nueva sección al Infierno de Hormigas.
 
 22 de Febrero de 2023
-	- El botín ya no es el mismo para todos los jugadores que contribuyen a destruir una criatura. Ahora se lanzan al azar para cada jugador.
+	- El botín ya no es el mismo para todos los jugadores que contribuyen a destruir una criatura. Ahora es distinto al azar para cada jugador.
 	- Notamos un problema en el que el sistema de pago identificaba erróneamente el país del jugador, lo que llevó al fracaso del procesamiento de algunos pagos. Hemos habilitado una opción para seleccionar el país de pago. Estamos trabajando con nuestro procesador de pagos para arreglarlo, por lo que debería identificarlo automáticamente pronto.
 
 20 de Febrero de 2023
@@ -173,9 +173,9 @@
 10 de Febrero de 2023
 	- Se agregó una tienda premium. Ahora puedes apoyar el juego comprando pétalos usando estrellas, que puedes adquirir con dinero o viendo anuncios.
 	- Reequilibrado un par de pétalos.
-	- Cambió el costo de PT de muchos talentos.
-	- Cambió la recompensa de PT por nivel (ahora siempre es 1 por nivel).
-	- Añadido un par de nuevos talentos.
+	- Cambió el costo de PH de muchos talentos.
+	- Cambió la recompensa de PH por nivel (ahora siempre es 1 por nivel).
+	- Añadido un par de nuevas habilidades.
 	- La asignación de talento de todos se ha reiniciado de forma gratuita.
 
 29 de Enero de 2023

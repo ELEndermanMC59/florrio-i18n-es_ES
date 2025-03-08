@@ -62,7 +62,7 @@ Petal/Attribute/Contents1=<c val="{#Colors/generic}">Contenido:</c> {#Mobs/{1:ba
 Petal/Attribute/ContentsN=<c val="{#Colors/generic}">Contenidos:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/Female/NameColored})
 Petal/Attribute/ExtraVision=<c val="{#Colors/generic}">Visión Adicional:</c> {0:perc}%
 Petal/Attribute/Radius=<c val="{#Colors/generic}">Radio:</c> {0:tooltip}
-Petal/Attribute/MaxMobRarity=<c val="{#Colors/generic}">Rareza máxima de Criatura:</c> {#Rarities/{0}/Female/NameColored}
+Petal/Attribute/MaxMobRarity=<c val="{#Colors/generic}">Rareza Máxima de Criatura:</c> {#Rarities/{0}/Female/NameColored}
 Petal/Attribute/DamageReflection=<c val="{#Colors/reflection}">Reflexión de Daño:</c> {0:perc}% (vs criaturas {#Rarities/{2}/Female/NameColored}), {1:perc}% (vs flores)
 Petal/Attribute/PickUpRange=<c val="{#Colors/generic}">Rango de Recogida:</c> +{0:tooltip}
 Petal/Attribute/Lightning=<c val="{#Colors/lightning}">Relámpago:</c> {0:tooltip}

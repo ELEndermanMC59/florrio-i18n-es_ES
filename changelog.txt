@@ -173,9 +173,9 @@
 10 de Febrero de 2023
 	- Se agregó una tienda premium. Ahora puedes apoyar el juego comprando pétalos usando estrellas, que puedes adquirir con dinero o viendo anuncios.
 	- Reequilibrado un par de pétalos.
-	- Cambió el costo de PH de muchos talentos.
-	- Cambió la recompensa de PH por nivel (ahora siempre es 1 por nivel).
-	- Añadido un par de nuevas habilidades.
+	- Cambió el costo de PT de muchos talentos.
+	- Cambió la recompensa de PT por nivel (ahora siempre es 1 por nivel).
+	- Añadido un par de nuevos talentos.
 	- La asignación de talento de todos se ha reiniciado de forma gratuita.
 
 29 de Enero de 2023
@@ -228,24 +228,24 @@
 	- Hemos añadido una textura al Desierto. Otros mapas pronto tendrán los suyos propios. ¡Mira el servidor de Discord para el concurso!
 
 11 de Diciembre de 2022
-	- Ahora es posible reembolsar todos tus PH, a un costo de 5 niveles.
+	- Ahora es posible reembolsar todos tus PT, a un costo de 5 niveles.
 
 10 de Diciembre de 2022
-	- Debido a algunos cambios en el árbol de habilidades, hemos restablecido los talentos de todos y reembolsado todos los PH.
+	- Debido a algunos cambios en el árbol de habilidades, hemos restablecido los talentos de todos y reembolsado todos los PT.
 
 30 de Noviembre de 2022
 	- Los usuarios de móvil ahora pueden tocar y mantener un pétalo en la pantalla de fabricación para agregar muchos a la vez.
 	- Para hacer el juego un poco más fácil, los pétalos ahora se mueven hacia los enemigos dentro de un cierto alcance de ellos, lo que debería facilitar golpear los enemigos.
-	- Dado que muchas personas han gastado sus PH sin darse cuenta de lo permanentes que son, haremos una futura actualización (a finales de Diciembre) en la que los jugadores pueden restablecer su asignación de PH una vez al año.
-	- Como recordatorio, añadiremos más cosas en las que gastar PH a medida que pase el tiempo.
+	- Dado que muchas personas han gastado sus PT sin darse cuenta de lo permanentes que son, haremos una futura actualización (a finales de Diciembre) en la que los jugadores pueden restablecer su asignación de PT una vez al año.
+	- Como recordatorio, añadiremos más cosas en las que gastar PT a medida que pase el tiempo.
 
 29 de Noviembre de 2022
-	- La tan esperada actualización de habilidades está aquí.
+	- La tan esperada actualización de talentos está aquí.
 	- Matar criaturas ya no otorga XP. Hemos restablecido los niveles de todos a 1, ya que esta actualización cambia significativamente la forma en que se adquieren los niveles.
 	- Los pétalos ahora se pueden absorber para ganar XP.
-	- Subir de nivel proporciona PH, que se pueden usar para mejorar las habilidades.
-	- Las habilidades tienen un efecto permanente en tu flor. Una vez activados, se desbloquean para siempre. No hay manera de deshacer los PH gastados en talentos.
-	- Podríamos cambiar la fórmula de XP requerida en cada nivel. Si es así, ajustaremos los niveles de todos para que coincidan con la nueva fórmula (y otorgaremos o revocaremos cualquier PH).
+	- Subir de nivel proporciona PT, que se pueden usar para mejorar los talentos.
+	- Las habilidades tienen un efecto permanente en tu flor. Una vez activados, se desbloquean para siempre. No hay manera de deshacer los PT gastados en talentos.
+	- Podríamos cambiar la fórmula de XP requerida en cada nivel. Si es así, ajustaremos los niveles de todos para que coincidan con la nueva fórmula (y otorgaremos o revocaremos cualquier PT).
 	- El límite de nivel se ha elevado a 200.
 
 15 de Noviembre de 2022
@@ -286,7 +286,7 @@
 	- Los Imanes ya no incrementan el alcance de recogida en PvP.
 
 12 de Septiembre de 2022
-	- Añadidas estadísticas extra en la glaería de criaturas.
+	- Añadidas estadísticas extra en la galería de criaturas.
 
 6 de Septiembre de 2022
 	- Ya que la dificultad de las oleadas ha cambiado significativamente, vamos a reiniciar la oleada más alta superada por todos los jugadores a 0.

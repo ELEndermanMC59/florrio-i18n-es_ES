@@ -93,7 +93,7 @@ Mobs/scorpion/Description=¡PICA!
 Mobs/scorpion/Gender=Male
 
 Mobs/fire_ant_soldier/Name=Hormiga de Fuego Soldado
-Mobs/fire_ant_soldier/Description=Esta hormiga está en fuegoooooooooooooo.
+Mobs/fire_ant_soldier/Description=Esta hormiga está on fireeeeeeeeeeeeee.
 Mobs/fire_ant_soldier/Gender=Female
 
 Mobs/fire_ant_burrow/Name=Madriguera de Hormigas de Fuego
@@ -151,15 +151,15 @@ Mobs/dandelion/Description=Hinchado.
 Mobs/dandelion/Gender=Male
 
 Mobs/fire_ant_baby/Name=Hormiga de Fuego Bebé
-Mobs/fire_ant_baby/Description=Esta hormiga está en fuegoooooooooooooo.
+Mobs/fire_ant_baby/Description=Esta hormiga está on fireeeeeeeeeeeeee.
 Mobs/fire_ant_baby/Gender=Female
 
 Mobs/fire_ant_worker/Name=Hormiga de Fuego Obrera
-Mobs/fire_ant_worker/Description=Esta hormiga está en fuegoooooooooooooo.
+Mobs/fire_ant_worker/Description=Esta hormiga está on fireeeeeeeeeeeeee.
 Mobs/fire_ant_worker/Gender=Female
 
 Mobs/fire_ant_queen/Name=Hormiga de Fuego Reina
-Mobs/fire_ant_queen/Description=Esta hormiga está en fuegoooooooooooooo.
+Mobs/fire_ant_queen/Description=Esta hormiga está on fireeeeeeeeeeeeee.
 Mobs/fire_ant_queen/Gender=Female
 
 Mobs/ant_egg/Name=Huevo de Hormiga
@@ -167,7 +167,7 @@ Mobs/ant_egg/Description=Todavía no es una hormiga, pero tal vez pronto.
 Mobs/ant_egg/Gender=Male
 
 Mobs/fire_ant_egg/Name=Huevo de Hormiga de Fuego
-Mobs/fire_ant_egg/Description=Esta hormiga aún no está en fuego.
+Mobs/fire_ant_egg/Description=Esta hormiga aún no está on fire.
 Mobs/fire_ant_egg/Gender=Male
 
 Mobs/fly/Name=Mosca

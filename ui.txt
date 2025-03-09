@@ -50,7 +50,7 @@ UI/AbandonGame=Abandonar partida
 UI/Reconnecting=Conexión perdida, reconectando...
 
 UI/LevelBar/Level=Nivel {0}
-UI/LevelBar/LevelLong=Flor nivel {0}
+UI/LevelBar/LevelLong=Flor Nivel {0}
 UI/LevelBar/XP={0}/{1} XP
 
 UI/Scoreboard/Title={#UI/Scoreboard/Title/{0:1orN}}
@@ -93,7 +93,7 @@ UI/Achievements/Reward=Recompensa
 UI/Achievements/RewardTP={0} PT
 UI/Achievements/Done=Completado
 UI/Achievements/Track=Seguir
-UI/Achievements/TrackAutomatically=Seguir automaticamente
+UI/Achievements/TrackAutomatically=Seguir automáticamente
 UI/Achievements/Hidden=???
 UI/Achievements/TotalProgress={0}/{1} Completado
 UI/Achievements/UnlockedNotification={#UI/Achievements/UnlockedNotification/{0:1orN}}
@@ -108,7 +108,7 @@ UI/Changelog/Bottom=Registro de cambios más antiguos no disponibles
 UI/Inventory/Title=Inventario
 UI/Inventory/Stack=Apilar
 UI/Inventory/Instructions=Arrastra un pétalo para equiparlo
-UI/Inventory/Speed=Velocidad
+UI/Inventory/Speed=Vel.
 UI/Inventory/Rarity={#UI/Petal/Rarity}
 
 UI/Guild/Title=Gremio
@@ -249,8 +249,8 @@ UI/UniqueCraft/Instructions=Los pétalos Únicos durarán hasta que otro jugador
 UI/UniqueCraft/NoSupers=No tienes ningún pétalo Súper para intentar esto.
 
 UI/AssemblerCraft/Title=Montador
-UI/AssemblerCraft/Button=Montar
-UI/AssemblerCraft/Instructions=Combina pétalos específicos para montar un pétalo nuevo.
+UI/AssemblerCraft/Button=Armar
+UI/AssemblerCraft/Instructions=Combina pétalos específicos para armar un pétalo nuevo.
 
 UI/Death/Poison=Veneno
 

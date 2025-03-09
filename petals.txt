@@ -472,11 +472,11 @@ Petals/glass/Name=Cristal
 Petals/glass/FullName=Cristal
 Petals/glass/Gender=Male
 Petals/glass/Number=Singular
-Petals/glass/Description=Va a través de los enemigos.<n/>No puede dañar a los enemigos más a menudo que un cierto intervalo.
+Petals/glass/Description=Va a través de los enemigos.<n/>No puede dañar a cada enemigo más a menudo que un cierto intervalo.
 
 Petals/corruption/Name=Corrupción
 Petals/corruption/FullName=Corrupción
-Petals/corruption/Gender=Male
+Petals/corruption/Gender=Female
 Petals/corruption/Number=Singular
 Petals/corruption/Description=Corrompe el alma de uno, volviéndolo en contra de su propia especie.
 

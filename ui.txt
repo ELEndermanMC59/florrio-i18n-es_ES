@@ -63,7 +63,7 @@ UI/Chat/PromptClick=Haz clic aquí para chatear
 UI/Chat/PromptKeyboardOrClick=Presiona [ENTER] o haz clic aquí para chatear
 UI/Chat/Player/Block=Bloquear
 UI/Chat/Player/ReportMessage=Reportar mensaje
-UI/Chat/Player/Whisper=Susurro
+UI/Chat/Player/Whisper=Susurrar
 UI/Chat/Player/InviteToSquad=Invitar al equipo
 UI/Chat/Player/InviteToGuild=Invitar al gremio
 

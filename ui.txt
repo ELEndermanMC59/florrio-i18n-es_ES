@@ -1,6 +1,6 @@
 UI/Language/Name=Español
 # These are the translators that worked on this translation. Separate with <n/>
-UI/Language/Credits=ELEndermanMC<n/>Fireplant<n/>90210
+UI/Language/Credits=ELEndermanMC<n/>Fireplant
 
 UI/Title/Loading=Cargando...
 UI/Title/Connecting=Conectándose...
@@ -17,7 +17,7 @@ UI/Title/Name/Rules4=Este nombre es permanente y no se puede cambiar más adelan
 UI/Title/Name/Button=OK
 UI/Title/Name/Bad=Tu apodo fue restablecido, por favor elige uno nuevo.
 UI/Title/Name/AlreadyTaken=Apodo ya en uso.
-UI/Title/Name/InternalError=Error interno, intentalo mas tarde.
+UI/Title/Name/InternalError=Error interno, inténtalo más tarde.
 
 UI/Title/Biome={#UI/Title/Biome/{0}}
 UI/Title/Biome/0=Jardín

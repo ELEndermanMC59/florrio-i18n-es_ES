@@ -424,7 +424,7 @@ Petals/compass/Name=Brújula
 Petals/compass/FullName=Brújula
 Petals/compass/Gender=Female
 Petals/compass/Number=Singular
-Petals/compass/Description=Esta cosa podría ser capaz de encontrar algo interesante...
+Petals/compass/Description=Esta chatarra podría ser capaz de encontrar algo interesante...
 
 Petals/disc/Name=Disco
 Petals/disc/FullName=Disco

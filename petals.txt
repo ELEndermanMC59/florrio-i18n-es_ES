@@ -88,7 +88,7 @@ Petals/dandelion/Name=Diente León
 Petals/dandelion/FullName=Diente de León
 Petals/dandelion/Gender=Male
 Petals/dandelion/Number=Singular
-Petals/dandelion/Description=Sus interesantes propiedades inhiben los efectos curativos en las unidades afectadas.<n/>Las unidades afectadas tienen su curación reducida en un 20%. Se acumula consigo mismo.
+Petals/dandelion/Description=Sus propiedades interesantes inhiben los efectos curativos en las unidades afectadas.<n/>Las unidades afectadas tienen su curación reducida en un 20%. Se acumula consigo mismo.
 
 Petals/beetle_egg/Name=Huevo
 Petals/beetle_egg/FullName=Huevo de Escarabajo

@@ -257,7 +257,7 @@ Talents/concentrated_poison/Name=Veneno Concentrado
 Talents/concentrated_poison/Description=Incrementa el daño de {#Attribute/PoisonNoColon} por segundo en un {0:perc}%.<n/>Disminuye la duración del {#Attribute/PoisonNoColon} en un {1:perc}%.
 
 Talents/duplicator/Name=Duplicador
-Talents/duplicator/Description=Agrega una copia adicional para los pétalos que tienen al menos {0:tooltip} copias.
+Talents/duplicator/Description=Agrega una partícula adicional a los pétalos que tienen al menos {0:tooltip} partículas.
 
 Talents/antennae1/Name=Antenas
 Talents/antennae1/Description=Incrementa el rango de visión en un {0:perc}%.
